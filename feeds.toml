@@ -1,0 +1,39 @@
+[main]
+title = "SNU 팩트체크 ─ 네이버 뉴스"
+url = "https://m.news.naver.com/factcheck/main"
+entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
+titleSelector = "p[class='factcheck_subject_summary']"
+linkSelector = "p[class='factcheck_subject_summary'] a"
+contentSelector = "div[class^='factcheck_source_rating is']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[vaccine]
+title = "SNU 팩트체크 ─ 네이버 뉴스 ─ 백신"
+url = "https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0"
+entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
+titleSelector = "p[class='factcheck_subject_summary']"
+linkSelector = "p[class='factcheck_subject_summary'] a"
+contentSelector = "div[class^='factcheck_source_rating is']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[covid19]
+title = "SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19"
+url = "https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4"
+entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
+titleSelector = "p[class='factcheck_subject_summary']"
+linkSelector = "p[class='factcheck_subject_summary'] a"
+contentSelector = "div[class^='factcheck_source_rating is']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[presidential-election]
+title = "SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선"
+url = "https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0"
+entrySelector = "div.factcheck_list div.factcheck_item._factcheck_item"
+titleSelector = "p[class='factcheck_subject_summary']"
+linkSelector = "p[class='factcheck_subject_summary'] a"
+contentSelector = "div[class^='factcheck_source_rating is']"
+waitUntil = "networkidle"
+onFail = "stale"
