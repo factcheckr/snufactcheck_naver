@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-02T07:15:09.158Z</updated>
+    <updated>2022-03-02T08:19:22.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文정부가 朴정부보다 예산 500조원 더 썼다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3837</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3837"/>
+        <updated>2022-03-02T08:19:01.995Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당 혼자서는 기초의원 2인 선거구제 개선 못 한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3834</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3826"/>
         <updated>2022-03-01T04:50:59.009Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라가 공공 데이터 개방에 소극적이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3825</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3825"/>
-        <updated>2022-03-01T04:50:59.011Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
