@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-03T07:15:11.719Z</updated>
+    <updated>2022-03-03T09:16:03.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나가 민스크 협정에 의존해 충돌했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3840</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3840"/>
+        <updated>2022-03-03T09:15:45.490Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 6개월 초보 정치인이 러시아 자극해 충돌했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3839</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3839"/>
+        <updated>2022-03-03T09:15:45.490Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3838</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3831"/>
         <updated>2022-03-01T04:50:59.004Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 아이파크 붕괴 현장에 공원 또는 도서관 조성한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3830</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3830"/>
-        <updated>2022-03-01T04:50:59.005Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 배터리를 제조하는 LG에너지솔루션이 RE100 때문에 2조 원짜리 계약을 날렸다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3827</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3827"/>
-        <updated>2022-03-01T04:50:59.005Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
