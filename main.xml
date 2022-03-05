@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-05T05:14:04.324Z</updated>
+    <updated>2022-03-05T06:18:39.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3838</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3838"/>
+        <updated>2022-03-03T05:15:00.485Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성인지 예산은 여성에게 도움된다는 차원으로 만들어놓은 예산이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3842</id>
@@ -25,13 +32,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3839"/>
         <updated>2022-03-03T09:15:45.490Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3838</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3838"/>
-        <updated>2022-03-03T05:15:00.485Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[文정부가 朴정부보다 예산 500조원 더 썼다]]></title>
