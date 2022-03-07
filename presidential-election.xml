@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-03-07T05:15:05.854Z</updated>
+    <updated>2022-03-07T06:20:03.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽 주요 국가는 의료비 본인부담상한제 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3849</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3849"/>
+        <updated>2022-03-07T06:20:03.102Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3851</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3851"/>
+        <updated>2022-03-07T06:20:03.102Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달리는 트럭 뒤에서 선거 유세운동을 하면 불법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3852</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3852"/>
+        <updated>2022-03-07T06:20:03.108Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양시는 단체장이 정신병원에 보낸 사람이 하나도 없는데 성남시는 25명이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3845</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3845"/>
+        <updated>2022-03-07T06:20:03.110Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 무고죄 형량 가장 높다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3844</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3844"/>
+        <updated>2022-03-07T06:20:03.110Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3838</id>
@@ -39,40 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3837"/>
         <updated>2022-03-02T08:19:21.369Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 혼자서는 기초의원 2인 선거구제 개선 못 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3834</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3834"/>
-        <updated>2022-03-01T04:51:18.021Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가 부채는 다른 나라에 진 빚이 아니다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3832</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3832"/>
-        <updated>2022-03-01T04:51:18.027Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전술핵 배치·핵공유 주장한 적 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3833</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3833"/>
-        <updated>2022-03-01T04:51:18.028Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 배터리를 제조하는 LG에너지솔루션이 RE100 때문에 2조 원짜리 계약을 날렸다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3827</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3827"/>
-        <updated>2022-03-01T04:51:18.029Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도 경제성장률, 팬데믹 시기 고려해도 낮은 수치다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3826</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3826"/>
-        <updated>2022-03-01T04:51:18.030Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
