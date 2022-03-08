@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T05:14:35.271Z</updated>
+    <updated>2022-03-08T06:19:21.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[文대통령, 탈원전 번복했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3850</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3850"/>
+        <updated>2022-03-08T06:18:59.618Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 전쟁에 참전하면 처벌받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3853</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3844"/>
         <updated>2022-03-07T06:19:42.086Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 후보가 '증세는 자폭행위'라고 했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3838</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3838"/>
-        <updated>2022-03-03T05:15:00.485Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[文대통령, 탈원전 번복했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3850</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3850"/>
+        <updated>2022-03-08T06:19:20.651Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유럽 주요 국가는 의료비 본인부담상한제 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3849</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3849"/>
@@ -276,12 +283,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3842"/>
         <updated>2022-03-04T06:19:11.731Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나가 민스크 협정에 의존해 충돌했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3840</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3840"/>
-        <updated>2022-03-03T09:15:45.490Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
