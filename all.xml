@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T18:18:38.552Z</updated>
+    <updated>2022-03-10T19:13:26.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인이 최저임금 폐지 공약했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3859</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3859"/>
+        <updated>2022-03-10T19:13:04.103Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구치소 독방(독거실) 수용은 특혜다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3856</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3849"/>
         <updated>2022-03-07T06:19:42.068Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투표 때 투표용지 촬영해도 처벌받지 않는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3851</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3851"/>
-        <updated>2022-03-07T06:19:42.079Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
