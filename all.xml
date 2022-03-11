@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-11T07:15:19.423Z</updated>
+    <updated>2022-03-11T08:19:19.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -78,7 +78,7 @@
         <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3860</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3860"/>
-        <updated>2022-03-11T07:15:05.634Z</updated>
+        <updated>2022-03-11T07:14:59.416Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
