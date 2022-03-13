@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-13T07:14:46.066Z</updated>
+    <updated>2022-03-13T08:18:05.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정책공약집에 공약별 예산이나 재정계획 낸 사람 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3846</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3846"/>
+        <updated>2022-03-08T00:58:35.042Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3860</id>
@@ -45,13 +52,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3847</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3847"/>
         <updated>2022-03-07T06:19:42.081Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정책공약집에 공약별 예산이나 재정계획 낸 사람 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3846</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3846"/>
-        <updated>2022-03-08T00:58:35.042Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
