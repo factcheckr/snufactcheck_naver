@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-20T02:18:01.290Z</updated>
+    <updated>2022-03-20T03:16:10.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[싹이 난 감자는 독이 든 섭취 불가 독성물질이므로 버려야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -142,6 +142,76 @@
         <id>https://m.news.naver.com/factcheck/end?id=3622</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3622"/>
         <updated>2022-03-01T04:51:05.705Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19에 확진되면 '슈퍼면역' 생긴다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3873</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3873"/>
+        <updated>2022-03-19T07:14:13.009Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규확진자 수가 세계 1위이기 때문에 우리나라 방역 정책은 부실하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3864</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3864"/>
+        <updated>2022-03-20T03:16:03.411Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진자 격리해제 시 PCR 검사 받을 필요 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3831</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3831"/>
+        <updated>2022-03-20T03:16:03.412Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자가검사키트 '만 18세 미만 금지' 경고문 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3792</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3792"/>
+        <updated>2022-03-20T03:16:03.420Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 자가진단키트에 독성물질이 포함되어 위험하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3786</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3786"/>
+        <updated>2022-03-20T03:16:03.421Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동네 병의원 신속항원검사 5천 원 내면 된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3774</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3774"/>
+        <updated>2022-03-20T03:16:03.422Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론만의 특정 증상이 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3753</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3753"/>
+        <updated>2022-03-20T03:16:03.423Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자가진단키트 음성확인서도 방역패스로 쓸 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3721</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3721"/>
+        <updated>2022-03-20T03:16:03.424Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론 차단하려면 기존보다 고품질 마스크 써야 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3719</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3719"/>
+        <updated>2022-03-20T03:16:03.425Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무증상자가 타인에게 바이러스를 전파하는 것은 사실상 일어나기 어려운 일이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3699</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3699"/>
+        <updated>2022-03-20T03:16:03.425Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
