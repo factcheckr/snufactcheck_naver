@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-03-22T07:15:24.323Z</updated>
+    <updated>2022-03-22T08:20:22.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3884</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3884"/>
+        <updated>2022-03-22T08:20:09.158Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3860</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3625"/>
         <updated>2022-03-01T04:51:05.704Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 백신 맞으면 면역력이 떨어진다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3622</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3622"/>
-        <updated>2022-03-01T04:51:05.705Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>

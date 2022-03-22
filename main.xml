@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-22T07:15:24.312Z</updated>
+    <updated>2022-03-22T08:20:22.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 지사가 4천700억원 들여 경기도청 이전했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3888</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3888"/>
+        <updated>2022-03-22T08:20:02.933Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[합동참모본부에 국방부가 이전할 공간의 여유가 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3887</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3887"/>
+        <updated>2022-03-22T08:20:02.935Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3884</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3884"/>
+        <updated>2022-03-22T08:20:02.935Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청와대 집무실 이전을 위한 예산집행은 불법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3883</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3883"/>
+        <updated>2022-03-22T08:20:02.935Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국이 ‘세계 갈등 1위’ 국가다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3881</id>
@@ -45,34 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3876</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3876"/>
         <updated>2022-03-18T12:25:52.912Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인이 최저임금 폐지 공약했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3859</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3859"/>
-        <updated>2022-03-19T07:14:13.007Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인 임기 내에 용산 공원이 완공될 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3874</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3874"/>
-        <updated>2022-03-19T07:14:13.008Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우울증 약 먹으면 취업에 불이익 생긴다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3865</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3865"/>
-        <updated>2022-03-18T12:25:52.916Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19에 확진되면 '슈퍼면역' 생긴다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3873</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3873"/>
-        <updated>2022-03-19T07:14:13.009Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
