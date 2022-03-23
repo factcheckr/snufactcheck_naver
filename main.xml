@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-23T10:17:46.503Z</updated>
+    <updated>2022-03-23T11:12:58.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文 정부가 북한에 '도발' 표현 한 번도 쓰지 않았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3889</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3889"/>
+        <updated>2022-03-23T11:12:39.677Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령실 이전비용과 경기도청 이전비용은 10배 가까이 차이 난다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3892</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3892"/>
+        <updated>2022-03-23T11:12:39.680Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[촉법소년은 연쇄살인 저질러도 최대 2년 소년원에 송치될 뿐이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3885</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3880"/>
         <updated>2022-03-21T10:17:18.258Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3877</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3877"/>
-        <updated>2022-03-21T08:20:37.847Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나치가 우크라이나를 점령했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3878</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3878"/>
-        <updated>2022-03-21T07:15:40.291Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
