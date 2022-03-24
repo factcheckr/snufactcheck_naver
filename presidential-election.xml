@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-03-24T07:15:54.985Z</updated>
+    <updated>2022-03-24T08:19:18.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청와대는 집무실과 비서동이 멀어서 대통령과 참모의 소통이 원활하지 못했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3890</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3890"/>
+        <updated>2022-03-24T08:19:18.180Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3877</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3850"/>
         <updated>2022-03-22T13:23:59.516Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확진자가 일반 유권자라고 속이고 투표해도 확인할 방법이 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3855</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3855"/>
-        <updated>2022-03-22T13:23:59.518Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
