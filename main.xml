@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-03-24T06:20:07.474Z</updated>
+    <updated>2022-03-24T07:15:54.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3886"/>
         <updated>2022-03-23T22:16:00.613Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인 임기 내에 용산 공원이 완공될 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3874</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3874"/>
+        <updated>2022-03-24T07:15:36.559Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 지사가 4천700억원 들여 경기도청 이전했다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3881"/>
         <updated>2022-03-21T12:26:13.571Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 양주시장은 모두 양주시 공무원 출신이었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3882</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3882"/>
-        <updated>2022-03-21T12:26:13.573Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
