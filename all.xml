@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-30T10:18:16.231Z</updated>
+    <updated>2022-03-30T11:14:04.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[검찰의 수사권과 기소권을 분리해 공소청을 두는 것은 세계적 추세다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3907</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3907"/>
+        <updated>2022-03-30T09:15:42.328Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정숙 여사 옷값, 15년 뒤에나 공개 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3909</id>
@@ -23,13 +30,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3908</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3908"/>
         <updated>2022-03-30T09:15:42.327Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰의 수사권과 기소권을 분리해 공소청을 두는 것은 세계적 추세다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3907</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3907"/>
-        <updated>2022-03-30T09:15:42.328Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
