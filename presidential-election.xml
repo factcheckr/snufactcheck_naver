@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-04-01T07:16:32.688Z</updated>
+    <updated>2022-04-01T08:20:57.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3921</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3921"/>
+        <updated>2022-04-01T08:20:56.796Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3900</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3867"/>
         <updated>2022-03-28T19:12:48.888Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대에서 휴대전화 사용 못 하게 된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3861</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3861"/>
-        <updated>2022-03-28T19:12:48.888Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>

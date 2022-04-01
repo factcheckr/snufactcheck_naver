@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-01T07:16:32.687Z</updated>
+    <updated>2022-04-01T08:20:57.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3924</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3924"/>
+        <updated>2022-04-01T08:20:37.057Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3921</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3921"/>
+        <updated>2022-04-01T08:20:37.057Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애인 단체는 박원순 전 시장이 장애인 이동권 약속을 지키지 못했다는 이유로 오세훈 시장이 들어선 뒤에 지속적으로 시위를 하고있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3910</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3906"/>
         <updated>2022-03-29T07:15:41.424Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철 승강기 100% 설치 약속 박원순 시장 때 했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3905</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3905"/>
-        <updated>2022-03-29T07:15:41.425Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당도 과거에 법무부 장관 수사지휘권 폐지 요구했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3894</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3894"/>
-        <updated>2022-03-29T07:15:41.426Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
