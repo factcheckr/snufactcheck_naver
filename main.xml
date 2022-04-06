@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-06T07:16:17.806Z</updated>
+    <updated>2022-04-06T08:21:19.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소득주도성장 의미 있는 성과 거뒀다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3940</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3940"/>
+        <updated>2022-04-06T08:20:58.940Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 확진 이력자도 해외여행 갈 수 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3938</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3925"/>
         <updated>2022-04-04T01:10:25.732Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애인 콜택시 타려고 2시간 기다리는 경우 많다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3924</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3924"/>
-        <updated>2022-04-01T08:20:37.057Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
