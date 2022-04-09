@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-09T08:18:37.765Z</updated>
+    <updated>2022-04-09T09:15:16.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['깜깜이' 특수활동비 40.2% 줄었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3950</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3950"/>
+        <updated>2022-04-09T09:14:57.168Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3948</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3936"/>
         <updated>2022-04-05T07:15:55.034Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전장연 시위, 오세훈 취임 후 격렬해졌다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3934</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3934"/>
-        <updated>2022-04-04T06:20:22.332Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
