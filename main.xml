@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-12T03:37:54.571Z</updated>
+    <updated>2022-04-12T04:19:57.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장애인 이동권 보장, 장애인만을 위한 특혜다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3947</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3947"/>
+        <updated>2022-04-12T04:19:38.834Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['깜깜이' 특수활동비 40.2% 줄었다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3950</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3935</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3935"/>
         <updated>2022-04-05T07:15:55.033Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성가족부 1년 예산은 31조, 인건비는 1조4천억, 1인당 연봉 46억, 홈페이지 작성 유지비는 180억 책정됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3936</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3936"/>
-        <updated>2022-04-05T07:15:55.034Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
