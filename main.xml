@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-12T06:20:40.165Z</updated>
+    <updated>2022-04-12T07:16:22.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권성동도 과거 검찰 수사권 폐지 주장했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3955</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3955"/>
+        <updated>2022-04-12T07:16:03.169Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성가족부처럼 (여성 관련 정부 부처가) 별개 부처로 운영되는 곳은 10개 나라뿐이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3954</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3954"/>
+        <updated>2022-04-12T07:16:03.173Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8억에 판 목동 아파트가 6년 만에 26억 됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3953</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3953"/>
+        <updated>2022-04-12T07:16:03.177Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애인 이동권 보장, 장애인만을 위한 특혜다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3947</id>
@@ -53,26 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3940"/>
         <updated>2022-04-06T08:20:58.940Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 확진 이력자도 해외여행 갈 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3938</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3938"/>
-        <updated>2022-04-05T07:15:55.032Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1회용품 규제하면 코로나19 감염 위험이 더 높아진다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3937</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3937"/>
-        <updated>2022-04-05T07:15:55.033Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호세 무히카 전 우루과이 대통령의 관저 개방 영향으로 GDP가 증가했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3935</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3935"/>
-        <updated>2022-04-05T07:15:55.033Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
