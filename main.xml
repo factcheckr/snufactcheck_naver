@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-14T09:16:44.775Z</updated>
+    <updated>2022-04-14T10:18:32.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3965"/>
         <updated>2022-04-14T09:16:25.794Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 탈원전 이후 온실가스 증가했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3963</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3963"/>
+        <updated>2022-04-14T10:18:13.535Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검사 범죄사건 기소율 0.2%밖에 안 된다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3957"/>
         <updated>2022-04-12T09:16:01.715Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권성동도 과거 검찰 수사권 폐지 주장했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3955</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3955"/>
-        <updated>2022-04-12T07:16:03.169Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
