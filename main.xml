@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-15T06:20:41.311Z</updated>
+    <updated>2022-04-15T07:16:29.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3966</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3966"/>
+        <updated>2022-04-15T07:16:09.996Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈원전은 세계적 추세다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3965</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3956"/>
         <updated>2022-04-12T09:16:01.714Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법흥사, 신라 진평왕 때 나옹 스님이 창건했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3957</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3957"/>
-        <updated>2022-04-12T09:16:01.715Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
