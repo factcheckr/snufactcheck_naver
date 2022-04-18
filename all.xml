@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T05:16:36.832Z</updated>
+    <updated>2022-04-18T06:21:15.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우크라이나에 독일만 무기를 지원하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3978</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3978"/>
+        <updated>2022-04-18T06:20:57.160Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 집무실 앞에서 시위를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3971</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3971"/>
+        <updated>2022-04-18T06:20:57.162Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부 때 소득 증가율은 전 정부의 1/4이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3956</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3960"/>
         <updated>2022-04-18T04:24:29.409Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 비밀번호 해제 강제할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3962</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3962"/>
-        <updated>2022-04-18T04:24:29.410Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 취임식 엠블럼, 장례 때 쓰는 사동심결 매듭에서 따왔다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3958</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3958"/>
-        <updated>2022-04-18T04:24:29.411Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
