@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-18T17:22:16.902Z</updated>
+    <updated>2022-04-18T18:21:29.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[검찰의 수사권과 기소권을 분리해 공소청을 두는 것은 세계적 추세다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3907</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3907"/>
-        <updated>2022-04-18T16:24:15.357Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈시설 원치않는 장애인이 더 많은 건 시설에 만족해서다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3969</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3969"/>
-        <updated>2022-04-18T10:18:48.404Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블루 라이트 차단 안경은 상술일 뿐이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3967</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3967"/>
-        <updated>2022-04-18T15:16:27.334Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 집무실 앞에서 시위를 할 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3971</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3971"/>
-        <updated>2022-04-18T10:18:48.403Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나에 독일만 무기를 지원하고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3978</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3978"/>
-        <updated>2022-04-18T10:18:48.403Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
-        <updated>2022-04-18T10:18:48.407Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부 때 소득 증가율은 전 정부의 1/4이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3956</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3956"/>
-        <updated>2022-04-18T10:18:48.407Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3966</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3966"/>
-        <updated>2022-04-18T10:18:48.408Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전은 세계적 추세다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3965</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3965"/>
-        <updated>2022-04-18T10:18:48.410Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부 탈원전 이후 온실가스 증가했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3963</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3963"/>
-        <updated>2022-04-18T10:18:48.410Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
 </feed>
