@@ -2,6 +2,286 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T18:21:29.712Z</updated>
+    <updated>2022-04-18T19:13:39.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[검찰의 수사권과 기소권을 분리해 공소청을 두는 것은 세계적 추세다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3907</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3907"/>
+        <updated>2022-04-18T19:13:19.484Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈시설 원치않는 장애인이 더 많은 건 시설에 만족해서다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3969</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3969"/>
+        <updated>2022-04-18T19:13:19.484Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블루 라이트 차단 안경은 상술일 뿐이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3967</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3967"/>
+        <updated>2022-04-18T19:13:19.485Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 집무실 앞에서 시위를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3971</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3971"/>
+        <updated>2022-04-18T19:13:19.487Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나에 독일만 무기를 지원하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3978</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3978"/>
+        <updated>2022-04-18T19:13:19.489Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
+        <updated>2022-04-18T19:13:19.491Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 때 소득 증가율은 전 정부의 1/4이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3956</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3956"/>
+        <updated>2022-04-18T19:13:19.495Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경찰이 무혐의 처리한 '계곡살인'을 검찰이 혐의 밝혀냈다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3966</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3966"/>
+        <updated>2022-04-18T19:13:19.497Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈원전은 세계적 추세다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3965</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3965"/>
+        <updated>2022-04-18T19:13:19.500Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 탈원전 이후 온실가스 증가했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3963</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3963"/>
+        <updated>2022-04-18T19:13:19.501Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3884</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3884"/>
+        <updated>2022-04-18T19:13:26.269Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3860</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3860"/>
+        <updated>2022-04-18T19:13:26.272Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3767</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3767"/>
+        <updated>2022-04-18T19:13:26.279Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세종시 접종률 꼴찌, 공무원들이 백신 안 맞기 때문이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3726</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3726"/>
+        <updated>2022-04-18T19:13:26.279Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부스터샷 오미크론에 무용하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3720</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
+        <updated>2022-04-18T19:13:26.280Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3681</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
+        <updated>2022-04-18T19:13:26.282Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
+        <updated>2022-04-18T19:13:26.283Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
+        <updated>2022-04-18T19:13:26.283Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
+        <updated>2022-04-18T19:13:26.284Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽연합(EU) 법원이 코로나19 백신 의무 접종을 금지하라는 판결을 내렸다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3625</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3625"/>
+        <updated>2022-04-18T19:13:26.285Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3948</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3948"/>
+        <updated>2022-04-18T19:13:32.721Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3949</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3949"/>
+        <updated>2022-04-18T19:13:32.726Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 확진 이력자도 해외여행 갈 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3938</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3938"/>
+        <updated>2022-04-18T19:13:32.732Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1회용품 규제하면 코로나19 감염 위험이 더 높아진다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3937</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3937"/>
+        <updated>2022-04-18T19:13:32.732Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[편의점에서 코로나19 자가검사키트 써도 된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3927</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3927"/>
+        <updated>2022-04-18T19:13:32.734Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한의사가 코로나19 검사하면 무면허 의료행위다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3897</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3897"/>
+        <updated>2022-04-18T19:13:32.735Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19에 확진되면 '슈퍼면역' 생긴다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3873</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3873"/>
+        <updated>2022-04-18T19:13:32.738Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규확진자 수가 세계 1위이기 때문에 우리나라 방역 정책은 부실하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3864</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3864"/>
+        <updated>2022-04-18T19:13:32.738Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진자 격리해제 시 PCR 검사 받을 필요 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3831</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3831"/>
+        <updated>2022-04-18T19:13:32.741Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자가검사키트 '만 18세 미만 금지' 경고문 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3792</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3792"/>
+        <updated>2022-04-18T19:13:32.742Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
+        <updated>2022-04-18T19:13:39.155Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3921</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3921"/>
+        <updated>2022-04-18T19:13:39.158Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시진핑이 당선인 신분의 국가 차기 지도자와 통화한 적 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3900</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3900"/>
+        <updated>2022-04-18T19:13:39.158Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 집무실 용산 이전 예산 496억은 기획재정부가 추산한 자료다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3906</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3906"/>
+        <updated>2022-04-18T19:13:39.159Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 득표율, 조선대·전남대 인근에선 30% 달했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3901</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3901"/>
+        <updated>2022-04-18T19:13:39.162Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인수위가 결정하면 여가부는 폐지된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3902</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3902"/>
+        <updated>2022-04-18T19:13:39.166Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청와대는 집무실과 비서동이 멀어서 대통령과 참모의 소통이 원활하지 못했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3890</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3890"/>
+        <updated>2022-04-18T19:13:39.168Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文정부에선 박근혜정부 공공기관장 90% 임기 보장했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3877</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3877"/>
+        <updated>2022-04-18T19:13:39.169Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새 정부에서 노인 지하철 무임승차 혜택 줄어든다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3871</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3871"/>
+        <updated>2022-04-18T19:13:39.170Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인의 양도세 폐지 공약이 개인투자자의 실익과는 딱히 상관없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3868</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3868"/>
+        <updated>2022-04-18T19:13:39.171Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
 </feed>
