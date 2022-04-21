@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-21T10:19:37.170Z</updated>
+    <updated>2022-04-21T11:15:06.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[계곡살인사건 피의자의 자수는 형법상 자수가 아니다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3995</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3995"/>
+        <updated>2022-04-21T11:14:46.873Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 감염병 2급 전환 즉시 ‘지원금’ 중단된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3993</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3967"/>
         <updated>2022-04-21T10:19:17.203Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰의 수사권과 기소권을 분리해 공소청을 두는 것은 세계적 추세다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3907</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3907"/>
-        <updated>2022-04-21T10:19:17.204Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
