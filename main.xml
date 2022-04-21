@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-21T09:17:26.810Z</updated>
+    <updated>2022-04-21T10:19:37.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 감염병 2급 전환 즉시 ‘지원금’ 중단된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3993</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3993"/>
+        <updated>2022-04-21T10:19:17.174Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3992</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3992"/>
+        <updated>2022-04-21T10:19:17.174Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검수완박 통과되면 국회 입법권 박탈한다고 尹측이 말했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3990</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3990"/>
+        <updated>2022-04-21T10:19:17.187Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.1 지방선거에서 10만 명에 달하는 중국인이 투표권을 가진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3985</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3985"/>
+        <updated>2022-04-21T10:19:17.195Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럭시S22가 출시된지 50일 만에 공짜폰이 됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3980</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3980"/>
+        <updated>2022-04-21T10:19:17.196Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저상버스 교체 위한 시내버스 대폐차 기간은 5~7년이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3970</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3970"/>
+        <updated>2022-04-21T10:19:17.199Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작년 탄소배출 늘어난 게 탈원전 탓이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3976</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3976"/>
+        <updated>2022-04-21T10:19:17.200Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 기름값이 유독 비싸다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3979</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3979"/>
+        <updated>2022-04-21T10:19:17.201Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블루 라이트 차단 안경은 상술일 뿐이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3967</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3967"/>
+        <updated>2022-04-21T10:19:17.203Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검찰의 수사권과 기소권을 분리해 공소청을 두는 것은 세계적 추세다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3907</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3907"/>
+        <updated>2022-04-21T10:19:17.204Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
 </feed>
