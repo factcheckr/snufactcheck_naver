@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-24T22:16:06.279Z</updated>
+    <updated>2022-04-24T23:16:23.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현역으로 입영하는 사람이 90% 이상 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3997</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3997"/>
+        <updated>2022-04-24T23:16:04.482Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블라디미르 푸틴 러시아 대통령을 전쟁 범죄자로 규정하는 것이 정당하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3982</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3982"/>
+        <updated>2022-04-24T23:16:04.484Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부의 7대 인사 기준은 문 정권에서조차도 한 차례도 지켜지지 않으면서 민주당 자신의 손에 의해 스스로 폐기 처분됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3991</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3991"/>
+        <updated>2022-04-24T23:16:04.484Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3948</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3948"/>
+        <updated>2022-04-24T23:16:04.485Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3860</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3860"/>
+        <updated>2022-04-24T23:16:04.486Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계곡살인사건 피의자의 자수는 형법상 자수가 아니다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3995</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3995"/>
+        <updated>2022-04-24T23:16:04.488Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든 미 대통령이 허공에 악수를 청했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3994</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3994"/>
+        <updated>2022-04-24T23:16:04.492Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 감염병 2급 전환, 코로나 치료비 및 생활지원금도 사라진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3993</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3993"/>
+        <updated>2022-04-24T23:16:04.493Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3992</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3992"/>
+        <updated>2022-04-24T23:16:04.495Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청계천 사업도 오픈하기 전까지 반대 여론이 70~80%였다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3989</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3989"/>
+        <updated>2022-04-24T23:16:04.496Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
 </feed>
