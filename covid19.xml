@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-04-24T03:28:01.958Z</updated>
+    <updated>2022-04-24T04:20:32.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3948</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3948"/>
+        <updated>2022-04-24T04:20:26.100Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 감염병 2급 전환, 코로나 치료비 및 생활지원금도 사라진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3993</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3993"/>
+        <updated>2022-04-24T04:20:26.104Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당초 팍스로비드 국내 반입 시기가 확정되지 않았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3988</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3988"/>
+        <updated>2022-04-24T04:20:26.104Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3949</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3949"/>
+        <updated>2022-04-24T04:20:26.109Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 확진 이력자도 해외여행 갈 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3938</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3938"/>
+        <updated>2022-04-24T04:20:26.110Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1회용품 규제하면 코로나19 감염 위험이 더 높아진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3937</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3937"/>
+        <updated>2022-04-24T04:20:26.113Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[편의점에서 코로나19 자가검사키트 써도 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3927</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3927"/>
+        <updated>2022-04-24T04:20:26.113Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한의사가 코로나19 검사하면 무면허 의료행위다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3897</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3897"/>
+        <updated>2022-04-24T04:20:26.114Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19에 확진되면 '슈퍼면역' 생긴다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3873</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3873"/>
+        <updated>2022-04-24T04:20:26.116Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규확진자 수가 세계 1위이기 때문에 우리나라 방역 정책은 부실하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3864</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3864"/>
+        <updated>2022-04-24T04:20:26.117Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
 </feed>
