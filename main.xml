@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-25T09:17:27.485Z</updated>
+    <updated>2022-04-25T10:19:02.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 사외이사 이력 내각 후보자, 역대 정부 최다이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4001</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4001"/>
+        <updated>2022-04-25T10:18:43.376Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MB 시절 청와대에 4대강 사업을 담당하는 비서관이 따로 있었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4000</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4000"/>
+        <updated>2022-04-25T10:18:43.377Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3992</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3992"/>
-        <updated>2022-04-25T09:17:06.400Z</updated>
+        <updated>2022-04-25T10:18:43.378Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3948</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3948"/>
-        <updated>2022-04-25T09:17:06.401Z</updated>
+        <updated>2022-04-25T10:18:43.379Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세계 최초 코로나19 백신 접종자의 사진이 10월에 이미 보도된 적 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2673</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2673"/>
-        <updated>2022-04-25T09:17:06.402Z</updated>
+        <updated>2022-04-25T10:18:43.381Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["코로나19 바이러스의 pH 범위는 5.5~8.5, 레몬·오렌지 등을 먹으면 바이러스 제거할 수 있다"]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2650</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2650"/>
-        <updated>2022-04-25T09:17:06.402Z</updated>
+        <updated>2022-04-25T10:18:43.383Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["국내 코로나19 백신 임상시험 참여하면 1천만 원 준다"]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2599</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2599"/>
-        <updated>2022-04-25T09:17:06.405Z</updated>
+        <updated>2022-04-25T10:18:43.384Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독감 백신의 효과가 브랜드마다 다르다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2568</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2568"/>
-        <updated>2022-04-25T09:17:06.407Z</updated>
+        <updated>2022-04-25T10:18:43.388Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“정부가 민주노총의 개천절 집회는 허가했다"]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2541</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2541"/>
-        <updated>2022-04-25T09:17:06.408Z</updated>
+        <updated>2022-04-25T10:18:43.390Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흙바닥 된 반포한강공원 잔디밭, 인구 밀집 막은 서울시 조치다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2513</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2513"/>
-        <updated>2022-04-25T09:17:06.409Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국인들이 코로나19 치료비 없어 극단적 선택" ?]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2236</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2236"/>
-        <updated>2022-04-25T09:17:06.410Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 네트워크가 코로나 전파한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2229</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2229"/>
-        <updated>2022-04-25T09:17:06.411Z</updated>
+        <updated>2022-04-25T10:18:43.391Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
