@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-04-25T01:14:13.519Z</updated>
+    <updated>2022-04-25T03:12:37.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 최초 코로나19 백신 접종자의 사진이 10월에 이미 보도된 적 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2673</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2673"/>
+        <updated>2022-04-25T03:12:24.442Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3860</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
         <updated>2022-04-24T23:16:10.561Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽연합(EU) 법원이 코로나19 백신 의무 접종을 금지하라는 판결을 내렸다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3625</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3625"/>
-        <updated>2022-04-24T23:16:10.562Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
