@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-25T04:24:36.761Z</updated>
+    <updated>2022-04-25T05:16:45.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[세계 최초 코로나19 백신 접종자의 사진이 10월에 이미 보도된 적 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2673</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2673"/>
-        <updated>2022-04-25T03:12:17.877Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나19 바이러스의 pH 범위는 5.5~8.5, 레몬·오렌지 등을 먹으면 바이러스 제거할 수 있다"]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2650</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2650"/>
-        <updated>2022-04-25T03:12:17.879Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국내 코로나19 백신 임상시험 참여하면 1천만 원 준다"]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2599</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2599"/>
-        <updated>2022-04-25T03:12:17.879Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독감 백신의 효과가 브랜드마다 다르다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2568</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2568"/>
-        <updated>2022-04-25T03:12:17.880Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정부가 민주노총의 개천절 집회는 허가했다"]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2541</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2541"/>
-        <updated>2022-04-25T03:12:17.882Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흙바닥 된 반포한강공원 잔디밭, 인구 밀집 막은 서울시 조치다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2513</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2513"/>
-        <updated>2022-04-25T03:12:17.884Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국인들이 코로나19 치료비 없어 극단적 선택" ?]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2236</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2236"/>
-        <updated>2022-04-25T03:12:17.887Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 네트워크가 코로나 전파한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2229</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2229"/>
-        <updated>2022-04-25T03:12:17.889Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부가 임상정보 틀어쥐고 전문가들에게 공유 안 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2209</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2209"/>
-        <updated>2022-04-25T03:12:17.890Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국에서 온 입국자 1,442명의 2주간 호텔 격리비와 확진시 400만원 진료비를 한국 정부가 부담한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2184</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2184"/>
-        <updated>2022-04-25T03:12:17.891Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
 </feed>
