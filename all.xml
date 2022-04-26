@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-26T07:16:45.185Z</updated>
+    <updated>2022-04-26T08:20:42.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령 당선인 취임 즉시 '병사 월급 200만원' 공약 이행 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3999</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3999"/>
+        <updated>2022-04-26T08:20:23.229Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰 수사 기관 분리는 세계적 추세다,
 OECD 대부분 검찰 수사권 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -67,13 +74,6 @@ OECD 대부분 검찰 수사권 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]
         <link href="https://m.news.naver.com/factcheck/end?id=2599"/>
         <updated>2022-04-25T22:16:28.446Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독감 백신의 효과가 브랜드마다 다르다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2568</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2568"/>
-        <updated>2022-04-25T22:16:28.447Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세계 최초 코로나19 백신 접종자의 사진이 10월에 이미 보도된 적 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
