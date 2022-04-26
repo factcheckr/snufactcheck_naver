@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-26T05:18:49.732Z</updated>
+    <updated>2022-04-26T06:20:44.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4001"/>
         <updated>2022-04-25T22:16:28.435Z</updated>
         <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차량등록비용 차이 때문에 위장전입하는 일들이 꽤 있었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4003</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4003"/>
+        <updated>2022-04-26T06:20:24.059Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MB 시절 청와대에 4대강 사업을 담당하는 비서관이 따로 있었다]]></title>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=2541</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2541"/>
         <updated>2022-04-25T22:16:28.447Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흙바닥 된 반포한강공원 잔디밭, 인구 밀집 막은 서울시 조치다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2513</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2513"/>
-        <updated>2022-04-25T22:16:28.448Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
