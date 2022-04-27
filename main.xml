@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-27T06:21:47.401Z</updated>
+    <updated>2022-04-27T07:16:30.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘계곡 살인’ 이은해 살인죄 처벌 안 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4008</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4008"/>
+        <updated>2022-04-27T07:16:11.170Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 주택 소유자는 기초생활수급자가 될 수 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4002</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4002"/>
         <updated>2022-04-27T06:21:22.573Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총리 인사청문 기간을 어긴 사례가 한 차례도 없었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4007</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4007"/>
+        <updated>2022-04-27T07:16:11.173Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 2급 감염병 되면 치료비 폭등한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4006</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4006"/>
+        <updated>2022-04-27T07:16:11.174Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한덕수 총리 인준 불발되면 윤석열 정부 장관 임명 못한다]]></title>
@@ -54,26 +75,5 @@ OECD 대부분 검찰 수사권 있다]]></title>
         <link href="https://m.news.naver.com/factcheck/end?id=4000"/>
         <updated>2022-04-27T06:21:22.580Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌재는 수사주체를 법률로 바꿀 수 있다고 봤다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3992</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3992"/>
-        <updated>2022-04-27T06:21:22.581Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3948</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3948"/>
-        <updated>2022-04-27T06:21:22.582Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초 코로나19 백신 접종자의 사진이 10월에 이미 보도된 적 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2673</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2673"/>
-        <updated>2022-04-27T06:21:22.582Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
