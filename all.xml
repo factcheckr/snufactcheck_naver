@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-29T14:15:09.977Z</updated>
+    <updated>2022-04-29T15:18:19.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[식당 등에서 마스크 미착용시 당장 처벌 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2534</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2534"/>
+        <updated>2022-04-29T15:18:00.216Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차량집회 막는 나라는 없다. (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2528</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2528"/>
+        <updated>2022-04-29T15:18:00.217Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["문 정부 정치방역 확실한 증거 나왔다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2518</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2518"/>
+        <updated>2022-04-29T15:18:00.217Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["마스크 상시 착용 의무화 정책은 온 국민을 병들게 하는 정책이다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2497</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2497"/>
+        <updated>2022-04-29T15:18:00.219Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진자 폭증이 바이러스 테러 증거다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2468</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2468"/>
+        <updated>2022-04-29T15:18:00.219Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역당국의 광화문 집회 참가자 역학조사는 불법이다? (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2466</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2466"/>
+        <updated>2022-04-29T15:18:00.223Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["울산 수암시장 상인회장, 광화문 집회 참석 후 코로나19 확진됐다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2464</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2464"/>
+        <updated>2022-04-29T15:18:00.224Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["보건소 직원 껴안은 50대 부부, 상해죄 적용할 수 있다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2458</id>
@@ -23,55 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=2455</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2455"/>
         <updated>2022-04-29T14:14:50.842Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회적 거리두기 3단계 격상되면 수도권 봉쇄된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2454</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2454"/>
-        <updated>2022-04-29T14:14:50.842Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후베이성발 입국 제한 해제로 인천공항에 우한 주민들이 들이닥치고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2453</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2453"/>
-        <updated>2022-04-29T14:14:50.842Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["음성판정에도 불구하고 자가격리를 계속하라는 서울시장과 구청장의 조치는 위법" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2452</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2452"/>
-        <updated>2022-04-29T14:14:50.843Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보건소에서 받은 전광훈 목사의 코로나 양성 판정은 가짜다, 사실은 백병원에서 다시 음성 판정을 받았다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2451</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2451"/>
-        <updated>2022-04-29T14:14:50.843Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 때문에 내국인이 격리시설 이용 못 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2231</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2231"/>
-        <updated>2022-04-29T14:14:50.844Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개학연기로 인해 초등학교 여름방학이 4일뿐이다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2153</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2153"/>
-        <updated>2022-04-29T14:14:50.846Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의약계가 코로나19 변이에 따른 2차 파동 우려하고 있다" (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2142</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2142"/>
-        <updated>2022-04-29T14:14:50.849Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
@@ -145,73 +145,73 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[식당 등에서 마스크 미착용시 당장 처벌 가능하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2534</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2534"/>
+        <updated>2022-04-29T15:18:12.666Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차량집회 막는 나라는 없다. (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2528</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2528"/>
+        <updated>2022-04-29T15:18:12.666Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["문 정부 정치방역 확실한 증거 나왔다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2518</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2518"/>
+        <updated>2022-04-29T15:18:12.667Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["마스크 상시 착용 의무화 정책은 온 국민을 병들게 하는 정책이다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2497</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2497"/>
+        <updated>2022-04-29T15:18:12.667Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진자 폭증이 바이러스 테러 증거다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2468</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2468"/>
+        <updated>2022-04-29T15:18:12.667Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역당국의 광화문 집회 참가자 역학조사는 불법이다? (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2466</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2466"/>
+        <updated>2022-04-29T15:18:12.667Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["울산 수암시장 상인회장, 광화문 집회 참석 후 코로나19 확진됐다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2464</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2464"/>
+        <updated>2022-04-29T15:18:12.667Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["보건소 직원 껴안은 50대 부부, 상해죄 적용할 수 있다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2458</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2458"/>
-        <updated>2022-04-29T14:15:03.102Z</updated>
+        <updated>2022-04-29T14:14:50.837Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부 광복절 경축식 행사, 코로나 방역수칙 안 지켰다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2456</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2456"/>
-        <updated>2022-04-29T14:15:03.104Z</updated>
+        <updated>2022-04-29T14:14:50.838Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 관객 8600여명은 놔두고, 사랑제일교회는 강제 검사를 강요한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2455</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2455"/>
-        <updated>2022-04-29T14:15:03.109Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회적 거리두기 3단계 격상되면 수도권 봉쇄된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2454</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2454"/>
-        <updated>2022-04-29T14:15:03.109Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후베이성발 입국 제한 해제로 인천공항에 우한 주민들이 들이닥치고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2453</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2453"/>
-        <updated>2022-04-29T14:15:03.110Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["음성판정에도 불구하고 자가격리를 계속하라는 서울시장과 구청장의 조치는 위법" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2452</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2452"/>
-        <updated>2022-04-29T14:15:03.113Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보건소에서 받은 전광훈 목사의 코로나 양성 판정은 가짜다, 사실은 백병원에서 다시 음성 판정을 받았다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2451</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2451"/>
-        <updated>2022-04-29T14:15:03.114Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 때문에 내국인이 격리시설 이용 못 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2231</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2231"/>
-        <updated>2022-04-29T14:15:03.116Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["개학연기로 인해 초등학교 여름방학이 4일뿐이다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2153</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2153"/>
-        <updated>2022-04-29T14:15:03.117Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["의약계가 코로나19 변이에 따른 2차 파동 우려하고 있다" (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2142</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2142"/>
-        <updated>2022-04-29T14:15:03.118Z</updated>
+        <updated>2022-04-29T14:14:50.842Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
