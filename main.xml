@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-04-29T11:14:30.439Z</updated>
+    <updated>2022-04-29T12:31:44.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["광주 전남대 버스 정류장에서 피 묻은 마스크 발견돼 현재 검사 중이다"]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2035</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2035"/>
+        <updated>2022-04-29T12:31:24.684Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신종 코로나로 인해 모든 군 장병 휴가 제한]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2024</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2024"/>
+        <updated>2022-04-29T12:31:24.685Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울산·창원에서 확진자가 나왔는데 보도가 안되고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2023</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2023"/>
+        <updated>2022-04-29T12:31:24.693Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 당국이 공문을 통해 "마늘이 예방책"이라고 권고했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2022</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2022"/>
+        <updated>2022-04-29T12:31:24.693Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신종 코로나바이러스, 몸이 닿기만 해도 감염된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2015</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2015"/>
+        <updated>2022-04-29T12:31:24.694Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['갑자기 고꾸라지는 감염자' 영상은 사실이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2013</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2013"/>
+        <updated>2022-04-29T12:31:24.696Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한덕수 총리 인준 불발되면 윤석열 정부 장관 임명 못한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4004</id>
@@ -32,48 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4007"/>
         <updated>2022-04-27T07:16:11.173Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 2급 감염병 되면 치료비 폭등한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4006</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4006"/>
-        <updated>2022-04-27T07:16:11.174Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령 당선인 취임 즉시 '병사 월급 200만원' 공약 이행 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3999</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3999"/>
-        <updated>2022-04-27T06:21:22.573Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 수사 기관 분리는 세계적 추세다,
-OECD 대부분 검찰 수사권 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3996</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3996"/>
-        <updated>2022-04-27T06:21:22.576Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 사외이사 이력 내각 후보자, 역대 정부 최다이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4001</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4001"/>
-        <updated>2022-04-27T06:21:22.577Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차량등록비용 차이 때문에 위장전입하는 일들이 꽤 있었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4003</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4003"/>
-        <updated>2022-04-27T06:21:22.580Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MB 시절 청와대에 4대강 사업을 담당하는 비서관이 따로 있었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4000</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4000"/>
-        <updated>2022-04-27T06:21:22.580Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
