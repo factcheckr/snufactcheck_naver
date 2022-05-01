@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-05-01T07:16:53.316Z</updated>
+    <updated>2022-05-01T08:20:05.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[軍 노마스크 480명 삼겹살 회식, '방역 위반' 아니다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3149</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3149"/>
+        <updated>2022-05-01T08:19:58.455Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자가검사키트로 '음성' 나오면 안심해도 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3047</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=2528"/>
         <updated>2022-04-29T15:18:12.666Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["문 정부 정치방역 확실한 증거 나왔다"]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2518</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2518"/>
-        <updated>2022-04-29T15:18:12.667Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
