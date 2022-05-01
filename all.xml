@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-01T14:15:29.127Z</updated>
+    <updated>2022-05-01T15:17:38.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['중국 봉쇄'로 코로나19 막을 수 있었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -148,21 +148,21 @@
         <title type="html"><![CDATA['중국 봉쇄'로 코로나19 막을 수 있었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2761</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2761"/>
-        <updated>2022-05-01T14:15:22.478Z</updated>
+        <updated>2022-05-01T14:15:10.277Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인터콥이 코로나19 방역에 협조하고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2751</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2751"/>
-        <updated>2022-05-01T14:15:22.479Z</updated>
+        <updated>2022-05-01T14:15:10.280Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해외 신속진단키트가 콜라에도 양성 반응이 나온 것은 코로나19 검사가 부정확하다는 증거다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2741</id>
         <link href="https://m.news.naver.com/factcheck/end?id=2741"/>
-        <updated>2022-05-01T14:15:22.483Z</updated>
+        <updated>2022-05-01T14:15:10.282Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
