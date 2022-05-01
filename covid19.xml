@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-05-01T08:20:05.558Z</updated>
+    <updated>2022-05-01T09:16:32.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부는 대면 예배를 통한 감염이 사실상 없었다면서 비대면 예배 강요한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3199</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3199"/>
+        <updated>2022-05-01T09:16:25.266Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 치명률 0.1%, 독감처럼 공존 가능하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3198</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3198"/>
+        <updated>2022-05-01T09:16:25.272Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軍 노마스크 480명 삼겹살 회식, '방역 위반' 아니다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=3149</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=2801"/>
         <updated>2022-05-01T06:20:13.788Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식당 등에서 마스크 미착용시 당장 처벌 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2534</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2534"/>
-        <updated>2022-04-29T15:18:12.666Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차량집회 막는 나라는 없다.]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2528</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2528"/>
-        <updated>2022-04-29T15:18:12.666Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
