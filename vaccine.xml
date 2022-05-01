@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-05-01T06:20:20.478Z</updated>
+    <updated>2022-05-01T07:16:53.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 백신 접종 후 인과성 불충분한 중증이상 의료비, 소득수준 따져 지원한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3044</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3044"/>
+        <updated>2022-05-01T07:16:40.396Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본에서는 코로나19 백신 접종하면 앞으로 헌혈 못 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3040</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3040"/>
+        <updated>2022-05-01T07:16:40.406Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부의 백신 제조업체 지원이 부족해서 국산 백신을 생산해도 해외에 뺏긴다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3031</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3031"/>
+        <updated>2022-05-01T07:16:40.406Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아스트라제네카 백신, 5천원 싸구려라 효능이 적다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3023</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3023"/>
+        <updated>2022-05-01T07:16:40.406Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 대상자 아니어도 ‘노쇼’ 물량 맞을수 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=2982</id>
@@ -46,33 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=2887"/>
         <updated>2022-05-01T06:20:07.324Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 백신 접종 후 사망률, 일반 독감 백신의 80배다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2884</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2884"/>
-        <updated>2022-05-01T06:20:07.325Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트라제네카 백신 접종 후 기저질환 상관없이 고열증상이 나타날 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2881</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2881"/>
-        <updated>2022-05-01T06:20:07.326Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 맞으면 뇌 조종 당한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2866</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2866"/>
-        <updated>2022-05-01T06:20:07.328Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 접종 후 이상증세, 보상 받을 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2861</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2861"/>
-        <updated>2022-05-01T06:20:07.329Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
