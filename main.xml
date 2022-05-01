@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-01T12:28:07.086Z</updated>
+    <updated>2022-05-01T13:26:27.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[임산부, 코로나19 백신 맞아도 괜찮다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3234</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3234"/>
-        <updated>2022-05-01T09:16:12.594Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자·모더나 1차·2차 접종 간격, 6주로 연장해도 문제없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3220</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3220"/>
-        <updated>2022-05-01T09:16:12.606Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얀센 백신, 델타 변이에 취약하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3209</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3209"/>
-        <updated>2022-05-01T09:16:12.607Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부는 대면 예배를 통한 감염이 사실상 없었다면서 비대면 예배 강요한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3199</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3199"/>
-        <updated>2022-05-01T09:16:12.608Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 치명률 0.1%, 독감처럼 공존 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3198</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3198"/>
-        <updated>2022-05-01T09:16:12.610Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 사망자보다 백신 때문에 사망한 사람이 더 많다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3183</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3183"/>
-        <updated>2022-05-01T08:19:46.225Z</updated>
+        <title type="html"><![CDATA[백신 선택권이 없어 중국산 백신 맞는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2739</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2739"/>
+        <updated>2022-05-01T13:26:07.173Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백신 접종자는 비행기 탑승이 금지된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3156</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3156"/>
-        <updated>2022-05-01T08:19:46.228Z</updated>
+        <title type="html"><![CDATA[유명 중식당 하림각, 코로나19 때문에 영업 중단했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2738</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2738"/>
+        <updated>2022-05-01T13:26:07.176Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코백스 퍼실리티를 통한 한국의 백신 도입은 개발도상국 백신 지원을 저해한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2732</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2732"/>
+        <updated>2022-05-01T13:26:07.177Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[軍 노마스크 480명 삼겹살 회식, '방역 위반' 아니다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3149</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3149"/>
-        <updated>2022-05-01T08:19:46.228Z</updated>
+        <title type="html"><![CDATA[구충제 ‘이버멕틴’의 코로나19 예방 및 치료효과가 임상 시험에서 입증됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2728</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2728"/>
+        <updated>2022-05-01T13:26:07.177Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대만 75세 이상 백신 접종자의 사망률이 한국보다 낮다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3141</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3141"/>
-        <updated>2022-05-01T08:19:46.228Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
+        <title type="html"><![CDATA[대구 헬스장 관장이 코로나19로 인한 경제적 어려움으로 극단적 선택했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2710</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2710"/>
+        <updated>2022-05-01T13:26:07.178Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백신 맞으면 7월부터 자유롭게 해외 여행 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3083</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3083"/>
-        <updated>2022-05-01T08:19:46.228Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
+        <title type="html"><![CDATA[영국 변이 바이러스를 ‘코로나20’으로 부를 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2702</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2702"/>
+        <updated>2022-05-01T13:26:07.179Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 2월부터 코로나 백신 국내 접종 시작한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2694</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2694"/>
+        <updated>2022-05-01T13:26:07.180Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 코로나 검사, 진단키트 판독기준(CT값)이 낮아 확진자 수 적다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2646</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2646"/>
+        <updated>2022-05-01T13:26:07.181Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크 ‘효과 없다’는 SPR 사이트 내용, 진짜이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2573</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2573"/>
+        <updated>2022-05-01T13:26:07.182Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크 파파라치에 걸리면 과태료 문다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=2548</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=2548"/>
+        <updated>2022-05-01T13:26:07.183Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
