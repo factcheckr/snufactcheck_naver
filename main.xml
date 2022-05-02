@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-02T05:29:58.139Z</updated>
+    <updated>2022-05-02T06:21:24.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한덕수 총리 인준 불발되면 윤석열 정부 장관 임명 못한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4004</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4004"/>
+        <updated>2022-05-02T06:21:04.717Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 위중증자에 대한 정부의 치료비 '전액' 지원, 환자가 격리 해제되면 끝난다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4017</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=2728"/>
         <updated>2022-05-01T13:26:07.177Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 헬스장 관장이 코로나19로 인한 경제적 어려움으로 극단적 선택했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=2710</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=2710"/>
-        <updated>2022-05-01T13:26:07.178Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
