@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-04T01:25:53.456Z</updated>
+    <updated>2022-05-04T03:24:49.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부천시청에는 시장 전용 5층 엘리베이터가 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4027</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4027"/>
+        <updated>2022-05-04T03:24:28.364Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군부대 밖에서 합의된 동성군인 간의 성관계는 처벌 대상이 아니다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4026</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4026"/>
+        <updated>2022-05-04T03:24:28.365Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검수완박' 국민투표 가능하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4025</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4025"/>
+        <updated>2022-05-04T03:24:28.365Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPTPP 가입하면 해외 성인사이트 차단할 수 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4024</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4024"/>
+        <updated>2022-05-04T03:24:28.367Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸틴 실제로 처벌하기 어렵다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4022</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4022"/>
+        <updated>2022-05-04T03:24:28.368Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘한덕수 요청자료’ 문 정부 총리들보다 3~4배 많다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4021</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4021"/>
+        <updated>2022-05-04T03:24:28.371Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인, 역대 최고액의 초호화 취임식 연다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4020</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4020"/>
+        <updated>2022-05-04T03:24:28.371Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 위중증자에 대한 정부의 치료비 '전액' 지원, 환자가 격리 해제되면 끝난다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4017</id>
@@ -25,54 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4008"/>
         <updated>2022-05-03T03:23:35.078Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총리 인사청문 기간을 어긴 사례가 한 차례도 없었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4007</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4007"/>
-        <updated>2022-05-03T03:23:35.079Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 2급 감염병 되면 치료비 폭등한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4006</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4006"/>
-        <updated>2022-05-03T03:23:35.088Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한덕수 총리 인준 불발되면 윤석열 정부 장관 임명 못한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4004</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4004"/>
-        <updated>2022-05-02T06:21:04.717Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차량등록비용 차이 때문에 위장전입하는 일들이 꽤 있었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4003</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4003"/>
-        <updated>2022-05-03T03:23:35.091Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 주택 소유자는 기초생활수급자가 될 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4002</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4002"/>
-        <updated>2022-05-03T03:23:35.093Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 사외이사 이력 내각 후보자, 역대 정부 최다이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4001</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4001"/>
-        <updated>2022-05-03T03:23:35.096Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MB 시절 청와대에 4대강 사업을 담당하는 비서관이 따로 있었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4000</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4000"/>
-        <updated>2022-05-03T03:23:35.099Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
