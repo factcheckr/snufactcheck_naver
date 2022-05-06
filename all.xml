@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-06T07:16:12.423Z</updated>
+    <updated>2022-05-06T08:21:23.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[노키즈존 리스트 공유하면 영업방해다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4034</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4034"/>
+        <updated>2022-05-06T08:21:04.895Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동물학대, 사람 상대로 한 범죄로 이어질 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4031</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4017"/>
         <updated>2022-05-02T03:53:49.706Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4016</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
-        <updated>2022-05-02T01:23:05.306Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
