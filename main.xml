@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-08T03:13:44.348Z</updated>
+    <updated>2022-05-08T04:22:47.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4034"/>
         <updated>2022-05-06T08:21:04.895Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노키즈존, 법적으로 문제없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4032</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4032"/>
+        <updated>2022-05-08T04:22:26.502Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동물학대, 사람 상대로 한 범죄로 이어질 수 있다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4020"/>
         <updated>2022-05-04T03:24:28.371Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 위중증자에 대한 정부의 치료비 '전액' 지원, 환자가 격리 해제되면 끝난다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4017</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4017"/>
-        <updated>2022-05-02T03:53:49.706Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
