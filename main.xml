@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-10T07:16:41.423Z</updated>
+    <updated>2022-05-10T08:21:43.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라 최저임금 OECD 국가 중 상대적으로 높다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4045</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4045"/>
+        <updated>2022-05-10T08:21:23.007Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세기말에는 호텔에서 박사논문을 심사하는 문화가 있었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4042</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4042"/>
+        <updated>2022-05-10T08:21:23.014Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 관저와 집무실이 분리되는 건 우리나라밖에 없을 것이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4041</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4041"/>
+        <updated>2022-05-10T08:21:23.015Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노키즈존 리스트 공유하면 영업방해다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4034</id>
@@ -53,26 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4024"/>
         <updated>2022-05-04T03:24:28.367Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴 실제로 처벌하기 어렵다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4022</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4022"/>
-        <updated>2022-05-04T03:24:28.368Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한덕수 요청자료’ 문 정부 총리들보다 3~4배 많다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4021</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4021"/>
-        <updated>2022-05-04T03:24:28.371Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인, 역대 최고액의 초호화 취임식 연다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4020</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4020"/>
-        <updated>2022-05-04T03:24:28.371Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
