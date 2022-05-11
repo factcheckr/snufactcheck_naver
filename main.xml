@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-11T09:17:16.095Z</updated>
+    <updated>2022-05-11T10:19:49.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[형사소송법 개정으로 아동학대 수사 부실해진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4046</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4046"/>
+        <updated>2022-05-11T10:19:28.450Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 최저임금 OECD 국가 중 상대적으로 높다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4045</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4027"/>
         <updated>2022-05-04T03:24:28.364Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군부대 밖에서 합의된 동성군인 간의 성관계는 처벌 대상이 아니다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4026</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4026"/>
-        <updated>2022-05-04T03:24:28.365Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
