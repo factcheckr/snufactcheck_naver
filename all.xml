@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T11:15:24.818Z</updated>
+    <updated>2022-05-12T12:34:18.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한국이 일본보다 먼저 소멸한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4051</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4051"/>
+        <updated>2022-05-12T12:33:59.230Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앉아서 거수경례하면 안 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4050</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4050"/>
+        <updated>2022-05-12T12:33:59.230Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동성애도 금연 치료 받듯 일정한 치료에 의해 바뀔 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4049</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4041"/>
         <updated>2022-05-10T08:21:23.015Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박종훈 교육감 임기 때 경남 학생들의 학력이 저하되었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4040</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4040"/>
-        <updated>2022-05-11T01:26:31.273Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노키즈존 리스트 공유하면 영업방해다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4034</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4034"/>
-        <updated>2022-05-06T08:21:04.895Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
