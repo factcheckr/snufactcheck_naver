@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-24T08:22:29.491Z</updated>
+    <updated>2022-05-24T09:22:47.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령 취임식 시청률은 역대 취임식 시청률 중 최저다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4088</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4088"/>
+        <updated>2022-05-24T09:22:26.336Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 원전은 대개 80년, 100년 쓴다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4086</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4068</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4068"/>
         <updated>2022-05-24T01:54:38.932Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 현수막 잘 보이게 하려고 가로수 가지치기했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4066</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4066"/>
-        <updated>2022-05-24T01:54:38.933Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
