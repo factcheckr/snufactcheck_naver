@@ -2,14 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-26T14:16:48.397Z</updated>
+    <updated>2022-05-26T15:20:07.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[21대 빼곤 국회의장·법사위원장 소속정당 한 번도 같지 않았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4100</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4100"/>
+        <updated>2022-05-26T15:19:47.415Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정은경, 퇴임 후 백신 접종 위해 국민 속였다고 고백했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4099</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4099"/>
+        <updated>2022-05-26T15:19:47.417Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1회용 컵 미반환 시 커피 값 인상 효과로 외식 물가가 상승한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4097</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4097"/>
+        <updated>2022-05-26T15:19:47.418Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 용산 집무실 앞에서 시위를 할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4094</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
+        <updated>2022-05-26T15:19:47.419Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외교 행사에서 다른 나라의 국가가 연주될 때 경례를 하는 것이 상대국에 대한 존중의 표시다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4093</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4093"/>
         <updated>2022-05-25T09:18:08.891Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상장폐지 이후 정리매매 기간에 매도하지 않으면 더 이상 거래 방법이 없고, 평가금액은 0원이 된다
+​]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4089</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4089"/>
+        <updated>2022-05-26T15:19:47.427Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -39,40 +75,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4084"/>
         <updated>2022-05-24T01:54:38.925Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 선거구에서 여러 명 뽑으면 작은 정당에 유리하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4083</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4083"/>
-        <updated>2022-05-24T01:54:38.925Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘검수완박’ 법안이 통과돼도 검찰수사관은 수사를 할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4082</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4082"/>
-        <updated>2022-05-24T01:54:38.930Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2차 추가경정예산 국방비 삭감, 국방력에 문제 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4080</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4080"/>
-        <updated>2022-05-24T01:54:38.930Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업기술 해외에 유출해도 솜방망이 처벌에 그친다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4070</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4070"/>
-        <updated>2022-05-24T01:54:38.931Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여가부 폐지' 여론조사, 찬성 압도적으로 높다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4069</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4069"/>
-        <updated>2022-05-24T01:54:38.931Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
