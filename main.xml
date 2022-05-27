@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-05-27T10:21:21.365Z</updated>
+    <updated>2022-05-27T11:16:10.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 국가 울릴때 ‘가슴에 손’…예우 규정 어겼다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4103</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4103"/>
+        <updated>2022-05-27T11:15:51.691Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 현수막 잘 보이게 하려 가로수 가지치기 했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4102</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4102"/>
+        <updated>2022-05-27T11:15:51.692Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대입 수시 전형은 진짜 특목고·명문고 학생들을 위한 '금수저' 전형이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4101</id>
@@ -60,20 +74,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4089</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4089"/>
         <updated>2022-05-26T15:19:47.427Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령 취임식 시청률은 역대 취임식 시청률 중 최저다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4088</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4088"/>
-        <updated>2022-05-24T09:22:26.336Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 원전은 대개 80년, 100년 쓴다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4086</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4086"/>
-        <updated>2022-05-24T07:16:26.745Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
