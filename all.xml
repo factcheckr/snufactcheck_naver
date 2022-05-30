@@ -2,28 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-30T05:25:49.755Z</updated>
+    <updated>2022-05-30T06:26:35.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[법무부에 인사검증 맡기는 방안, 인수위 때 논란 없었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4105</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4105"/>
-        <updated>2022-05-28T05:16:05.667Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[미국 국가 울릴때 ‘가슴에 손’…예우 규정 어겼다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4103</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4103"/>
         <updated>2022-05-27T11:15:51.691Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 현수막 잘 보이게 하려 가로수 가지치기 했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4102</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4102"/>
-        <updated>2022-05-27T11:15:51.692Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대입 수시 전형은 진짜 특목고·명문고 학생들을 위한 '금수저' 전형이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -61,18 +47,18 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김경수 공약이행률은 100%였다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4095</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4095"/>
+        <updated>2022-05-30T06:26:16.314Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대통령 용산 집무실 앞에서 시위를 할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4094</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
         <updated>2022-05-26T15:19:47.419Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교 행사에서 다른 나라의 국가가 연주될 때 경례를 하는 것이 상대국에 대한 존중의 표시다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4093</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4093"/>
-        <updated>2022-05-25T09:18:08.891Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
