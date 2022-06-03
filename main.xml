@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-06-03T11:13:49.483Z</updated>
+    <updated>2022-06-03T12:29:31.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 동포 밀집 지역만 민주당 후보가 당선됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4119</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4119"/>
+        <updated>2022-06-03T12:29:10.811Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시민들께 약속드린 공약 189개 중 단 한 건도 보류되거나 폐기된 공약이 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4118</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4118"/>
+        <updated>2022-06-03T12:29:10.812Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외에 설립된 별도 법인은 중대재해처벌법 적용 대상이 아니다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4116</id>
@@ -53,12 +67,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4103"/>
         <updated>2022-05-27T11:15:51.691Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대입 수시 전형은 진짜 특목고·명문고 학생들을 위한 '금수저' 전형이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4101</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4101"/>
-        <updated>2022-05-27T08:21:22.006Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
