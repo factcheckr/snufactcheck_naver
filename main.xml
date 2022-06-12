@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-06-12T07:15:19.898Z</updated>
+    <updated>2022-06-12T08:19:02.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스웨덴서는 약속 없이 온 손님에게는 밥을 주지 않는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4131</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4131"/>
+        <updated>2022-06-12T08:18:41.738Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포켓몬빵 구매 후 되파는 건 불법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4123</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4123"/>
+        <updated>2022-06-12T08:18:41.739Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원숭이두창 확산은 사전에 계획된 음모다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4122</id>
@@ -59,20 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4109</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4109"/>
         <updated>2022-05-31T07:17:22.014Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음주측정, 채혈 검사하면 수치 더 내려간다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4107</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4107"/>
-        <updated>2022-05-30T07:18:41.356Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법무부에 인사검증 맡기는 방안, 인수위 때 논란 없었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4105</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4105"/>
-        <updated>2022-06-08T03:21:59.672Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
