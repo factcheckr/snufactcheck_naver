@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-06-13T23:16:37.281Z</updated>
+    <updated>2022-06-14T01:44:29.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과거에는 민변 출신들이 (정부 요직을) 도배했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4138</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4138"/>
+        <updated>2022-06-14T01:44:08.711Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스웨덴서는 약속 없이 온 손님에게는 밥을 주지 않는다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4131</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4112"/>
         <updated>2022-05-31T09:17:15.986Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무효표는 정치에 영향을 주지 않는다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4109</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4109"/>
-        <updated>2022-05-31T07:17:22.014Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
