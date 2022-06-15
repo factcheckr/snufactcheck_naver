@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-15T08:23:11.230Z</updated>
+    <updated>2022-06-15T09:16:32.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[12일 북한이 쏜 방사포는 미사일에 준하지 않았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4142</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4142"/>
+        <updated>2022-06-15T09:16:10.534Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권성동 의원이 ‘국회 패싱 방지법’을 박근혜 땐 찬성하고, 지금은 반대한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4140</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4131"/>
         <updated>2022-06-12T08:18:41.738Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포켓몬빵 구매 후 되파는 건 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4123</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4123"/>
-        <updated>2022-06-12T08:18:41.739Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
