@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-06-21T08:32:07.390Z</updated>
+    <updated>2022-06-21T09:32:52.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다른 나라 대통령이나 총리는 백화점에서 쇼핑한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4158</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4158"/>
+        <updated>2022-06-21T09:32:31.671Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로또 1등 당첨자가 50명이나 나온 것은 조작된 결과이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4157</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4139"/>
         <updated>2022-06-14T08:21:41.942Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거에는 민변 출신들이 (정부 요직을) 도배했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4138</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4138"/>
-        <updated>2022-06-14T01:44:08.711Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
