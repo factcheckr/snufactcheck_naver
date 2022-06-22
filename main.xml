@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-06-22T07:15:59.745Z</updated>
+    <updated>2022-06-22T08:27:28.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 지정기록물은 정권이 바뀔 때마다 공개 여부 공방의 대상이 되고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4161</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4161"/>
+        <updated>2022-06-22T08:27:09.545Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서해 공무원 피격 사건을 수사 중인 해양경찰이 당초 발표와 달리 조류 방향이 북쪽이라고 말을 바꿨다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4160</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4160"/>
+        <updated>2022-06-22T08:27:09.546Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[항공사가 손실 메우려고 항공권 가격 올렸다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4159</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4143"/>
         <updated>2022-06-15T12:30:42.272Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12일 북한이 쏜 방사포는 미사일에 준하지 않았다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4142</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4142"/>
-        <updated>2022-06-15T09:16:10.534Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권성동 의원이 ‘국회 패싱 방지법’을 박근혜 땐 찬성하고, 지금은 반대한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4140</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4140"/>
-        <updated>2022-06-15T08:22:52.392Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
