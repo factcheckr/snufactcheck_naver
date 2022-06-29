@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-06-29T05:25:35.454Z</updated>
+    <updated>2022-06-29T06:21:04.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 검찰총장 공석, 역대 최장기다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4189</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4189"/>
+        <updated>2022-06-29T06:20:43.306Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국이 ‘고아 수출국’ 1위 국가다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4187</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA['누리호 발사 성공' 항우연 월급은 최하위 수준이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4177</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4177"/>
-        <updated>2022-06-28T01:37:44.109Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신분당선 요금 비싼 이유는 민영화 때문이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4171</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4171"/>
         <updated>2022-06-28T01:37:44.109Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
