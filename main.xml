@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-07-06T08:20:56.565Z</updated>
+    <updated>2022-07-06T09:17:38.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 여름철 재확산 가능성 커졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4204</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4204"/>
+        <updated>2022-07-06T09:17:17.443Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크 계속 쓰면 만성적 저산소증에 시달린다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4202</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4187</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4187"/>
         <updated>2022-06-28T09:15:39.991Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌재소장 공관 옆 등산로 폐쇄는 법적 근거를 가진다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4185</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4185"/>
-        <updated>2022-06-28T01:37:44.102Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
