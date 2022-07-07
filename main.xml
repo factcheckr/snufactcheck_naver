@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-07-07T08:21:36.795Z</updated>
+    <updated>2022-07-07T09:26:35.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난 20년 동안에 중국의 무역흑자를 빼면 10년 정도는 무역적자로 전락한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4210</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4210"/>
+        <updated>2022-07-07T09:26:14.506Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 전기 요금, 세계에서 가장 싸다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4208</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4208"/>
+        <updated>2022-07-07T09:26:14.509Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[119 신고해도 위치추적 안 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4207</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4207"/>
+        <updated>2022-07-07T09:26:14.509Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지현, 비대위원장 임명 시 피선거권 받았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4206</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4206"/>
+        <updated>2022-07-07T09:26:14.510Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령보다 노태우 전 대통령 데드크로스가 더 빨리 왔다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4205</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4205"/>
+        <updated>2022-07-07T09:26:14.510Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 여름철 재확산 가능성 커졌다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4204</id>
@@ -39,40 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4199"/>
         <updated>2022-07-05T11:15:35.190Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 통한 수출 호황 시대 끝나가고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4198</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4198"/>
-        <updated>2022-07-04T11:14:02.456Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어나니머스, 권도형에 "법의 심판 받게 할 것" 경고했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4197</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4197"/>
-        <updated>2022-07-04T11:14:02.457Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 반려동물 양육 인구는 1천500만 명이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4190</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4190"/>
-        <updated>2022-06-30T08:23:27.275Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 검찰총장 공석, 역대 최장기다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4189</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4189"/>
-        <updated>2022-06-29T06:20:43.306Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국이 ‘고아 수출국’ 1위 국가다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4187</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4187"/>
-        <updated>2022-06-28T09:15:39.991Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
