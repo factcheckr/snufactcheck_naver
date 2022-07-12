@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-12T01:43:35.897Z</updated>
+    <updated>2022-07-12T03:59:28.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[학생이 수업을 방해해도 교사가 해결할 방법은 거의 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4222</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4222"/>
+        <updated>2022-07-12T03:59:08.720Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이른바 '경찰국' 신설은 경찰에 대한 중앙정부의 통제방안을 마련하겠다는 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4221</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4221"/>
+        <updated>2022-07-12T03:59:08.721Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준석, 징계 처분권 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4219</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4219"/>
+        <updated>2022-07-12T03:59:08.723Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어컨 전기료 아끼려면 계속 틀어야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4218</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4218"/>
+        <updated>2022-07-12T03:59:08.723Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 1인당 전기 사용량이 세계 3위다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4217</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4217"/>
+        <updated>2022-07-12T03:59:08.729Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식·가상화폐 투자 빚 서울에서 탕감받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4216</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4216"/>
+        <updated>2022-07-12T03:59:08.730Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공무원 행동강령에서 가족 채용 제한 규정이 삭제됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4212</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4212"/>
+        <updated>2022-07-12T03:59:08.730Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러브버그는 모기 잡아먹는 익충이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4211</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4211"/>
+        <updated>2022-07-12T03:59:08.731Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난 20년 동안에 중국의 무역흑자를 빼면 10년 정도는 무역적자로 전락한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4210</id>
@@ -12,67 +68,11 @@
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 전기 요금, 세계에서 가장 싸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4208</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4208"/>
-        <updated>2022-07-07T09:26:14.509Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[119 신고해도 위치추적 안 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4207</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4207"/>
-        <updated>2022-07-07T09:26:14.509Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현, 비대위원장 임명 시 피선거권 받았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4206</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4206"/>
-        <updated>2022-07-07T09:26:14.510Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령보다 노태우 전 대통령 데드크로스가 더 빨리 왔다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4205</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4205"/>
-        <updated>2022-07-07T09:26:14.510Z</updated>
+        <title type="html"><![CDATA[촉법소년 흉악범죄 최근에 더 늘었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4209</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4209"/>
+        <updated>2022-07-12T03:59:08.732Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 여름철 재확산 가능성 커졌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4204</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4204"/>
-        <updated>2022-07-06T09:17:17.443Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 계속 쓰면 만성적 저산소증에 시달린다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4202</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4202"/>
-        <updated>2022-07-05T11:15:35.183Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공동주택의 내 집 흡연은 제재할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4201</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4201"/>
-        <updated>2022-07-05T11:15:35.185Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데크길은 나무로 만들어졌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4200</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4200"/>
-        <updated>2022-07-05T11:15:35.188Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려동물 사체는 생활폐기물이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4199</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4199"/>
-        <updated>2022-07-05T11:15:35.190Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
