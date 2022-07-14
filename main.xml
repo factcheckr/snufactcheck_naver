@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-07-14T08:22:13.901Z</updated>
+    <updated>2022-07-14T09:18:01.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO가 퀴어퍼레이드가 원숭이두창을 확산시켰다고 경고했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4228</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4228"/>
+        <updated>2022-07-14T09:17:42.558Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['튀르키예발 비행기 연착' 보상으로 24만원 할인권 미흡하다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4227</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4216"/>
         <updated>2022-07-12T03:59:08.730Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓, 전기·물 전 세계서 제일 물 쓰듯이 쓰는 나라다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4213</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4213"/>
-        <updated>2022-07-12T07:15:49.765Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
