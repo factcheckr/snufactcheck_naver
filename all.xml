@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T09:18:01.900Z</updated>
+    <updated>2022-07-14T10:19:26.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[보험료는 내국인이 내고, 혜택은 외국인이 받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4232</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4232"/>
+        <updated>2022-07-14T10:19:07.871Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[택배 박스 테이프는 비닐류로 배출해도 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4231</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4231"/>
+        <updated>2022-07-14T10:19:07.875Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초음파로 모기를 퇴치한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4230</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4230"/>
+        <updated>2022-07-14T10:19:07.881Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO가 퀴어퍼레이드가 원숭이두창을 확산시켰다고 경고했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4228</id>
@@ -52,27 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4219"/>
         <updated>2022-07-12T03:59:08.723Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에어컨 전기료 아끼려면 계속 틀어야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4218</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4218"/>
-        <updated>2022-07-12T03:59:08.723Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 1인당 전기 사용량이 세계 3위다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4217</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4217"/>
-        <updated>2022-07-12T03:59:08.729Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식·가상화폐 투자 빚 서울에서 탕감받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4216</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4216"/>
-        <updated>2022-07-12T03:59:08.730Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
