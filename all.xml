@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-18T07:15:55.998Z</updated>
+    <updated>2022-07-18T08:22:04.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[서울 생활비가 홍콩보다 비싸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4240</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4240"/>
+        <updated>2022-07-18T08:21:44.315Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국은 ‘양성 평등 후진국’이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4238</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4238"/>
+        <updated>2022-07-18T08:21:44.316Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석 징계 처분 이미 확정됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4233</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4224"/>
         <updated>2022-07-12T09:17:29.636Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생이 수업을 방해해도 교사가 해결할 방법은 거의 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4222</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4222"/>
-        <updated>2022-07-12T03:59:08.720Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이른바 '경찰국' 신설은 경찰에 대한 중앙정부의 통제방안을 마련하겠다는 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4221</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4221"/>
-        <updated>2022-07-12T03:59:08.721Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
