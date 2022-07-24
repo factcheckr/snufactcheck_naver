@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-07-24T19:14:35.185Z</updated>
+    <updated>2022-07-24T20:18:24.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 여름철 재확산 가능성 커졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4204</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4204"/>
+        <updated>2022-07-24T20:18:14.558Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크 계속 쓰면 만성적 저산소증에 시달린다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4202</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4202"/>
+        <updated>2022-07-24T20:18:14.560Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정은경, 퇴임 후 백신 접종 위해 국민 속였다고 고백했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4099</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4099"/>
+        <updated>2022-07-24T20:18:14.560Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 코로나 방역 OECD 최상위권이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4044</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4044"/>
+        <updated>2022-07-24T20:18:14.565Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 위중증자에 대한 정부의 치료비 '전액' 지원, 환자가 격리 해제되면 끝난다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4017</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4017"/>
+        <updated>2022-07-24T20:18:14.565Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 2급 감염병 되면 치료비 폭등한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4006</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4006"/>
+        <updated>2022-07-24T20:18:14.566Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 감염병 2급 전환, 코로나 치료비 및 생활지원금도 사라진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3993</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3993"/>
+        <updated>2022-07-24T20:18:14.566Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당초 팍스로비드 국내 반입 시기가 확정되지 않았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3988</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3988"/>
+        <updated>2022-07-24T20:18:14.567Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본이 외국인 입국 완화 대상에서 한국을 제외했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3949</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3949"/>
+        <updated>2022-07-24T20:18:14.568Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국이 수출한 의류 때문에 중국에서 코로나 감염됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3948</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3948"/>
+        <updated>2022-07-24T20:18:14.569Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
 </feed>
