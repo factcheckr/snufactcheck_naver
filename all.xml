@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-27T08:21:12.669Z</updated>
+    <updated>2022-07-27T09:16:46.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정부 직제 개편안 입법예고 기간은 통상 5일이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4269</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4269"/>
+        <updated>2022-07-27T09:16:26.606Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강화된 교차로 우회전 규정, 자전거도 적용된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4268</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4268"/>
+        <updated>2022-07-27T09:16:26.612Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주유공자예우법은 '운동권 셀프특혜법'이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4267</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4267"/>
+        <updated>2022-07-27T09:16:26.614Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류삼영 총경이 '조국 수호 집회'에 참여했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4266</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4266"/>
+        <updated>2022-07-27T09:16:26.618Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 판매되는 승용차의 평균 온실가스 배출량은 배출허용기준을 초과하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4265</id>
@@ -45,34 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4260"/>
         <updated>2022-07-25T06:22:11.790Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자영업자가 고객 개인정보를 악용해도 과징금을 면제해준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4259</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4259"/>
-        <updated>2022-07-25T06:22:11.790Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 공영방송 세계 최다이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4258</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4258"/>
-        <updated>2022-07-25T06:22:11.791Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4억 주택 기준' 금리전환 대책, 서울 혜택은 적다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4257</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4257"/>
-        <updated>2022-07-27T07:17:02.157Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대세로 자리 잡은 1인 가구 행복도 낮다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4254</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4254"/>
-        <updated>2022-07-22T09:16:23.025Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
