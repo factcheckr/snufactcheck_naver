@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-27T05:32:14.242Z</updated>
+    <updated>2022-07-27T06:21:52.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[국내 판매되는 승용차의 평균 온실가스 배출량은 배출허용기준을 초과하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4265</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4265"/>
+        <updated>2022-07-27T06:21:32.637Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차 안에서 에어컨 틀어놓고 잠들면 산소 부족으로 질식할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4264</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4264"/>
+        <updated>2022-07-27T06:21:32.641Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘리베이터가 설치되지 않은 경찰서 건물은 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4263</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4263"/>
+        <updated>2022-07-27T06:21:32.641Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['탈(脫) 탈원전' 정책 에너지법 개정 없이는 불가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4262</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4262"/>
+        <updated>2022-07-27T06:21:32.642Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경찰서장 회의는 하나회의 12.12 쿠데타에 준하는 사태다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4261</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4261"/>
+        <updated>2022-07-27T06:21:32.644Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭염으로 가로수가 자연 발화됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4260</id>
@@ -38,41 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4253"/>
         <updated>2022-07-22T07:16:39.251Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현금서비스를 받으면 신용점수가 떨어진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4251</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4251"/>
-        <updated>2022-07-22T09:16:23.028Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1인당 전기사용량 '역대 최고, 세계 3위'다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4247</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4247"/>
-        <updated>2022-07-20T07:15:48.372Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공기관 적정 실내온도 28℃인데 윤석열 대통령은 21℃에서 회의했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4246</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4246"/>
-        <updated>2022-07-20T07:15:48.377Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자폐 스펙트럼 진단, 남아보다 여아가 어렵다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4245</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4245"/>
-        <updated>2022-07-20T03:42:13.723Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유충이 발견된 수돗물, 끓여 마시면 문제 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4244</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4244"/>
-        <updated>2022-07-19T09:21:43.134Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
