@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-01T09:19:01.932Z</updated>
+    <updated>2022-08-01T10:20:05.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[경찰이 독립된 나라는 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA[저학력, 저소득층이 국민의힘 지지를 많이 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4282</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4282"/>
-        <updated>2022-08-01T09:19:01.333Z</updated>
+        <updated>2022-08-01T09:18:43.683Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
