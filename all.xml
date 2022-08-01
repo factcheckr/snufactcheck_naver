@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-01T08:22:10.535Z</updated>
+    <updated>2022-08-01T09:19:01.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[경찰이 독립된 나라는 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4286</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4286"/>
+        <updated>2022-08-01T09:18:43.677Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[훈련소 입소 후 코로나 확진돼 귀가하면 복무기간 안 빼준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4284</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4284"/>
+        <updated>2022-08-01T09:18:43.683Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경찰대 출신이 총경급 이상 고위직 60% 차지한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4283</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4283"/>
+        <updated>2022-08-01T09:18:43.683Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저학력, 저소득층이 국민의힘 지지를 많이 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4282</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4282"/>
+        <updated>2022-08-01T09:18:43.683Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한에서 범죄 저지르고 남한으로 오면 우리 법원이 처벌했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4280</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4280"/>
+        <updated>2022-08-01T09:18:43.683Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법인세 인하, 세계적 추세다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4277</id>
@@ -37,41 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4267</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4267"/>
         <updated>2022-07-27T09:16:26.614Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류삼영 총경이 '조국 수호 집회'에 참여했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4266</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4266"/>
-        <updated>2022-07-27T09:16:26.618Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 판매되는 승용차의 평균 온실가스 배출량은 배출허용기준을 초과하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4265</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4265"/>
-        <updated>2022-07-27T06:21:32.637Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차 안에서 에어컨 틀어놓고 잠들면 산소 부족으로 질식할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4264</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4264"/>
-        <updated>2022-07-27T06:21:32.641Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리베이터가 설치되지 않은 경찰서 건물은 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4263</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4263"/>
-        <updated>2022-07-27T06:21:32.641Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탈(脫) 탈원전' 정책 에너지법 개정 없이는 불가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4262</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4262"/>
-        <updated>2022-07-27T06:21:32.642Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[저학력, 저소득층이 국민의힘 지지를 많이 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4282</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4282"/>
+        <updated>2022-08-01T09:19:01.333Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[헌재소장 공관 옆 등산로 폐쇄는 법적 근거를 가진다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4185</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4185"/>
@@ -276,12 +283,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3906"/>
         <updated>2022-04-27T06:21:45.324Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인수위가 결정하면 여가부는 폐지된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3902</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3902"/>
-        <updated>2022-04-27T06:21:45.329Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
