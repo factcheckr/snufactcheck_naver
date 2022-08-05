@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-08-05T07:16:17.637Z</updated>
+    <updated>2022-08-05T08:21:10.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펠로시 미 하원의장 의전 결례, 국회의장 책임이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4299</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4299"/>
+        <updated>2022-08-05T08:20:52.600Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펠로시 의장 말고도, 미국 의회 지도자들이 여러 차례 타이완을 방문해 왔다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4297</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4297"/>
+        <updated>2022-08-05T08:20:52.602Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령이 휴가 중에 방한한 인사를 만나는 것은 적절치 않다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4296</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4296"/>
+        <updated>2022-08-05T08:20:52.604Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일은 파견근로 기간에 제한이 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4295</id>
@@ -52,27 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4289</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4289"/>
         <updated>2022-08-04T07:15:23.769Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세 사기, 주말에 자주 일어난다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4287</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4287"/>
-        <updated>2022-08-03T05:02:31.301Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰이 독립된 나라는 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4286</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4286"/>
-        <updated>2022-08-01T09:18:43.677Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자폐 스펙트럼 장애인은 울지 않는다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4285</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4285"/>
-        <updated>2022-08-02T10:20:47.167Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
