@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-08-10T04:20:45.587Z</updated>
+    <updated>2022-08-10T05:15:41.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남 물난리, 빗물펌프장 반대한 학부모들 때문이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4304</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4304"/>
+        <updated>2022-08-10T05:15:22.422Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴가 사유, 회사에 꼭 알려야 한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4301</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4291</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4291"/>
         <updated>2022-08-05T06:21:14.471Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고학력·고소득층은 더불어민주당, 저학력·저소득층은 국민의힘 지지한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4290</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4290"/>
-        <updated>2022-08-03T12:32:57.250Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
