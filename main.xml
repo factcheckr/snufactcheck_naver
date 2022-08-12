@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-08-12T05:17:25.120Z</updated>
+    <updated>2022-08-12T06:21:32.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당이 다수인 서울시의회가 서울시 수방 예산을 삭감해 수해 피해가 커졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4309</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4309"/>
+        <updated>2022-08-12T06:21:12.495Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울에도 초대형 빗물 저장소가 있었으나, 쓰레기 때문에 막혀서 무용지물이었다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4307</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4295"/>
         <updated>2022-08-05T06:21:14.452Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴급 상황이 생겨도 알뜰폰 사용자는 위치추적 안 된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4294</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4294"/>
-        <updated>2022-08-04T07:15:23.767Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
