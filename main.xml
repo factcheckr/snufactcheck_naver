@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-08-16T07:13:35.290Z</updated>
+    <updated>2022-08-16T08:17:32.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만 5세 입학으로 연령 하향은 세계적인 흐름이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4322</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4322"/>
+        <updated>2022-08-16T08:17:12.539Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 '이상한 변호사 우영우' 작가가 졸업한 하자센터, 박원순이 설립했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4321</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4321"/>
+        <updated>2022-08-16T08:17:12.541Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기상청 예보, 정확도 떨어진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4320</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4320"/>
+        <updated>2022-08-16T08:17:12.541Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가부채 'D4' 개념은 안철수가 만들어냈다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4318</id>
@@ -53,26 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4307"/>
         <updated>2022-08-11T06:20:57.473Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 원전 사용후핵연료 저장시설은 포화상태에 이르렀다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4306</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4306"/>
-        <updated>2022-08-11T06:20:57.474Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권성동 국민의힘 원내대표도 국회 운영위원장을 겸직하는데 (민주당 최고위원에 도전한) 정청래 의원의 상임위원장을 겸직을 문제 삼는 것은 부당하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4305</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4305"/>
-        <updated>2022-08-11T06:20:57.474Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남 물난리, 빗물펌프장 반대한 학부모들 때문이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4304</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4304"/>
-        <updated>2022-08-10T05:15:22.422Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
