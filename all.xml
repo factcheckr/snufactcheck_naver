@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-18T10:20:15.370Z</updated>
+    <updated>2022-08-18T11:15:15.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -54,6 +54,13 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[집중 호우 대비 예산, 서울시가 900억 원 깎았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4319</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4319"/>
+        <updated>2022-08-18T11:14:55.860Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국가부채 'D4' 개념은 안철수가 만들어냈다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4318</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4318"/>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4317"/>
         <updated>2022-08-16T05:18:31.888Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[침수 중고차, 모르고 사면 전액 환불 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4316</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4316"/>
-        <updated>2022-08-16T04:39:26.357Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
