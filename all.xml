@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-18T04:02:15.197Z</updated>
+    <updated>2022-08-18T05:34:21.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4327</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4327"/>
+        <updated>2022-08-18T05:34:03.114Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성인 실종은 가출로 분류된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4326</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4326"/>
+        <updated>2022-08-18T05:34:03.114Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위암 치료는 우리나라가 세계 1등이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4325</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4316"/>
         <updated>2022-08-16T04:39:26.357Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천연가스 가격 뛸 때 태양광 발전 많이 하면 전기요금 낮출 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4315</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4315"/>
-        <updated>2022-08-12T09:16:14.067Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전 탓에 원전 경쟁력 후퇴했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4314</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4314"/>
-        <updated>2022-08-16T05:18:31.889Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
