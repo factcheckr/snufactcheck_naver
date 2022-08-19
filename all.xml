@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-19T06:24:02.688Z</updated>
+    <updated>2022-08-19T07:16:02.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[A씨 부부의 혈액형은 모두 B형이라 혈액형 조합상 A형 자녀가 나올 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4332</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4332"/>
+        <updated>2022-08-19T07:15:40.561Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여론조사 때 60·70대 구분 않으면 尹 지지율 높아진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4331</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4331"/>
         <updated>2022-08-19T06:23:44.377Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도가 전국 광역단체 중 가장 많은 온실가스를 배출한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4329</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4329"/>
+        <updated>2022-08-19T07:15:40.576Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휴대폰 충전하면서 통화하면 감전사할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4320"/>
         <updated>2022-08-16T08:17:12.541Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집중 호우 대비 예산, 서울시가 900억 원 깎았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4319</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4319"/>
-        <updated>2022-08-18T11:14:55.860Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가부채 'D4' 개념은 안철수가 만들어냈다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4318</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4318"/>
-        <updated>2022-08-16T07:13:16.476Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
