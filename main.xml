@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-08-22T08:21:38.987Z</updated>
+    <updated>2022-08-22T09:17:09.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4335"/>
         <updated>2022-08-22T07:15:16.277Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘여성이사 할당제’ 법 어겨도 처벌조항 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4334</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4334"/>
+        <updated>2022-08-22T09:16:47.442Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A씨 부부의 혈액형은 모두 B형이라 혈액형 조합상 A형 자녀가 나올 수 없다]]></title>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4322</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4322"/>
         <updated>2022-08-16T08:17:12.539Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 '이상한 변호사 우영우' 작가가 졸업한 하자센터, 박원순이 설립했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4321</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4321"/>
-        <updated>2022-08-16T08:17:12.541Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
