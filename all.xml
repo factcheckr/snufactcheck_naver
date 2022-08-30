@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-30T08:23:30.815Z</updated>
+    <updated>2022-08-30T09:17:27.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제2부속실 없애고 영부인 일정 줄였다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4356</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4356"/>
+        <updated>2022-08-30T09:17:06.985Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흡연 경고 그림이 흡연율을 떨어뜨린다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4354</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4342"/>
         <updated>2022-08-25T16:21:18.328Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 90%가 '검수원복 시행령'을 문제없다고 본다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4341</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4341"/>
-        <updated>2022-08-26T05:58:07.984Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
