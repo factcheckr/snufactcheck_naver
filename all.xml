@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-01T07:19:22.440Z</updated>
+    <updated>2022-09-01T08:24:08.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['소보로빵 비누'는 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4359</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4359"/>
+        <updated>2022-09-01T08:23:49.427Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임대차법 때문에 전셋값 폭등한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4357</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4357"/>
+        <updated>2022-09-01T08:23:49.427Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2부속실 없애고 영부인 일정 줄였다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4356</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4344"/>
         <updated>2022-08-29T06:06:21.616Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한금융지주가 한화손해보험 인수를 추진한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4343</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4343"/>
-        <updated>2022-08-25T12:34:02.321Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 정부는 폭등한 집값과 전셋값을 안정시켰다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4342</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4342"/>
-        <updated>2022-08-25T16:21:18.328Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
