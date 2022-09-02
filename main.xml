@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-02T08:21:43.766Z</updated>
+    <updated>2022-09-02T09:17:28.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4361</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4361"/>
+        <updated>2022-09-02T09:17:07.495Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[분홍 구름은 태풍의 전조현상이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4360</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4346"/>
         <updated>2022-08-25T13:39:58.661Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰청법은 부패범죄, 경제범죄가 아닌 다른 유형의 범죄를 구체화할 권한을 위임할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4345</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4345"/>
-        <updated>2022-08-29T06:06:21.614Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
