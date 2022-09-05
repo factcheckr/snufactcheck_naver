@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-05T08:21:02.962Z</updated>
+    <updated>2022-09-05T09:18:02.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 법인세는 OECD 평균보다 높다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4366</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4366"/>
+        <updated>2022-09-05T09:17:42.302Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 정부는 론스타에 95.4% 승소했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4364</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4348"/>
         <updated>2022-08-26T06:40:13.977Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 취임식 초청 명단 파기는 위법이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4347</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4347"/>
-        <updated>2022-08-26T09:16:55.210Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
