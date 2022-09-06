@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2022-09-06T13:42:25.273Z</updated>
+    <updated>2022-09-06T14:19:50.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대통령 취임식 초청자 명단' 폐기해도 문제없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4344</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4344"/>
+        <updated>2022-09-06T14:19:49.914Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저학력, 저소득층이 국민의힘 지지를 많이 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4282</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4282"/>
+        <updated>2022-09-06T14:19:49.915Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헌재소장 공관 옆 등산로 폐쇄는 법적 근거를 가진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4185</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4185"/>
+        <updated>2022-09-06T14:19:49.916Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집회 및 시위에서의 소음을 제재할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4166</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4166"/>
+        <updated>2022-09-06T14:19:49.917Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 지정기록물은 정권이 바뀔 때마다 공개 여부 공방의 대상이 되고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4161</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4161"/>
+        <updated>2022-09-06T14:19:49.919Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 용산 집무실 앞에서 시위를 할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4094</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
+        <updated>2022-09-06T14:19:49.920Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4016</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
+        <updated>2022-09-06T14:19:49.922Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6·1 지방선거 때 '검수완박' 국민투표 가능하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4012</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4012"/>
+        <updated>2022-09-06T14:19:49.924Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
+        <updated>2022-09-06T14:19:49.925Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임대차3법으로 전세계약 갱신율 70%로 높아졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3921</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3921"/>
+        <updated>2022-09-06T14:19:49.926Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
 </feed>
