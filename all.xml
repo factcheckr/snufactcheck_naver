@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-07T12:35:53.374Z</updated>
+    <updated>2022-09-07T13:51:49.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유튜버들의 위험천만한 돈벌이 방송을 제지할 수단이 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4372</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4372"/>
+        <updated>2022-09-07T13:51:27.147Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후변화가 힌남노 '역대 최강'으로 만들었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4370</id>
@@ -64,13 +71,6 @@
         <title type="html"><![CDATA['소보로빵 비누'는 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4359</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4359"/>
-        <updated>2022-09-01T08:23:49.427Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임대차법 때문에 전셋값 폭등한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4357</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4357"/>
         <updated>2022-09-01T08:23:49.427Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
