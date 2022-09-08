@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-08T11:16:27.318Z</updated>
+    <updated>2022-09-08T12:35:21.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절 고속도로 통행료 면제하면 한국도로공사 부채 가중된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4376</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4376"/>
+        <updated>2022-09-08T12:35:00.808Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차례상에 전 안 올려도 되고 '홍동백서' '조율이시' 표현 없었다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4375</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4364"/>
         <updated>2022-09-05T06:01:27.200Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고가 장신구 착용하고 출국할 땐 신고해야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4362</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4362"/>
-        <updated>2022-09-07T06:14:35.797Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
