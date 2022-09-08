@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-08T04:12:17.119Z</updated>
+    <updated>2022-09-08T06:01:32.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[유튜버들의 위험천만한 돈벌이 방송을 제지할 수단이 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -40,6 +40,13 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美 '전기차 차별'(인플레이션 감축법)은 한미 FTA 규정 위반이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4365</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4365"/>
+        <updated>2022-09-08T06:01:11.290Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한국 정부는 론스타에 95.4% 승소했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4364</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4364"/>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4360</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4360"/>
         <updated>2022-09-02T06:47:46.796Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소보로빵 비누'는 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4359</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4359"/>
-        <updated>2022-09-01T08:23:49.427Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
