@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-14T09:20:13.579Z</updated>
+    <updated>2022-09-14T10:21:05.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다른 나라에선 자국만 우대하는 전기차 보조금 정책 펼친다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4383</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4383"/>
+        <updated>2022-09-14T10:20:46.220Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뱀에 물렸을 때 독이 몸 전체에 퍼지지 않도록 강하게 묶어야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4381</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4381"/>
+        <updated>2022-09-14T10:20:46.220Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 선거범죄로 유죄 확정돼도 국회의원직은 유지된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4379</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4368"/>
         <updated>2022-09-07T06:14:35.795Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 법인세는 OECD 평균보다 높다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4366</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4366"/>
-        <updated>2022-09-05T09:17:42.302Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 '전기차 차별'(인플레이션 감축법)은 한미 FTA 규정 위반이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4365</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4365"/>
-        <updated>2022-09-08T06:01:11.290Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
