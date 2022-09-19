@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-19T04:33:07.990Z</updated>
+    <updated>2022-09-19T06:13:21.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[전남 신안군이 전국 군(郡) 단위 중 유일하게 인구가 늘어나고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4393</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4393"/>
+        <updated>2022-09-19T06:12:57.164Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서해 바닷물이 역류해 한강 둔치가 침수된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4390</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4382"/>
         <updated>2022-09-15T04:25:20.795Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀에 물렸을 때 독이 몸 전체에 퍼지지 않도록 강하게 묶어야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4381</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4381"/>
-        <updated>2022-09-14T10:20:46.220Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
