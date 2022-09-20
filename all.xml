@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-20T07:26:59.316Z</updated>
+    <updated>2022-09-20T08:26:56.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['음료 든 컵 들고 버스 탑승 금지' 법적 근거 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4398</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4398"/>
+        <updated>2022-09-20T08:26:37.707Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘자이언트 스텝’·‘울트라 스텝’은 한국산 용어다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4396</id>
@@ -24,6 +31,20 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4393"/>
         <updated>2022-09-19T06:12:57.164Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국, 50년 뒤 '세계에서 가장 늙은 나라' 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4392</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4392"/>
+        <updated>2022-09-20T08:26:37.711Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판사 1명이 국민의힘 가처분 재판 결정한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4391</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4391"/>
+        <updated>2022-09-20T08:26:37.714Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서해 바닷물이 역류해 한강 둔치가 침수된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -51,27 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4387</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4387"/>
         <updated>2022-09-15T10:20:49.090Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회 통과한 특검법안은 모두 여야 합의였다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4386</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4386"/>
-        <updated>2022-09-15T04:25:20.787Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 실질 문맹률이 75%에 달한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4385</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4385"/>
-        <updated>2022-09-15T04:25:20.789Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성가족부 등록 위안부 피해자 240명 중 강간 피해·사망자 1명도 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4384</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4384"/>
-        <updated>2022-09-14T11:16:03.483Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
