@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-22T06:02:32.097Z</updated>
+    <updated>2022-09-22T07:33:04.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[역대 한국 지도자가 유엔 총회에서 연설하면서 한반도 평화를 언급하지 않은 일은 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4402</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4402"/>
+        <updated>2022-09-22T07:32:46.019Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 왕족 여성만 장례식장에서 검은 망사 모자를 쓴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4401</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4391"/>
         <updated>2022-09-20T08:26:37.714Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서해 바닷물이 역류해 한강 둔치가 침수된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4390</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4390"/>
-        <updated>2022-09-16T12:34:23.711Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -262,26 +262,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
         <updated>2022-09-21T09:21:20.890Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4016</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
-        <updated>2022-09-21T09:21:20.891Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6·1 지방선거 때 '검수완박' 국민투표 가능하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4012</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4012"/>
-        <updated>2022-09-21T09:21:20.891Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
-        <updated>2022-09-21T09:21:20.897Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
