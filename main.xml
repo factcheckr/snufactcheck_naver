@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-23T18:24:42.192Z</updated>
+    <updated>2022-09-23T19:18:29.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기도 배달특급 배달비가 다른 배달앱(요기요, 배달의 민족)보다 비싸다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4405</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4405"/>
+        <updated>2022-09-23T19:18:09.701Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘북한’ 빠진 유엔 총회 연설은 윤석열 대통령이 처음이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4403</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4403"/>
+        <updated>2022-09-23T19:18:09.703Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대 한국 지도자가 유엔 총회에서 연설하면서 한반도 평화를 언급하지 않은 일은 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4402</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4402"/>
+        <updated>2022-09-23T19:18:09.708Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 왕족 여성만 장례식장에서 검은 망사 모자를 쓴다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4401</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4401"/>
+        <updated>2022-09-23T19:18:09.709Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스토킹 처벌이 약하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4400</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4400"/>
+        <updated>2022-09-23T19:18:09.711Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 전기차 보조금, 테슬라가 싹쓸이했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4399</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4399"/>
+        <updated>2022-09-23T19:18:09.714Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음료 든 컵 들고 버스 탑승 금지' 법적 근거 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4398</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4398"/>
+        <updated>2022-09-23T19:18:09.719Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘자이언트 스텝’·‘울트라 스텝’은 한국산 용어다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4396</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4396"/>
+        <updated>2022-09-23T19:18:09.721Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조선족은 은행 ATM 수수료 면제 받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4395</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4395"/>
+        <updated>2022-09-23T19:18:09.724Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고물가에 고가형 커피 인기는 줄고 저가형 커피가 인기다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4394</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4394"/>
+        <updated>2022-09-23T19:18:09.725Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
 </feed>
