@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-23T15:21:28.697Z</updated>
+    <updated>2022-09-23T16:27:14.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[경기도 배달특급 배달비가 다른 배달앱(요기요, 배달의 민족)보다 비싸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -268,44 +268,20 @@
         <id>https://m.news.naver.com/factcheck/end?id=4016</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
         <updated>2022-09-22T08:26:21.934Z</updated>
-        <content type="html"><![CDATA[<div class="factcheck_subject">
-                <div class="factcheck_subject_info">
-                    <div class="factcheck_subject_info_photo">
-                        
-                            
-                            
-                        
-                        <div class="factcheck_subject_info_photo_inner">
-                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://mimgnews.pstatic.net/image/upload/factcheck/people/2022/04/29/1657_20220429164104.jpg?type=nf100_100" alt="" onerror="showNoImage(this)" width="50" height="50">
-                        </div>
-                    </div>
-                    <div class="factcheck_subject_info_text">
-                        <strong class="factcheck_subject_info_name">박주선</strong>
-                        <h3 class="factcheck_subject_topic">정치인(공직자)의 발언</h3>
-                    </div>
-                </div>
-                <p class="factcheck_subject_summary"><a href="/factcheck/end?id=4016" onclick="nclk(event,'fac.end','','');">대선 경쟁자를 대통령 취임식에 초청한 전례 없다</a></p>
-                <div class="factcheck_subject_info_inner">
-                    <div class="factcheck_subject_info_button _rcount" data-comment="{gno:'event.news.president2017.factcheck.of.4016','type':'optional','exposeType':'exact','addStyle':'prepend','nclk':'fac.comment','params':{'url':'/factcheck/end?id=4016&amp;view=none', 'className':'factcheck_subject_info_comment'}}">
-                        <div class="spiLayer">
-                            <div class="spi_wrap layer_share_on">
-                                <div class="spi">
-                                    <div class="spug">
-                                        
-                                        <a href="#" class="_spi_release spi_ico _btn_postbtn sns_share naver-splugin" data-button="postbtn" onclick="nclk(event,'fac.share','','');return false;" data-style="standard" data-url="https://m.news.naver.com/factcheck/end?id=4016" data-title="대선 경쟁자를 대통령 취임식에 초청한 전례 없다" data-blog-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=blog" data-blog-source-type="3" data-blog-blog-id="naver" data-cafe-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=cafe" data-cafe-source-type="3" data-memo-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=memo" data-band-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=band" data-line-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=line" data-kakaotalk-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=kakao" data-kakaostory-display="off" data-facebook-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=facebook" data-twitter-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=twitter" data-friend-display="on" data-friend-url="https://m.news.naver.com/factcheck/end?id=4016&amp;lfrom=friend">보내기</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="factcheck_subject_info_source">
-                        
-                        
-                        
-                            
-                                
-                                
-                                    </div></div></div>]]></content>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6·1 지방선거 때 '검수완박' 국민투표 가능하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4012</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4012"/>
+        <updated>2022-09-23T16:27:13.559Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
+        <updated>2022-09-23T16:27:13.560Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
