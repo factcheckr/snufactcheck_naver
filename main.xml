@@ -2,7 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-24T11:16:43.729Z</updated>
+    <updated>2022-09-24T12:34:22.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기도 배달특급 배달비가 다른 배달앱(요기요, 배달의 민족)보다 비싸다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4405</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4405"/>
+        <updated>2022-09-24T12:34:07.918Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘북한’ 빠진 유엔 총회 연설은 윤석열 대통령이 처음이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4403</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4403"/>
+        <updated>2022-09-24T12:34:07.919Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대 한국 지도자가 유엔 총회에서 연설하면서 한반도 평화를 언급하지 않은 일은 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4402</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4402"/>
+        <updated>2022-09-24T12:34:07.922Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 왕족 여성만 장례식장에서 검은 망사 모자를 쓴다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4401</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4401"/>
+        <updated>2022-09-24T12:34:07.923Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스토킹 처벌이 약하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4400</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4400"/>
+        <updated>2022-09-24T12:34:07.924Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
 </feed>
