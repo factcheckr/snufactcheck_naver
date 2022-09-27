@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-27T06:00:59.386Z</updated>
+    <updated>2022-09-27T07:00:10.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[대통령기록관 압수수색 시 변호인 참여 보장 안 해도 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -40,39 +40,23 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기도 배달특급 배달비가 다른 배달앱(요기요, 배달의 민족)보다 비싸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4405</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4405"/>
-        <updated>2022-09-24T12:34:07.918Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘북한’ 빠진 유엔 총회 연설은 윤석열 대통령이 처음이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4403</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4403"/>
-        <updated>2022-09-24T12:34:07.919Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 한국 지도자가 유엔 총회에서 연설하면서 한반도 평화를 언급하지 않은 일은 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4402</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4402"/>
-        <updated>2022-09-24T12:34:07.922Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 왕족 여성만 장례식장에서 검은 망사 모자를 쓴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4401</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4401"/>
-        <updated>2022-09-24T12:34:07.923Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스토킹 처벌이 약하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4400</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4400"/>
-        <updated>2022-09-24T12:34:07.924Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
+        <title type="html"><![CDATA[undefined (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
+        <link href="https://factcheckr.github.io/snufactcheck_naver/all.xml"/>
+        <updated>2022-09-27T06:59:53.680Z</updated>
+        <content type="html"><![CDATA[<div class="factcheck_subject">
+                <div class="factcheck_subject_info">
+                    <div class="factcheck_subject_info_photo">
+                        
+                            
+                            
+                        
+                        <div class="factcheck_subject_info_photo_inner">
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://mimgnews.pstatic.net/image/upload/factcheck/people/2022/05/12/1396_20220512171458.jpg?type=nf100_100" alt="" onerror="showNoImage(this)" width="50" height="50">
+                        </div>
+                    </div>
+                    <div class="factcheck_subject_info_text">
+                        <strong class="factcheck_subject_info_name">온라인 커뮤니티</strong></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
