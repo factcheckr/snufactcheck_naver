@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-29T01:57:31.944Z</updated>
+    <updated>2022-09-29T04:20:59.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[정상회담이라면, 국기 게양·취재가 이뤄져야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4413</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4413"/>
         <updated>2022-09-28T12:37:34.329Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일 정상 만남, ‘회담’ 아니고 ‘간담’이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4412</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4412"/>
+        <updated>2022-09-29T04:20:43.329Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고준위방사성폐기물 처분시설과 사고저항성핵연료 등의 문제가 원전 수출에 미치는 영향은 제한적이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4411</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4411"/>
+        <updated>2022-09-29T04:20:43.331Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -54,24 +68,10 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘북한’ 빠진 유엔 총회 연설은 윤석열 대통령이 처음이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4403</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4403"/>
-        <updated>2022-09-28T04:18:07.931Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역대 한국 지도자가 유엔 총회에서 연설하면서 한반도 평화를 언급하지 않은 일은 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4402</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4402"/>
-        <updated>2022-09-28T04:18:07.932Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 왕족 여성만 장례식장에서 검은 망사 모자를 쓴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4401</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4401"/>
-        <updated>2022-09-28T04:18:07.933Z</updated>
+        <title type="html"><![CDATA[전기차 수출 기업들의 미국 시장 피해는 외교실패에서 온 경제실패다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4404</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4404"/>
+        <updated>2022-09-29T04:20:43.339Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
