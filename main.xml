@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-09-29T07:36:10.404Z</updated>
+    <updated>2022-09-29T08:27:54.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수리남은 실제로 마약 온상 국가다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4417</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4417"/>
+        <updated>2022-09-29T08:27:37.211Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정상회담이라면, 국기 게양·취재가 이뤄져야 한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4413</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4405</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4405"/>
         <updated>2022-09-28T04:18:07.930Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 수출 기업들의 미국 시장 피해는 외교실패에서 온 경제실패다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4404</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4404"/>
-        <updated>2022-09-29T04:20:43.339Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
