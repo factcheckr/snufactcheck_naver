@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-30T11:17:04.047Z</updated>
+    <updated>2022-09-30T12:40:14.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유럽 선진국에서도 파업 손해배상 청구가 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4420</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4420"/>
+        <updated>2022-09-30T12:39:58.371Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱가포르 외국인 가사도우미는 38만~76만원 수준이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4418</id>
@@ -23,6 +30,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=4416</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4416"/>
         <updated>2022-09-29T12:37:28.926Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일 정상회담, 이번엔 한국이 일본 찾아갈 차례였다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4414</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4414"/>
+        <updated>2022-09-30T12:39:58.371Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4409"/>
         <updated>2022-09-26T06:10:01.382Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장병 전투화 310억-내복 95억 예산 삭감했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4408</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4408"/>
-        <updated>2022-09-26T06:10:01.382Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프랑스·영국은 불법 노동쟁의에 대한 법적 면책 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4407</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4407"/>
-        <updated>2022-09-26T06:10:01.382Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
