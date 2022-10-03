@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-03T06:32:39.765Z</updated>
+    <updated>2022-10-03T07:27:59.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한미 통화스와프가 환율 급등을 막을 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4424</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4424"/>
+        <updated>2022-10-03T07:27:43.736Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽 선진국에서도 파업 손해배상 청구가 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4420</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4410</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4410"/>
         <updated>2022-09-26T06:10:01.377Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노란봉투법안'에는 폭력·파괴 행위가 있더라도 그것이 노조의 결정에 따른 것일 때에는 개인에 대한 손해배상 청구를 할 수 없도록 하고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4409</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4409"/>
-        <updated>2022-09-26T06:10:01.382Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
