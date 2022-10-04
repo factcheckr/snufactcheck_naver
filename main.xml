@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-04T09:24:56.459Z</updated>
+    <updated>2022-10-04T10:21:04.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한미 통화스와프가 환율 급등을 막을 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4424</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4424"/>
+        <updated>2022-10-04T10:20:46.323Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신상공개법, '성범죄자 조심' 사진 보내면 처벌받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4423</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4423"/>
+        <updated>2022-10-04T10:20:46.330Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 살 안 되는 애들은 (어린이집에 안 다니고) 집에만 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4422</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4422"/>
+        <updated>2022-10-04T10:20:46.331Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽 선진국에서도 파업 손해배상 청구가 가능하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4420</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4420"/>
+        <updated>2022-10-04T10:20:46.331Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱가포르 외국인 가사도우미는 38만~76만원 수준이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4418</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4418"/>
+        <updated>2022-10-04T10:20:46.334Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수리남은 실제로 마약 온상 국가다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4417</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4417"/>
+        <updated>2022-10-04T10:20:46.339Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9월 자동차보험 갱신 시점에 보험료 할증됐는데, 침수차량이 많아서 그렇다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4416</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4416"/>
+        <updated>2022-10-04T10:20:46.339Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일 정상회담, 이번엔 한국이 일본 찾아갈 차례였다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4414</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4414"/>
+        <updated>2022-10-04T10:20:46.341Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정상회담이라면, 국기 게양·취재가 이뤄져야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4413</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4413"/>
+        <updated>2022-10-04T10:20:46.343Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일 정상 만남, ‘회담’ 아니고 ‘간담’이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4412</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4412"/>
+        <updated>2022-10-04T10:20:46.345Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
 </feed>
