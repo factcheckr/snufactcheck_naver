@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-10-04T14:37:19.747Z</updated>
+    <updated>2022-10-04T15:24:52.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -52,27 +52,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=3681</id>
         <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
         <updated>2022-09-28T21:17:51.823Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
-        <updated>2022-09-28T21:17:51.828Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
-        <updated>2022-09-28T21:17:51.830Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
-        <updated>2022-09-28T21:17:51.831Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
