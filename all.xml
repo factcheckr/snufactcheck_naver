@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-04T01:50:11.542Z</updated>
+    <updated>2022-10-04T03:45:04.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[한미 통화스와프가 환율 급등을 막을 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4424"/>
         <updated>2022-10-03T10:22:03.467Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신상공개법, '성범죄자 조심' 사진 보내면 처벌받는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4423</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4423"/>
+        <updated>2022-10-04T03:44:47.295Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[두 살 안 되는 애들은 (어린이집에 안 다니고) 집에만 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4412</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4412"/>
         <updated>2022-10-03T10:22:03.475Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고준위방사성폐기물 처분시설과 사고저항성핵연료 등의 문제가 원전 수출에 미치는 영향은 제한적이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4411</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4411"/>
-        <updated>2022-10-03T10:22:03.483Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
