@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-06T03:38:09.729Z</updated>
+    <updated>2022-10-06T04:43:22.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[타다, 우버 부활한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4431</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4431"/>
+        <updated>2022-10-06T04:43:03.851Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국의 남녀 임금 격차 선진국 가운데 가장 크다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4430</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4416</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4416"/>
         <updated>2022-10-05T19:27:45.882Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한일 정상회담, 이번엔 한국이 일본 찾아갈 차례였다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4414</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4414"/>
-        <updated>2022-10-05T19:27:45.884Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
