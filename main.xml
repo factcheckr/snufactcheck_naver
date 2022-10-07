@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-07T09:23:45.343Z</updated>
+    <updated>2022-10-07T10:23:38.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘윤석열차’가 영국 매체 만평 표절했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4436</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4436"/>
+        <updated>2022-10-07T10:23:21.496Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제에너지기구에서 2025년까지 화석연료 보일러 사용 금지를 제안했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4434</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4434"/>
+        <updated>2022-10-07T10:23:21.498Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차례상에 전 안 올려도 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4433</id>
@@ -59,20 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4422</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4422"/>
         <updated>2022-10-07T08:25:47.454Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽 선진국에서도 파업 손해배상 청구가 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4420</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4420"/>
-        <updated>2022-10-07T08:25:47.456Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱가포르 외국인 가사도우미는 38만~76만원 수준이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4418</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4418"/>
-        <updated>2022-10-07T08:25:47.460Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
