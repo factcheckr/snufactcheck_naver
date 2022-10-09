@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2022-10-09T15:21:22.562Z</updated>
+    <updated>2022-10-09T16:26:45.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -67,5 +67,12 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
         <updated>2022-10-08T14:21:17.911Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
+        <updated>2022-10-09T16:26:31.142Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
