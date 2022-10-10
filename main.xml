@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-10T19:26:19.332Z</updated>
+    <updated>2022-10-10T20:21:43.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[우리가 많이 사용하는 조사 ‘~의’는 일본어 ‘の’에서 비롯된 일본식 표현이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4437</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4437"/>
-        <updated>2022-10-10T18:29:51.453Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘윤석열차’가 영국 매체 만평 표절했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4436</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4436"/>
-        <updated>2022-10-10T18:29:51.466Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제에너지기구에서 2025년까지 화석연료 보일러 사용 금지를 제안했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4434</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4434"/>
-        <updated>2022-10-10T18:29:51.468Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차례상에 전 안 올려도 된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4433</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4433"/>
-        <updated>2022-10-10T18:29:51.469Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본소득을 도입한 나라는 지구 상에 존재하지 않는다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4432</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4432"/>
-        <updated>2022-10-10T18:29:51.471Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타다, 우버 부활한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4431</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4431"/>
-        <updated>2022-10-10T18:29:51.472Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국의 남녀 임금 격차 선진국 가운데 가장 크다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4430</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4430"/>
-        <updated>2022-10-10T18:29:51.479Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군장병 피복 예산 삭감은 윤석열 정부의 비정한 예산이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4428</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4428"/>
-        <updated>2022-10-10T18:29:51.481Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미 통화스와프가 환율 급등을 막을 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4424</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4424"/>
-        <updated>2022-10-10T18:29:51.482Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신상공개법, '성범죄자 조심' 사진 보내면 처벌받는다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4423</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4423"/>
-        <updated>2022-10-10T18:29:51.484Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
 </feed>
