@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-11T05:59:48.914Z</updated>
+    <updated>2022-10-11T06:53:29.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -67,5 +67,12 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4424"/>
         <updated>2022-10-10T21:17:50.014Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신상공개법, '성범죄자 조심' 사진 보내면 처벌받는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4423</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4423"/>
+        <updated>2022-10-11T06:53:10.689Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
