@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-12T02:03:29.057Z</updated>
+    <updated>2022-10-12T04:24:14.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=4442</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4442"/>
         <updated>2022-10-11T10:21:58.602Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국정감사가 끝나는 11월은 국회의원 보좌진 대량실직의 달이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4438</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4438"/>
+        <updated>2022-10-12T04:23:57.576Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4428"/>
         <updated>2022-10-10T21:17:50.013Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미 통화스와프가 환율 급등을 막을 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4424</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4424"/>
-        <updated>2022-10-10T21:17:50.014Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
