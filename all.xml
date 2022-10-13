@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-13T13:57:35.820Z</updated>
+    <updated>2022-10-13T14:27:22.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[국지성 호우가 잦아지고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4447</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4447"/>
+        <updated>2022-10-13T14:27:04.318Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부가 해외 주식 양도세를 완화해 준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4446</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4446"/>
+        <updated>2022-10-13T14:27:04.319Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI그림은 저작권이 없어 상업적 이용이 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4444</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4444"/>
+        <updated>2022-10-13T14:27:04.319Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감사원, 조사 거부한 문재인 전대통령 강제조사해야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4443</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4443"/>
+        <updated>2022-10-13T14:27:04.319Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풍자만화 '윤석열차'는 외국 작품 베낀 표절이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4442</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4442"/>
+        <updated>2022-10-13T14:27:04.319Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기요금 올리면 무역적자 개선된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4441</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4441"/>
+        <updated>2022-10-13T14:27:04.325Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다중인격은 필로폰의 전형적인 부작용이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4440</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4440"/>
+        <updated>2022-10-13T14:27:04.325Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리인하요구권을 사용했다가 오히려 금리가 오를 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4439</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4439"/>
+        <updated>2022-10-13T14:27:04.330Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국정감사가 끝나는 11월은 국회의원 보좌진 대량실직의 달이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4438</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4438"/>
+        <updated>2022-10-13T14:27:04.332Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 많이 사용하는 조사 ‘~의’는 일본어 ‘の’에서 비롯된 일본식 표현이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4437</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4437"/>
+        <updated>2022-10-13T14:27:04.333Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4361</id>
