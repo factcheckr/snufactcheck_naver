@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-14T13:57:44.516Z</updated>
+    <updated>2022-10-14T14:38:20.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -53,5 +53,26 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4444"/>
         <updated>2022-10-13T14:27:04.319Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감사원, 조사 거부한 문재인 전대통령 강제조사해야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4443</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4443"/>
+        <updated>2022-10-14T14:38:02.423Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풍자만화 '윤석열차'는 외국 작품 베낀 표절이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4442</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4442"/>
+        <updated>2022-10-14T14:38:02.425Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기요금 올리면 무역적자 개선된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4441</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4441"/>
+        <updated>2022-10-14T14:38:02.428Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
