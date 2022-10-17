@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-17T12:42:44.800Z</updated>
+    <updated>2022-10-17T14:00:57.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[경기도 버스 기사의 평균 노동시간은 서울시에 비해 약 50% 높은 14.9시간이고, 임금은 약 30% 낮은 것으로 조사됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4461</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4461"/>
+        <updated>2022-10-17T14:00:39.273Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴대전화 '다크모드', 눈 건강에 도움된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4459</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4447"/>
         <updated>2022-10-13T14:27:04.318Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부가 해외 주식 양도세를 완화해 준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4446</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4446"/>
-        <updated>2022-10-16T19:17:22.353Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
