@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-17T02:06:56.834Z</updated>
+    <updated>2022-10-17T04:59:46.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정경심 전 교수에 내려진 '1개월 형집행정지'는 전례 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4455</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4455"/>
+        <updated>2022-10-17T04:59:26.235Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만화진흥원이 중고생만화공모전을 정치 오염 공모전으로 변색시켰다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4454</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4442</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4442"/>
         <updated>2022-10-16T19:17:22.356Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기요금 올리면 무역적자 개선된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4441</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4441"/>
-        <updated>2022-10-16T19:17:22.357Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
