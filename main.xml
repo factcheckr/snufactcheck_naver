@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-17T19:31:26.681Z</updated>
+    <updated>2022-10-17T20:22:23.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -67,12 +67,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4448"/>
         <updated>2022-10-14T07:36:24.843Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국지성 호우가 잦아지고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4447</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4447"/>
-        <updated>2022-10-13T14:27:04.318Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
