@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-20T01:55:23.836Z</updated>
+    <updated>2022-10-20T04:04:44.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박수홍씨 가족들, '친족상도례'로 재산범죄 처벌 피할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4463</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4463"/>
+        <updated>2022-10-20T04:04:24.697Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['리셀 테크'는 불법이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4462</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4454"/>
         <updated>2022-10-19T15:24:08.618Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장관 해임건의안은 무조건 72시간 내 국회서 표결해야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4453</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4453"/>
-        <updated>2022-10-19T15:24:08.623Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
