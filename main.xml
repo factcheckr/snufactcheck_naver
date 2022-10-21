@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-21T07:29:28.599Z</updated>
+    <updated>2022-10-21T08:29:14.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['카카오 복구 상황' 재난문자 발송은 국민 세금 낭비다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4472</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4472"/>
+        <updated>2022-10-21T08:28:53.931Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9·19 군사합의 체결 이후 접경 지역서 군사적 충돌 없었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4470</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4470"/>
+        <updated>2022-10-21T08:28:53.946Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감사원, 권익위 상대로 '불법 디지털 포렌식' 벌였다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4469</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4469"/>
+        <updated>2022-10-21T08:28:53.949Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김문수 경제사회노동위원장이 민주노총 산별 위원장과 만났다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4468</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4468"/>
+        <updated>2022-10-21T08:28:53.950Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오 먹통, 대응하는 직원은 무급 노동했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4466</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4466"/>
+        <updated>2022-10-21T08:28:53.952Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동시에 여러 명과 결혼하는 집합혼(복혼제)이 뉴욕에서 합법화됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4465</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4465"/>
+        <updated>2022-10-21T08:28:53.958Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박수홍씨 가족들, '친족상도례'로 재산범죄 처벌 피할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4463</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4463"/>
+        <updated>2022-10-21T08:28:53.959Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['리셀 테크'는 불법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4462</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4462"/>
+        <updated>2022-10-21T08:28:53.959Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도 버스 기사의 평균 노동시간은 서울시에 비해 약 50% 높은 14.9시간이고, 임금은 약 30% 낮은 것으로 조사됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4461</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4461"/>
+        <updated>2022-10-21T08:28:53.961Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금까지 북한은 미사일 도발을 하다가도 한미 군사훈련이 시작되면 중단해 왔다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4460</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4460"/>
+        <updated>2022-10-21T08:28:53.962Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
 </feed>
