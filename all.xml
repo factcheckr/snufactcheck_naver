@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-22T21:17:28.587Z</updated>
+    <updated>2022-10-22T22:19:45.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[국회가 카카오 비롯한 업체들 논리대로 데이터 먹통 방지법 폐기했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -115,6 +115,34 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
         <updated>2022-10-08T14:21:17.895Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3681</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
+        <updated>2022-10-22T22:19:34.832Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
+        <updated>2022-10-22T22:19:34.835Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
+        <updated>2022-10-22T22:19:34.835Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
+        <updated>2022-10-22T22:19:34.837Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
