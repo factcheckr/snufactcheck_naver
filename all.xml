@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-23T10:21:03.227Z</updated>
+    <updated>2022-10-23T11:16:47.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[한국 메모리 반도체 세계 1위는 착시현상이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -206,13 +206,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3993"/>
         <updated>2022-10-20T21:19:29.240Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당초 팍스로비드 국내 반입 시기가 확정되지 않았다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3988</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3988"/>
-        <updated>2022-10-20T21:19:29.241Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 선거범죄로 유죄 확정돼도 국회의원직은 유지된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
