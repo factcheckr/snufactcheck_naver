@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-24T02:07:21.091Z</updated>
+    <updated>2022-10-24T04:58:32.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야당 중앙당사 압수수색은 사상 초유의 일이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4476</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4476"/>
+        <updated>2022-10-24T04:58:14.148Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 메모리 반도체 세계 1위는 착시현상이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4475</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4463</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4463"/>
         <updated>2022-10-22T09:22:26.963Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리셀 테크'는 불법이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4462</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4462"/>
-        <updated>2022-10-22T09:22:26.966Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
