@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-25T01:59:55.447Z</updated>
+    <updated>2022-10-25T04:32:06.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전세가율은 ‘깡통전세’의 판단기준이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4478</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4478"/>
+        <updated>2022-10-25T04:31:47.431Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN 국가별 수질 지수 순위에서 한국의 수돗물 품질 순위는 전 세계 122개국 중 8위다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4477</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4477"/>
+        <updated>2022-10-25T04:31:47.431Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야당 중앙당사 압수수색은 사상 초유의 일이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4476</id>
@@ -60,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4466"/>
         <updated>2022-10-24T12:41:14.224Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동시에 여러 명과 결혼하는 집합혼(복혼제)이 뉴욕에서 합법화됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4465</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4465"/>
-        <updated>2022-10-24T12:41:14.225Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
