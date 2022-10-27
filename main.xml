@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-27T01:41:05.315Z</updated>
+    <updated>2022-10-27T03:45:18.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제1야당 당사 압수수색은 군부독재 종식 후 처음이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4484</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4484"/>
+        <updated>2022-10-27T03:44:55.220Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 유엔인권이사국 첫 낙선은 문재인 정부의 대북정책 탓이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4483</id>
@@ -62,17 +69,10 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['카카오 복구 상황' 재난문자 발송은 국민 세금 낭비다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4472</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4472"/>
-        <updated>2022-10-24T12:41:14.218Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9·19 군사합의 체결 이후 접경 지역서 군사적 충돌 없었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4470</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4470"/>
-        <updated>2022-10-26T22:19:56.445Z</updated>
+        <title type="html"><![CDATA[유튜브·넷플릭스는 국내 인터넷망에 무임승차한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4473</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4473"/>
+        <updated>2022-10-27T03:44:55.236Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
