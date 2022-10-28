@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-10-28T01:49:38.361Z</updated>
+    <updated>2022-10-28T03:47:03.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동물병원 ‘펜타닐’ 처방 증가가 마약 오·남용과 관계있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4486</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4486"/>
+        <updated>2022-10-28T03:46:44.491Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1야당 당사 압수수색은 군부독재 종식 후 처음이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4484</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4475"/>
         <updated>2022-10-27T17:24:25.255Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회가 카카오 비롯한 업체들 논리대로 데이터 먹통 방지법 폐기했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4474</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4474"/>
-        <updated>2022-10-27T17:24:25.257Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
