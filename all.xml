@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-02T08:24:36.827Z</updated>
+    <updated>2022-11-02T09:18:11.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[경찰은 이태원 참사 당일 인파가 몰릴 것을 미리 예상했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4494</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4494"/>
+        <updated>2022-11-02T09:17:58.299Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재건축부담금 낮춰도 재건축 사업 활성화하기 어렵다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4493</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4482"/>
         <updated>2022-11-02T07:17:50.043Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선진국에서는 음식 이름에 ‘마약’ 붙여 판매하는 사례 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4481</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4481"/>
-        <updated>2022-11-02T07:17:50.044Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
