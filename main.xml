@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-02T06:29:27.855Z</updated>
+    <updated>2022-11-02T07:18:08.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재건축부담금 낮춰도 재건축 사업 활성화하기 어렵다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4493</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4493"/>
+        <updated>2022-11-02T07:17:50.032Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도는 민방위 훈련 과정에서 안보교육을 하지 않고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4490</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4490"/>
+        <updated>2022-11-02T07:17:50.033Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헌법상 尹 대통령 탄핵절차 밟는 상황까지 갈 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4489</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4489"/>
+        <updated>2022-11-02T07:17:50.033Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남산 전망대서 한남동 대통령 관저 일대를 촬영할 수 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4488</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4488"/>
+        <updated>2022-11-02T07:17:50.033Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물병원 ‘펜타닐’ 처방 증가가 마약 오·남용과 관계있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4486</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4486"/>
+        <updated>2022-11-02T07:17:50.033Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안면인식 CCTV, 국내에도 곧 도입된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4485</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4485"/>
+        <updated>2022-11-02T07:17:50.035Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제1야당 당사 압수수색은 군부독재 종식 후 처음이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4484</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4484"/>
+        <updated>2022-11-02T07:17:50.039Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 유엔인권이사국 첫 낙선은 문재인 정부의 대북정책 탓이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4483</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4483"/>
+        <updated>2022-11-02T07:17:50.041Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국정감사장에서 피켓 시위를 하는 것은 불법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4482</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4482"/>
+        <updated>2022-11-02T07:17:50.043Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선진국에서는 음식 이름에 ‘마약’ 붙여 판매하는 사례 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4481</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4481"/>
+        <updated>2022-11-02T07:17:50.044Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
 </feed>
