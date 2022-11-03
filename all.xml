@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-03T05:22:19.832Z</updated>
+    <updated>2022-11-03T06:22:50.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주최자 없이 사람들이 모인 경우 선제적인 안전 관리 어렵다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4499</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4499"/>
+        <updated>2022-11-03T06:22:28.543Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법제도가 미비해서 경찰이 이태원 참사를 통제하지 못했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4498</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4498"/>
+        <updated>2022-11-03T06:22:28.545Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핼러윈 기간 동안 이태원 참사가 일어난 골목에서 통제가 이뤄진 적이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4497</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4497"/>
+        <updated>2022-11-03T06:22:28.545Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핼러윈 기간 동안 올해 이태원에 투입된 경찰이 예전보다 적었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4496</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4496"/>
+        <updated>2022-11-03T06:22:28.547Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰은 이태원 참사 당일 인파가 몰릴 것을 미리 예상했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4494</id>
@@ -45,34 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4486"/>
         <updated>2022-11-03T04:38:10.712Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안면인식 CCTV, 국내에도 곧 도입된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4485</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4485"/>
-        <updated>2022-11-03T04:38:10.712Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1야당 당사 압수수색은 군부독재 종식 후 처음이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4484</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4484"/>
-        <updated>2022-11-03T04:38:10.714Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 유엔인권이사국 첫 낙선은 문재인 정부의 대북정책 탓이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4483</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4483"/>
-        <updated>2022-11-03T04:38:10.715Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국정감사장에서 피켓 시위를 하는 것은 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4482</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4482"/>
-        <updated>2022-11-03T04:38:10.716Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -136,13 +136,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
         <updated>2022-11-03T05:22:07.782Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
-        <updated>2022-11-03T05:22:07.783Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
