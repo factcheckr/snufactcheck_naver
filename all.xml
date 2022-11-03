@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-03T20:15:41.291Z</updated>
+    <updated>2022-11-03T21:14:21.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[여객기 비상착륙 때는 승무원의 '반말 지시'가 원칙이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4504</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4504"/>
+        <updated>2022-11-03T21:14:03.960Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핼러윈 행사 주최자가 없기 때문에 정부의 책임이 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4503</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4503"/>
+        <updated>2022-11-03T21:14:03.961Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주최자 없이 사람들이 모인 경우 선제적인 안전 관리 어렵다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4499</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4499"/>
+        <updated>2022-11-03T21:14:03.963Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법제도가 미비해서 경찰이 이태원 참사를 통제하지 못했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4498</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4498"/>
+        <updated>2022-11-03T21:14:03.964Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핼러윈 기간 동안 이태원 참사가 일어난 골목에서 통제가 이뤄진 적이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4497</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4497"/>
+        <updated>2022-11-03T21:14:03.965Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4361</id>
@@ -45,34 +80,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
         <updated>2022-11-01T10:21:27.665Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3681</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
-        <updated>2022-11-03T08:24:45.677Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
-        <updated>2022-11-03T08:24:45.678Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
-        <updated>2022-11-03T08:24:45.680Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
-        <updated>2022-11-03T08:24:45.680Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
@@ -117,34 +124,6 @@
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 위중증자에 대한 정부의 치료비 '전액' 지원, 환자가 격리 해제되면 끝난다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4017</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4017"/>
-        <updated>2022-10-31T21:16:56.580Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 2급 감염병 되면 치료비 폭등한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4006</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4006"/>
-        <updated>2022-10-31T21:16:56.581Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 감염병 2급 전환, 코로나 치료비 및 생활지원금도 사라진다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3993</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3993"/>
-        <updated>2022-10-31T21:16:56.584Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당초 팍스로비드 국내 반입 시기가 확정되지 않았다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3988</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3988"/>
-        <updated>2022-10-31T21:16:56.586Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대선 선거범죄로 유죄 확정돼도 국회의원직은 유지된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4379</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4379"/>
@@ -171,47 +150,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4185"/>
         <updated>2022-10-31T21:17:01.904Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집회 및 시위에서의 소음을 제재할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4166</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4166"/>
-        <updated>2022-10-31T21:17:01.905Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 지정기록물은 정권이 바뀔 때마다 공개 여부 공방의 대상이 되고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4161</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4161"/>
-        <updated>2022-10-31T21:17:01.906Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 용산 집무실 앞에서 시위를 할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4094</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
-        <updated>2022-10-31T21:17:01.907Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4016</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
-        <updated>2022-10-31T21:17:01.909Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6·1 지방선거 때 '검수완박' 국민투표 가능하다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4012</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4012"/>
-        <updated>2022-10-31T21:17:01.910Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
-        <updated>2022-10-31T21:17:01.912Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
