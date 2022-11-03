@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-03T06:22:50.562Z</updated>
+    <updated>2022-11-03T07:15:59.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[여객기 비상착륙 때는 승무원의 '반말 지시'가 원칙이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4504</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4504"/>
+        <updated>2022-11-03T07:15:41.429Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주최자 없이 사람들이 모인 경우 선제적인 안전 관리 어렵다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4499</id>
@@ -47,34 +54,6 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기도는 민방위 훈련 과정에서 안보교육을 하지 않고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4490</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4490"/>
-        <updated>2022-11-03T04:38:10.706Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌법상 尹 대통령 탄핵절차 밟는 상황까지 갈 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4489</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4489"/>
-        <updated>2022-11-03T04:38:10.711Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남산 전망대서 한남동 대통령 관저 일대를 촬영할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4488</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4488"/>
-        <updated>2022-11-03T04:38:10.711Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물병원 ‘펜타닐’ 처방 증가가 마약 오·남용과 관계있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4486</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4486"/>
-        <updated>2022-11-03T04:38:10.712Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4361</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4361"/>
@@ -115,27 +94,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
         <updated>2022-11-01T10:21:27.665Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3681</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
-        <updated>2022-11-03T05:22:07.782Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
-        <updated>2022-11-03T05:22:07.782Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
-        <updated>2022-11-03T05:22:07.782Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
