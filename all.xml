@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-04T01:42:41.038Z</updated>
+    <updated>2022-11-04T03:43:18.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[여객기 비상착륙 때는 승무원의 '반말 지시'가 원칙이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -16,6 +16,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=4503</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4503"/>
         <updated>2022-11-03T21:14:03.961Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검언유착 의혹' 수사 때 채널A 압수수색 며칠씩 했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4500</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4500"/>
+        <updated>2022-11-04T03:42:44.111Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4490"/>
         <updated>2022-11-03T22:15:24.728Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌법상 尹 대통령 탄핵절차 밟는 상황까지 갈 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4489</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4489"/>
-        <updated>2022-11-03T22:15:24.729Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
