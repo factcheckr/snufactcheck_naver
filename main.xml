@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-07T04:41:36.145Z</updated>
+    <updated>2022-11-07T05:27:20.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[냉동식품, 분할을 위해 일시적 해동 후 재냉동이 된 식품은 안전하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4512</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4512"/>
-        <updated>2022-11-07T03:28:03.110Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검수완박 때문에 검찰이 대형참사 수사를 개시할 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4510</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4510"/>
-        <updated>2022-11-06T22:16:23.160Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사, 중대시민재해 적용 못한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4509</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4509"/>
-        <updated>2022-11-06T22:16:23.163Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 현장에 우려할 정도로 많은 인파가 모였던 것은 아니었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4507</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4507"/>
-        <updated>2022-11-06T22:16:23.164Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여객기 비상착륙 때는 승무원의 '반말 지시'가 원칙이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4504</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4504"/>
-        <updated>2022-11-06T22:16:23.165Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핼러윈 행사 주최자가 없기 때문에 정부의 책임이 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4503</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4503"/>
-        <updated>2022-11-06T22:16:23.166Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검언유착 의혹' 수사 때 채널A 압수수색 며칠씩 했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4500</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4500"/>
-        <updated>2022-11-06T22:16:23.167Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주최자 없이 사람들이 모인 경우 선제적인 안전 관리 어렵다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4499</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4499"/>
-        <updated>2022-11-06T22:16:23.167Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법제도가 미비해서 경찰이 이태원 참사를 통제하지 못했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4498</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4498"/>
-        <updated>2022-11-06T22:16:23.168Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핼러윈 기간 동안 이태원 참사가 일어난 골목에서 통제가 이뤄진 적이 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4497</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4497"/>
-        <updated>2022-11-06T22:16:23.175Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
 </feed>
