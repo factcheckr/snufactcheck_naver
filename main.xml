@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-09T01:27:03.465Z</updated>
+    <updated>2022-11-09T03:38:33.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태원 참사 당일 서울 시내 모든 경찰 기동대가 촛불집회에 질서 투입됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4517</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4517"/>
+        <updated>2022-11-09T03:38:17.345Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제는 아니다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4516</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4502</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4502"/>
         <updated>2022-11-08T17:24:19.413Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검언유착 의혹' 수사 때 채널A 압수수색 며칠씩 했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4500</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4500"/>
-        <updated>2022-11-08T17:24:19.414Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
