@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-16T07:19:42.708Z</updated>
+    <updated>2022-11-16T08:25:10.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년도 공공임대주택 예산은 삭감 아닌 정상화다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4530</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4530"/>
+        <updated>2022-11-16T08:24:50.996Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령의 국회 시정연설은 노태우 정부 때 시작됐다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4527</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4527"/>
         <updated>2022-11-15T22:15:44.378Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전임 대통령이 대통령기록물인 풍산개를 계속 보유하고 있는 것은 위법이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4526</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4526"/>
+        <updated>2022-11-16T08:24:51.000Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청소년 마약 범죄 증가한다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4517"/>
         <updated>2022-11-15T22:15:44.398Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(이태원에서 벌어진 10·29 참사는) 경찰과 소방 인력을 미리 배치함으로써 해결될 수 있었던 문제는 아니다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4516</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4516"/>
-        <updated>2022-11-16T03:23:02.052Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원이 국정감사 도중 제기한 의혹, 거짓이어도 처벌하지 못한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4515</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4515"/>
-        <updated>2022-11-16T03:23:02.056Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
