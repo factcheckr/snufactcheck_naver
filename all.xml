@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-18T11:14:06.275Z</updated>
+    <updated>2022-11-18T12:31:08.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['빈곤 포르노'는 사전과 논문, 언론에도 나오는 단어다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4534</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4534"/>
+        <updated>2022-11-18T12:30:47.115Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국에서는 대통령이 무능하더라도 탄핵 대상이 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4533</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4533"/>
+        <updated>2022-11-18T12:30:47.117Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4532</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4524"/>
         <updated>2022-11-15T22:15:44.379Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법정 감염병자는 종사자 허락없이 여객열차를 이용할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4523</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4523"/>
-        <updated>2022-11-15T22:15:44.382Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU의 역외 보조금 규제 도입으로 인해 해외진출 기업의 부담 커진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4521</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4521"/>
-        <updated>2022-11-15T22:15:44.389Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
