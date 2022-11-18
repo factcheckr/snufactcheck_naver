@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-18T06:21:38.459Z</updated>
+    <updated>2022-11-18T07:15:43.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출근시간보다 일찍 회사에 나오라는 지시, 근로기준법 위반이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4532</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4532"/>
+        <updated>2022-11-18T07:15:22.248Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부 때 원전을 안 하면서 석탄발전을 더 많이 했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4531</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4521"/>
         <updated>2022-11-15T22:15:44.389Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출소한 성범죄자가 피해자와 같은 동네에 사는 것을 제한할 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4520</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4520"/>
-        <updated>2022-11-15T22:15:44.390Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
