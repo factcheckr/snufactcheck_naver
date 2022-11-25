@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-11-25T05:14:36.414Z</updated>
+    <updated>2022-11-25T06:20:27.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영장 청구 단계에서 언론에 검찰 수사 내용을 알리는 것은 피의사실 공표죄에 해당하지 않는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4549</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4549"/>
+        <updated>2022-11-25T06:20:05.224Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 19일 촛불집회엔 경찰 추산 2만5천명, 주최 추산 20만명이 참가했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4548</id>
@@ -17,6 +24,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=4547</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4547"/>
         <updated>2022-11-24T07:14:32.989Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차는 화재에 취약하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4545</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4545"/>
+        <updated>2022-11-25T06:20:05.236Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4537"/>
         <updated>2022-11-21T07:15:53.055Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마약범죄, 검찰이 '범죄와의 전쟁' 선포할 정도 아니다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4536</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4536"/>
-        <updated>2022-11-19T08:20:04.536Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 세계에서 인구 대비 코로나19 확진자 수가 가장 많은 국가로 집계됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4535</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4535"/>
-        <updated>2022-11-21T07:15:53.058Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
