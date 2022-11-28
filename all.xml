@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-28T10:17:38.702Z</updated>
+    <updated>2022-11-28T11:13:54.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[금투세가 소액투자자(개미)의 투자를 제한하고 오히려 피해를 준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4553</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4553"/>
+        <updated>2022-11-28T11:13:32.899Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라에도 '빈곤 포르노' 가이드라인이 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4551</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4541</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4541"/>
         <updated>2022-11-23T08:19:46.039Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 희생자 명단 공개한 인터넷 매체는 처벌 대상이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4540</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4540"/>
-        <updated>2022-11-21T06:22:04.344Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
