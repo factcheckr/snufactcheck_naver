@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T04:19:29.828Z</updated>
+    <updated>2022-12-01T05:15:55.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[안전운임제의 교통안전 개선 효과 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4560</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4560"/>
+        <updated>2022-12-01T05:15:33.207Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금투세가 소액투자자(개미)의 투자를 제한하고 오히려 피해를 준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4553</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4542</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4542"/>
         <updated>2022-11-23T12:30:12.657Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 용산 이전 비용은 517억 원이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4541</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4541"/>
-        <updated>2022-11-23T08:19:46.039Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
