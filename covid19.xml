@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2022-12-09T09:14:47.222Z</updated>
+    <updated>2022-12-09T10:16:29.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경제협력개발기구(OECD) 국가 중 실내 마스크 착용 의무를 유지하는 나라는 우리가 유일하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4576</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4576"/>
+        <updated>2022-12-09T10:16:22.286Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 XBB 변이는 델타보다 5배 독하고 치명적이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4538</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4017"/>
         <updated>2022-11-15T17:17:32.875Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 2급 감염병 되면 치료비 폭등한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4006</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4006"/>
-        <updated>2022-11-15T17:17:32.879Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
