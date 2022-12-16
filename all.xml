@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T03:16:02.948Z</updated>
+    <updated>2022-12-16T04:17:16.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[민주당의 산업은행 부산 이전 반대는 민주노총 탓이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4586</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4586"/>
+        <updated>2022-12-16T04:16:56.014Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제로 칼로리’ 음료, 정말로 칼로리 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4585</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4574"/>
         <updated>2022-12-09T04:18:07.120Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 파업 이후 국회에서 안전운임제에 대한 구체적인 논의들이 이어지지 않았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4572</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4572"/>
-        <updated>2022-12-08T08:19:17.798Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
