@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2022-12-23T01:06:12.915Z</updated>
+    <updated>2022-12-23T02:36:33.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박근혜 정부 때 정규직-비정규직 임금격차 10만~20만 원도 안 났다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4596</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4596"/>
+        <updated>2022-12-23T02:36:08.432Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 케어로 20조 원 재정이 낭비됐다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4595</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4585"/>
         <updated>2022-12-15T08:19:32.134Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치적 공동체는 법률 용어다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4583</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4583"/>
-        <updated>2022-12-15T02:46:43.452Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
