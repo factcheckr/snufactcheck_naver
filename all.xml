@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-30T07:13:12.296Z</updated>
+    <updated>2022-12-30T08:17:51.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[우리나라 법인세 실효세율이 국제적으로 높은 수준이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4610"/>
         <updated>2022-12-30T06:17:49.298Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도 분도 정책(경기북부특별자치도)에 북부가 반대한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4607</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4607"/>
+        <updated>2022-12-30T08:17:31.003Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특별 사면은 임기 초에 유독 많았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4597"/>
         <updated>2022-12-26T06:18:36.484Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박근혜 정부 때 정규직-비정규직 임금격차 10만~20만 원도 안 났다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4596</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4596"/>
-        <updated>2022-12-23T02:36:08.432Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
