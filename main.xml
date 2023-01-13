@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-01-13T04:19:25.977Z</updated>
+    <updated>2023-01-13T12:29:04.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4651</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4651"/>
+        <updated>2023-01-13T12:28:42.277Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월부터 '만 나이'로 통일되면 정년 더 늦춰진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4650</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4650"/>
+        <updated>2023-01-13T12:28:42.279Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다른 나라는 회사 일 안 하는 기업노조 전임자에게 사용주가 월급 안 준다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4648</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4648"/>
+        <updated>2023-01-13T12:28:42.287Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한에서 소개한 민간요법이 실제 독감 치료에도 효과가 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4634</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4634"/>
         <updated>2023-01-13T04:19:05.791Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령은 신년 기자회견을 패스한 유일한 대통령이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4633</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4633"/>
+        <updated>2023-01-13T12:28:42.287Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가공식품 영양정보 표시 믿을만한가]]></title>
@@ -46,33 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4627"/>
         <updated>2023-01-09T12:28:16.532Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대선거구제 통해 정치 양극화 문제 해결할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4626</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4626"/>
-        <updated>2023-01-11T08:19:22.752Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축구협회가 선수들보다 월드컵 배당금 더 가져간다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4625</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4625"/>
-        <updated>2023-01-06T09:14:04.665Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가위기관리의 컨트롤 타워는 대통령실이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4624</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4624"/>
-        <updated>2023-01-06T04:17:01.190Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 XBB 변이가 복통·설사 유발한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4621</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4621"/>
-        <updated>2023-01-06T09:14:04.666Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
