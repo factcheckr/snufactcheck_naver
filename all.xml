@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-17T07:14:05.202Z</updated>
+    <updated>2023-01-17T08:19:14.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[짜게 먹어도 오래 산다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4654</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4654"/>
+        <updated>2023-01-17T08:18:52.009Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 '소비기한 표시제'선 음식 먹고 탈나면 기업 책임 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4651</id>
@@ -47,7 +54,7 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가공식품 영양정보 표시 믿을만한가 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <title type="html"><![CDATA[가공식품 영양 정보 표시 믿을만하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4632</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4632"/>
         <updated>2023-01-11T08:19:22.750Z</updated>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4629</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4629"/>
         <updated>2023-01-13T03:24:24.087Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRT 사고에 KTX와 코레일 직원이 투입됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4628</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4628"/>
-        <updated>2023-01-10T09:14:33.746Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
