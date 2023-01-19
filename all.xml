@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-19T07:13:52.524Z</updated>
+    <updated>2023-01-19T08:19:38.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[주택가격 상승이 출산율 하락에 미치는 영향이 크다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4661"/>
         <updated>2023-01-19T07:13:32.215Z</updated>
         <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소아청소년과 기피현상이 병원 '오픈런' 불렀다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4660</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4660"/>
+        <updated>2023-01-19T08:19:15.643Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사이코패스는 일반적으로 지능이 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4648"/>
         <updated>2023-01-13T12:28:42.287Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한에서 소개한 민간요법이 실제 독감 치료에도 효과가 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4634"/>
-        <updated>2023-01-13T04:19:05.791Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
