@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-01-27T03:16:06.686Z</updated>
+    <updated>2023-01-27T04:17:59.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4670</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4670"/>
+        <updated>2023-01-27T04:17:40.270Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4669</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4669"/>
+        <updated>2023-01-27T04:17:40.271Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[115석 불과한 국민의힘, 헌정사상 최악의 여소야대 국면이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4668</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4668"/>
+        <updated>2023-01-27T04:17:40.272Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국은 국회의원이 많은 편이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4667</id>
@@ -52,27 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4660</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4660"/>
         <updated>2023-01-19T08:19:15.643Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이코패스는 일반적으로 지능이 높다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4656</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4656"/>
-        <updated>2023-01-17T11:12:26.397Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령제는 주로 소선거구제로, 의원내각제는 주로 중대선거구제로 의원을 선출한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4655</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4655"/>
-        <updated>2023-01-17T11:12:26.398Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짜게 먹어도 오래 산다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4654</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4654"/>
-        <updated>2023-01-17T08:18:52.009Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
