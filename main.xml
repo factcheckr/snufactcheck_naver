@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-01-30T06:19:23.095Z</updated>
+    <updated>2023-01-30T07:13:58.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 집권 후반기 가스요금 인상 요인이 있었음에도 요금을 동결했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4675</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4675"/>
+        <updated>2023-01-30T07:13:37.128Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4670</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4661"/>
         <updated>2023-01-19T07:13:32.215Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소아청소년과 기피현상이 병원 '오픈런' 불렀다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4660</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4660"/>
-        <updated>2023-01-19T08:19:15.643Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
