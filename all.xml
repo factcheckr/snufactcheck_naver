@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T07:14:23.434Z</updated>
+    <updated>2023-02-01T08:19:20.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오세훈 시장이 재임 기간 공관을 사용하지 않겠다고 약속했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4683</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4683"/>
+        <updated>2023-02-01T08:18:57.894Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가스 값 폭등에 다른 나라는 요금을 인상했지만 문재인 정부는 그렇지 않았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4682</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4682"/>
         <updated>2023-02-01T07:14:00.942Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1만 원권과 5만 원권 사이 지폐로는 3만 원권이 적합하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4681</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4681"/>
+        <updated>2023-02-01T08:18:57.903Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민식이법 시행 이후 스쿨존 교통사고가 줄었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -24,6 +38,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4679"/>
         <updated>2023-02-01T02:54:39.830Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구축 아파트가 신축 아파트에 비해 '난방비 폭탄'을 더 세게 맞았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4676</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4676"/>
+        <updated>2023-02-01T08:18:57.917Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부 집권 후반기 가스요금 인상 요인이 있었음에도 요금을 동결했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -52,27 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4670"/>
         <updated>2023-01-27T04:17:40.270Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령이 제1야당 대표와 이렇게 오래 안 만난 것은 처음이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4669</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4669"/>
-        <updated>2023-01-27T04:17:40.271Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[115석 불과한 국민의힘, 헌정사상 최악의 여소야대 국면이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4668</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4668"/>
-        <updated>2023-01-27T04:17:40.272Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 국회의원이 많은 편이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4667</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4667"/>
-        <updated>2023-01-26T07:13:51.282Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
