@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-01T08:19:20.852Z</updated>
+    <updated>2023-02-01T10:16:36.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4688</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4688"/>
+        <updated>2023-02-01T10:16:14.923Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에너지기업 대상 ‘횡재세’ 전 세계에서 시행한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4685</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4685"/>
+        <updated>2023-02-01T10:16:14.930Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오세훈 시장이 재임 기간 공관을 사용하지 않겠다고 약속했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4683</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4674"/>
         <updated>2023-02-01T01:19:01.983Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남FC 의혹, 이미 수년간 수사 끝에 무혐의로 처분됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4673</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4673"/>
-        <updated>2023-02-01T01:19:01.983Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후불결제 서비스는 연체해도 신용점수 안 떨어진다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4670</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4670"/>
-        <updated>2023-01-27T04:17:40.270Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
