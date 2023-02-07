@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-07T08:18:51.920Z</updated>
+    <updated>2023-02-07T10:16:13.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[5인 미만 사업장 근로기준법 적용으로 소상공입 폐업으로 내몰린다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -26,6 +26,13 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최근 난방비 폭등의 원인은 문재인 정부에게 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4690</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4690"/>
+        <updated>2023-02-07T10:15:53.352Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일회용 마스크 착용하면 미세플라스틱 때문에 폐가 손상된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4689</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4689"/>
@@ -38,6 +45,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4688"/>
         <updated>2023-02-01T10:16:14.923Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지하철 역사에서도 마스크 의무 착용이 유지된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4687</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4687"/>
+        <updated>2023-02-07T10:15:53.358Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에너지기업 대상 ‘횡재세’ 전 세계에서 시행한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4683"/>
         <updated>2023-02-01T08:18:57.894Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가스 값 폭등에 다른 나라는 요금을 인상했지만 문재인 정부는 그렇지 않았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4682</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4682"/>
-        <updated>2023-02-01T07:14:00.942Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1만 원권과 5만 원권 사이 지폐로는 3만 원권이 적합하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4681</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4681"/>
-        <updated>2023-02-01T08:18:57.903Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지하철 역사에서도 마스크 의무 착용이 유지된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4687</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4687"/>
+        <updated>2023-02-07T10:16:05.940Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4664</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4664"/>
@@ -205,13 +212,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4202</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4202"/>
         <updated>2023-01-08T04:18:07.156Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정은경, 퇴임 후 백신 접종 위해 국민 속였다고 고백했다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4099</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4099"/>
-        <updated>2023-01-08T04:18:07.158Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
