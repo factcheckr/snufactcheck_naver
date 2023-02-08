@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-08T06:19:16.405Z</updated>
+    <updated>2023-02-08T07:14:17.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령이 국민의힘에 내는 당비 300만 원은 정해져 있는 것 아니다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4698</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4698"/>
+        <updated>2023-02-08T07:13:56.692Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5인 미만 사업장 근로기준법 적용으로 소상공입 폐업으로 내몰린다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4696</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4684"/>
         <updated>2023-02-01T12:29:15.373Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오세훈 시장이 재임 기간 공관을 사용하지 않겠다고 약속했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4683</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4683"/>
-        <updated>2023-02-01T08:18:57.894Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
