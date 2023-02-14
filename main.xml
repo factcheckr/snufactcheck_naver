@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-14T07:14:50.890Z</updated>
+    <updated>2023-02-14T08:20:05.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 대한민국 민주주의 지수가 여덟 단계 하락했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4707</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4707"/>
+        <updated>2023-02-14T08:19:43.407Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 육아휴직자 10명 중 3명은 남성이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4703</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4689"/>
         <updated>2023-02-01T12:29:15.367Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭설로 항공기 결항돼 출근 못하면 연차 안 쓰고도 쉴 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4688</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4688"/>
-        <updated>2023-02-01T10:16:14.923Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
