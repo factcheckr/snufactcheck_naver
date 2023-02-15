@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-15T08:19:57.896Z</updated>
+    <updated>2023-02-15T09:16:28.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 4·3사건이 북한 김일성 지시로 촉발됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4710</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4710"/>
+        <updated>2023-02-15T09:16:09.371Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 대한민국 민주주의 지수가 여덟 단계 하락했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4707</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4696"/>
         <updated>2023-02-06T12:35:43.330Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집값 급등은 정부 정책 탓이고, 집값 하락은 금리 탓이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4694</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4694"/>
-        <updated>2023-02-03T11:13:00.552Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
