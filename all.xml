@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-15T03:20:28.532Z</updated>
+    <updated>2023-02-15T04:19:17.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년 대한민국 민주주의 지수가 여덟 단계 하락했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -17,6 +17,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4706"/>
         <updated>2023-02-15T03:20:06.261Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2055년 국민연금 고갈되면 연금을 돌려받을 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4705</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4705"/>
+        <updated>2023-02-15T04:18:57.260Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원전이 재생에너지에 분류되지 않는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4694"/>
         <updated>2023-02-03T11:13:00.552Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일회용품을 줄이는 건 환경에 도움이 안 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4692</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4692"/>
-        <updated>2023-02-02T12:29:28.754Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
