@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-20T05:14:43.762Z</updated>
+    <updated>2023-02-20T06:20:35.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김건희 여사' 특검을 도입하기 위한 요건이 성립하지 않는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4713</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4713"/>
+        <updated>2023-02-20T06:20:17.200Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지진 '골든타임'은 72시간이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4712</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4700"/>
         <updated>2023-02-10T11:13:32.589Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령이 국민의힘에 내는 당비 300만 원은 정해져 있는 것 아니다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4698</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4698"/>
-        <updated>2023-02-08T07:13:56.692Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
