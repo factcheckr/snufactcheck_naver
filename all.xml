@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-21T02:50:01.425Z</updated>
+    <updated>2023-02-21T03:20:58.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[챗GPT가 쓴 추리소설을 책으로 출판하면 저작권법 위반이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4718</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4718"/>
+        <updated>2023-02-21T03:20:37.862Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 정당 국고보조금은 세계적으로 드문 제도다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4717</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4717"/>
+        <updated>2023-02-21T03:20:37.864Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라면봉지·귤껍질만 잘못 버려도 분리배출 과태료 부과한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4716</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4716"/>
+        <updated>2023-02-21T03:20:37.866Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김건희 여사' 특검을 도입하기 위한 요건이 성립하지 않는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4713</id>
@@ -52,27 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4704"/>
         <updated>2023-02-14T13:25:29.136Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 육아휴직자 10명 중 3명은 남성이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4703</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4703"/>
-        <updated>2023-02-13T07:14:42.174Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 친위세력 공천으로 여당이 총선에서 지는 경우가 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4701</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4701"/>
-        <updated>2023-02-13T07:14:42.174Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양곡창고 과반이 민주당 주요 지지 지역인 호남에 집중되어 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4700</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4700"/>
-        <updated>2023-02-10T11:13:32.589Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
