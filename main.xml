@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-02-22T08:20:15.953Z</updated>
+    <updated>2023-02-22T09:16:18.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번개탄 생산 금지는 자살 예방 대책이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4727</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4727"/>
+        <updated>2023-02-22T09:15:58.643Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한 유튜버 동영상, 보기만 해도 국가보안법 위반이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4726</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4716"/>
         <updated>2023-02-21T03:20:37.866Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김건희 여사' 특검을 도입하기 위한 요건이 성립하지 않는다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4713</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4713"/>
-        <updated>2023-02-20T06:20:17.200Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
