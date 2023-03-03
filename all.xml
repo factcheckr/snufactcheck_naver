@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-03T09:16:32.231Z</updated>
+    <updated>2023-03-03T10:16:43.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[노조가 정부 보조금 사용 내역 공개를 거부했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4747</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4747"/>
+        <updated>2023-03-03T10:16:23.495Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마라도 고양이가 뿔쇠오리 개체수 감소에 심각한 영향을 미친다는 명확한 근거가 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4746</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4746"/>
+        <updated>2023-03-03T10:16:23.497Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 수질, 과거보다 깨끗해졌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4744</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4732"/>
         <updated>2023-02-23T03:16:52.984Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노인은 65세 이상' 기준은 독일 비스마르크 수상 때 시작됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4730</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4730"/>
-        <updated>2023-02-23T06:19:54.092Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권성동 의원은 2018년 ‘방탄국회’ 논란 없이 스스로 불체포특권을 포기했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4729</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4729"/>
-        <updated>2023-02-22T15:16:28.218Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
