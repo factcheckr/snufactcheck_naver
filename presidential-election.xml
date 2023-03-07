@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=20%EB%8C%80+%EB%8C%80%ED%86%B5%EB%A0%B9+%EC%84%A0%EA%B1%B0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선</title>
-    <updated>2023-03-07T05:15:22.058Z</updated>
+    <updated>2023-03-07T06:19:51.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간호법 제정은 윤석열 대통령 공약이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4751</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4751"/>
+        <updated>2023-03-07T06:19:51.110Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대선 선거범죄로 유죄 확정돼도 국회의원직은 유지된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4379</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4012"/>
         <updated>2023-01-18T18:17:54.957Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 법무부 장관 후보자의 출생지는 강원도다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3977</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3977"/>
-        <updated>2023-01-18T18:17:54.959Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
