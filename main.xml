@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-08T07:14:30.917Z</updated>
+    <updated>2023-03-08T08:20:38.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 최초로 동성결혼 합법화한 나라는 네덜란드다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4758</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4758"/>
+        <updated>2023-03-08T08:20:14.636Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예 중학교 교과서에 한국이 형제국가로 쓰여 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4755</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4744"/>
         <updated>2023-03-03T03:10:01.571Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 에델바이스 부대는 나치즘의 흔적이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4742</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4742"/>
-        <updated>2023-03-06T02:51:15.430Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
