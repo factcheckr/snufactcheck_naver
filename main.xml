@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-09T06:20:48.364Z</updated>
+    <updated>2023-03-09T07:14:45.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4755"/>
         <updated>2023-03-07T02:58:39.224Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노조 회계자료 공개는 ILO의 국제 기준을 따른 것이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4753</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4753"/>
+        <updated>2023-03-09T07:14:22.270Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[난방비 폭탄은 문재인 정부의 탈원전 때문이다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4747"/>
         <updated>2023-03-03T10:16:23.495Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마라도 고양이가 뿔쇠오리 개체수 감소에 심각한 영향을 미친다는 명확한 근거가 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4746</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4746"/>
-        <updated>2023-03-03T10:16:23.497Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
