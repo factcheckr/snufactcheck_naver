@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-10T11:13:52.892Z</updated>
+    <updated>2023-03-10T12:29:33.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환자의 개인 정보를 활용한 의료인들의 개인적인 활동(매체 기고, 방송 출연 발언, 소셜미디어 활동 등)은 법적, 윤리적으로 문제가 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4770</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4770"/>
+        <updated>2023-03-10T12:29:10.052Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지하철 (노령층) 무임승차로 서울교통공사 재정 적자가 가중되고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4768</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4768"/>
+        <updated>2023-03-10T12:29:10.054Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국은 연장근로 한도가 없고, 일본은 월 최대 100시간 연 최대 720시간 연장근로를 허용한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4767</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4767"/>
         <updated>2023-03-10T07:14:26.627Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작년 강원도 관광객 연인원이 1억 5천만 명이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4766</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4766"/>
+        <updated>2023-03-10T12:29:10.060Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
@@ -53,26 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4757"/>
         <updated>2023-03-09T05:14:40.502Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 기업이 미국 반도체 과학법의 보조금으로 미국에 반도체 공장을 지으면 손해다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4756</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4756"/>
-        <updated>2023-03-09T05:14:40.502Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[튀르키예 중학교 교과서에 한국이 형제국가로 쓰여 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4755</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4755"/>
-        <updated>2023-03-07T02:58:39.224Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노조 회계자료 공개는 ILO의 국제 기준을 따른 것이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4753</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4753"/>
-        <updated>2023-03-09T07:14:22.270Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
