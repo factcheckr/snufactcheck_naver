@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-16T08:19:41.608Z</updated>
+    <updated>2023-03-16T09:16:18.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4781"/>
         <updated>2023-03-16T06:18:42.201Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 월동 꿀벌 피해는 방제제에 내성을 가진 응애가 주요 원인이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4779</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4779"/>
+        <updated>2023-03-16T09:15:59.680Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 강제동원 피해, 강제노동 규정 조약상 ‘강제노동’ 아니다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4766"/>
         <updated>2023-03-10T12:29:10.060Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 대학 등록금은 주요 선진국에 비해 높은 편이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4764</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4764"/>
-        <updated>2023-03-10T06:20:33.160Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
