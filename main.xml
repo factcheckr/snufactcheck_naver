@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-17T08:19:04.536Z</updated>
+    <updated>2023-03-17T09:15:06.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4781"/>
         <updated>2023-03-16T06:18:42.201Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 예금자 보호 정도는 해외 주요국과 비교했을때 미흡하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4780</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4780"/>
+        <updated>2023-03-17T09:14:46.076Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번 월동 꿀벌 피해는 방제제에 내성을 가진 응애가 주요 원인이다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4770"/>
         <updated>2023-03-10T12:29:10.052Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철 (노령층) 무임승차로 서울교통공사 재정 적자가 가중되고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4768</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4768"/>
-        <updated>2023-03-10T12:29:10.054Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
