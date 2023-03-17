@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-17T06:17:42.471Z</updated>
+    <updated>2023-03-17T07:13:48.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[정부 재단이 미쓰비시 손해배상을 대신하도록 하겠다는 것은 위법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4783</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4783"/>
+        <updated>2023-03-17T07:13:27.847Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강제징용 ‘제3자 변제’ 방식은 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4782</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4768</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4768"/>
         <updated>2023-03-10T12:29:10.054Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국은 연장근로 한도가 없고, 일본은 월 최대 100시간 연 최대 720시간 연장근로를 허용한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4767</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4767"/>
-        <updated>2023-03-10T07:14:26.627Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
