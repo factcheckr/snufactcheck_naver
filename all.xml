@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-21T05:13:40.753Z</updated>
+    <updated>2023-03-21T06:18:08.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[설탕 대체제 섭취가 심장마비와 뇌졸중 위험을 바로 높인다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4792</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4792"/>
+        <updated>2023-03-21T06:17:43.780Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제조업에 비해 문화예술 분야 고용 창출 효과가 3~5배 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4790</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4790"/>
+        <updated>2023-03-21T06:17:43.784Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[근로시간 늘어나면 출산율 줄어든다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4789</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4789"/>
+        <updated>2023-03-21T06:17:43.786Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전두환 일가의 '검은 돈'과 전우원 지인들의 각종 범죄는 법의 심판을 받을 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4786</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4786"/>
+        <updated>2023-03-21T06:17:43.789Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령과 여당 대표 간 정례회담은 항상 있었다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4784</id>
@@ -45,34 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4779"/>
         <updated>2023-03-16T10:16:54.326Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 강제동원 피해, 강제노동 규정 조약상 ‘강제노동’ 아니다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4778</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4778"/>
-        <updated>2023-03-16T05:14:04.974Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대법원 강제징용 배상판결은 한 대법관이 독립운동하듯 내렸다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4776</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4776"/>
-        <updated>2023-03-16T06:18:42.209Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무기명 비밀투표하는 나라 많지 않다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4774</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4774"/>
-        <updated>2023-03-20T07:13:54.837Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기존 52시간제 주 단위 규율, 국민 대부분 동의하지 않을 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4773</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4773"/>
-        <updated>2023-03-15T10:16:36.424Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
