@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-23T07:12:59.906Z</updated>
+    <updated>2023-03-23T08:18:34.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -48,6 +48,20 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전광훈 목사 이단 판정 받았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4788</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4788"/>
+        <updated>2023-03-23T08:18:14.008Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 강령, 정강정책에 5 18 민주화 운동 정신 이어간다고 명확하게 적시돼 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4787</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4787"/>
+        <updated>2023-03-23T08:18:14.008Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[전두환 일가의 '검은 돈'과 전우원 지인들의 각종 범죄는 법의 심판을 받을 수 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4786</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4786"/>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4784"/>
         <updated>2023-03-20T07:13:54.825Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 재단이 미쓰비시 손해배상을 대신하도록 하겠다는 것은 위법이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4783</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4783"/>
-        <updated>2023-03-17T07:13:27.847Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강제징용 ‘제3자 변제’ 방식은 불법이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4782</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4782"/>
-        <updated>2023-03-16T12:28:35.427Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
