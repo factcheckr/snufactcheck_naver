@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-27T13:26:57.856Z</updated>
+    <updated>2023-03-27T14:25:19.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼겹살을 먹으면 체내에 쌓인 미세먼지를 배출하는데 도움이 된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4804</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4804"/>
+        <updated>2023-03-27T14:24:59.882Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타워크레인 조종사, 강풍 불 때 임의로 조종석 벗어나면 위법이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4801</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4789"/>
         <updated>2023-03-21T06:17:43.786Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전광훈 목사 이단 판정 받았다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4788</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4788"/>
-        <updated>2023-03-23T08:18:14.008Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
