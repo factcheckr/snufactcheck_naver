@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-28T16:25:17.037Z</updated>
+    <updated>2023-03-28T17:13:45.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현재 주 69시간 일하는 회사는 거의 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4807</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4807"/>
+        <updated>2023-03-28T17:13:25.099Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼겹살을 먹으면 체내에 쌓인 미세먼지를 배출하는데 도움이 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4804</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4792</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4792"/>
         <updated>2023-03-21T06:17:43.780Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제조업에 비해 문화예술 분야 고용 창출 효과가 3~5배 높다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4790</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4790"/>
-        <updated>2023-03-21T06:17:43.784Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
