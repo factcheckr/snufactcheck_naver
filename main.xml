@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-03-30T07:13:57.240Z</updated>
+    <updated>2023-03-30T08:19:58.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평택시 고덕지역 월세, 서울 강남보다 비싸다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4813</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4813"/>
+        <updated>2023-03-30T08:19:33.842Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정신과 질환 중 사망률 1위는 거식증이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4811</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4811"/>
         <updated>2023-03-30T06:18:08.596Z</updated>
         <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 들어 소부장 특례 보증 예산이 전액 삭감됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4810</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4810"/>
+        <updated>2023-03-30T08:19:33.842Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현재 주 69시간 일하는 회사는 거의 없다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4798"/>
         <updated>2023-03-24T13:18:25.708Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노무현 대통령은 징용 피해자 보상금 대위 지급하는 법률 만들었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4796</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4796"/>
-        <updated>2023-03-23T04:16:46.789Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[응급피임약, 가톨릭계 병원에서는 처방 안 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4794</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4794"/>
-        <updated>2023-03-22T08:17:34.102Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
