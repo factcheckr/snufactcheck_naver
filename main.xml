@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-04-06T03:14:32.314Z</updated>
+    <updated>2023-04-06T04:16:34.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주 4·3 사건은 공산 폭동이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4821</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4821"/>
+        <updated>2023-04-06T04:16:12.961Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국도 방사능 오염수 방류한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4820</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4810"/>
         <updated>2023-03-30T08:19:33.842Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현재 주 69시간 일하는 회사는 거의 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4807</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4807"/>
-        <updated>2023-03-28T17:13:25.099Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
