@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-07T09:13:39.991Z</updated>
+    <updated>2023-04-07T10:14:32.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[4·3은 국경일보다 격이 낮은 기념일이어서 대통령이 무조건 참석 안 해도 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4825"/>
         <updated>2023-04-07T05:12:49.128Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제원자력기구(IAEA)에 일본이 세계 세 번째로 분담금을 제일 많이 내고 있기 때문에 일본의 입김이 작용되고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4824</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4824"/>
+        <updated>2023-04-07T10:14:09.801Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제주 4·3 사건은 공산 폭동이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4813</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4813"/>
         <updated>2023-03-30T08:19:33.842Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헌재, 과거에도 '검찰 수사권은 헌법상 권한 아니다' 결정했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4812</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4812"/>
-        <updated>2023-03-31T12:26:06.277Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
