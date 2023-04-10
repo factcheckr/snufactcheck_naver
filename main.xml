@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-04-10T07:13:13.458Z</updated>
+    <updated>2023-04-10T08:17:32.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문래동 제2세종문화회관 건립을 공식적으로 철회하면서, 주민설명회(공청회)가 없었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4827</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4827"/>
+        <updated>2023-04-10T08:17:10.138Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4·3은 국경일보다 격이 낮은 기념일이어서 대통령이 무조건 참석 안 해도 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4825</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4814"/>
         <updated>2023-04-07T05:12:49.146Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평택시 고덕지역 월세, 서울 강남보다 비싸다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4813</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4813"/>
-        <updated>2023-03-30T08:19:33.842Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
