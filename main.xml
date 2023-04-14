@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-04-14T03:14:36.539Z</updated>
+    <updated>2023-04-14T04:16:28.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미성년 학폭 피해자가 원치 않으면 부모가 가해자를 고소할 수 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4841</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4841"/>
+        <updated>2023-04-14T04:16:07.180Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도 소방인력은 국내 타 지역에 비해 많은 편이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4839</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4827</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4827"/>
         <updated>2023-04-10T08:17:10.138Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[향토은행을 강조한 전북은행이 고금리 국면에 ‘이자장사’를 하고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4826</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4826"/>
-        <updated>2023-04-11T04:16:22.337Z</updated>
         <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
