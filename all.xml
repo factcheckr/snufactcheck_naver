@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T23:14:17.523Z</updated>
+    <updated>2023-04-14T01:05:03.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[경기도 소방인력은 국내 타 지역에 비해 많은 편이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4839</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4839"/>
+        <updated>2023-04-14T01:04:39.701Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국방부가 2022년 추산한 북한군 병력 수는 과대평가된 것이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4838</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4826"/>
         <updated>2023-04-11T04:16:22.337Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4·3은 국경일보다 격이 낮은 기념일이어서 대통령이 무조건 참석 안 해도 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4825</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4825"/>
-        <updated>2023-04-07T05:12:49.128Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
