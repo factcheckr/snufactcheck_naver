@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-04-20T14:13:27.134Z</updated>
+    <updated>2023-04-20T15:14:20.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴근 후 주고받는 짧은 업무 연락도 근로시간에 해당된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4853</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4853"/>
+        <updated>2023-04-20T15:13:59.769Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이한열·박종철 열사는 현행법상 국가유공자가 아니다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4849</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4838"/>
         <updated>2023-04-12T14:13:27.074Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야생동물전시 규제법은 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4837</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4837"/>
-        <updated>2023-04-12T08:17:10.769Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
