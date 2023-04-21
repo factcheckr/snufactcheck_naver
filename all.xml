@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-21T05:13:13.451Z</updated>
+    <updated>2023-04-21T06:18:40.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퇴근 후 주고받는 짧은 업무 연락도 근로시간에 해당된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4853"/>
         <updated>2023-04-20T15:13:59.769Z</updated>
         <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부가 전세사기 매물 경매 중지할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4852</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4852"/>
+        <updated>2023-04-21T06:18:16.825Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이한열·박종철 열사는 현행법상 국가유공자가 아니다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4841"/>
         <updated>2023-04-14T04:16:07.180Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄철 동해안의 산불 피해가 유독 크다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4840</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4840"/>
-        <updated>2023-04-21T03:14:36.896Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
