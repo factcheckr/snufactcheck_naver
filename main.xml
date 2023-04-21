@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-04-21T07:13:26.278Z</updated>
+    <updated>2023-04-21T08:17:14.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정권은 전세사기 문제에 손 놓고 있었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4855</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4855"/>
+        <updated>2023-04-21T08:16:53.205Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퇴근 후 주고받는 짧은 업무 연락도 근로시간에 해당된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4853</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4842"/>
         <updated>2023-04-17T05:12:59.411Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미성년 학폭 피해자가 원치 않으면 부모가 가해자를 고소할 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4841</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4841"/>
-        <updated>2023-04-14T04:16:07.180Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
