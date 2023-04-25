@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-04-25T13:18:04.119Z</updated>
+    <updated>2023-04-25T14:13:33.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[학교폭력이 2017년부터 가파르게 늘고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4862</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4862"/>
+        <updated>2023-04-25T14:13:10.214Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령은 외국 순방 이후 지지율 상승 효과가 없었다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4861</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4847"/>
         <updated>2023-04-21T03:14:36.875Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내에서 벼농사 가장 많이 짓는 연령대는 70대 이상이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4845</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4845"/>
-        <updated>2023-04-18T07:13:47.961Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
