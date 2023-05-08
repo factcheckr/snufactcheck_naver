@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-05-08T02:32:09.190Z</updated>
+    <updated>2023-05-08T03:15:11.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OECD에서 비례대표 비율 높은 나라가 여성·청년 의원 비율도 높다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4869</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4869"/>
+        <updated>2023-05-08T03:14:48.164Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤 대통령 WP 인터뷰 발언, '일본이 받아들일 수 없다'로 해석해야 한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4865</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4865"/>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4864"/>
         <updated>2023-04-26T07:16:29.850Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야당이 추천했던 방통위원 후임 추천권은 야당 몫이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4863</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4863"/>
-        <updated>2023-04-26T08:21:13.825Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
