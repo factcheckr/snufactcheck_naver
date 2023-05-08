@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-05-08T03:15:11.648Z</updated>
+    <updated>2023-05-08T04:16:37.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 WP 인터뷰 발언, '일본이 받아들일 수 없다'로 해석해야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4865</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4865"/>
-        <updated>2023-04-27T08:16:24.697Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+        <title type="html"><![CDATA[OECD 기준으로 원내 정당 수가 많은 나라일수록 정치가 불안정하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4868</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4868"/>
+        <updated>2023-05-08T04:16:16.108Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지방공항 활주로에서 고추 말린 적 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4864</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4864"/>
-        <updated>2023-04-26T07:16:29.850Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+        <title type="html"><![CDATA[OECD 기준으로 한국 국회의원 보수 수준은 높다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4867</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4867"/>
+        <updated>2023-05-08T04:16:16.110Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
