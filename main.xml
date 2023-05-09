@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-05-09T08:17:09.187Z</updated>
+    <updated>2023-05-09T09:14:03.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 장관 딸 MIT 합격의 주된 요인은 높은 내신, 수능 점수다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4888</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4888"/>
+        <updated>2023-05-09T09:13:41.384Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원전 오염수를 방류하기 시작하면 우리 국민의 먹거리 안전을 보장받을 수 있을지 우려된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4886</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4874"/>
         <updated>2023-05-03T07:13:09.189Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박근혜 전 대통령, 메르스 때 낙타고기 먹지말라 해놓고 먹었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4872</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4872"/>
-        <updated>2023-05-02T15:15:33.190Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
