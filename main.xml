@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-05-09T04:16:25.113Z</updated>
+    <updated>2023-05-09T05:13:08.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원전 오염수를 방류하기 시작하면 우리 국민의 먹거리 안전을 보장받을 수 있을지 우려된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4886</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4886"/>
+        <updated>2023-05-09T05:12:45.725Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가루쌀은 겉은 쌀인데 밀과 똑같다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4885</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4872"/>
         <updated>2023-05-02T15:15:33.190Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1기 신도시는 고령 인구 많은 노인 도시가 됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4870</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4870"/>
-        <updated>2023-04-28T02:32:01.583Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
