@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-10T05:12:59.995Z</updated>
+    <updated>2023-05-10T06:20:36.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[한동훈 장관 딸 MIT 합격의 주된 요인은 높은 내신, 수능 점수다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4884"/>
         <updated>2023-05-08T06:17:04.984Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국이 핵무장한 핵잠수함으로 한반도에 들어오지 않는다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4883</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4883"/>
+        <updated>2023-05-10T06:20:14.945Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하루 1만보 이상 걷기보다 8000보 이상 걷기만 해도 오래산다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4877"/>
         <updated>2023-05-03T10:14:39.342Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠폭스, 여름에 더 감염 잘 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4876</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4876"/>
-        <updated>2023-05-03T02:29:29.697Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
