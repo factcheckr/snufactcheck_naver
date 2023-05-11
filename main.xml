@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-05-11T02:29:51.640Z</updated>
+    <updated>2023-05-11T03:13:53.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의사면허 취소법은 의사들을 압박하기 위해 만들었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4892</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4892"/>
+        <updated>2023-05-11T03:13:31.103Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 장관 딸 MIT 합격의 주된 요인은 높은 내신, 수능 점수다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4888</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4879"/>
         <updated>2023-05-03T07:13:09.188Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일제 강점기 조선인에 대한 강제노동과 강제연행 사실, 일본 법원은 인정했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4877</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4877"/>
-        <updated>2023-05-03T10:14:39.342Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
