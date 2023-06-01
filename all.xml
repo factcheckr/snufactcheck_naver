@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-01T06:17:57.820Z</updated>
+    <updated>2023-06-01T07:14:16.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[운항 중인 비행기 비상 출입문, 사람 힘으로 열 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4932</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4932"/>
+        <updated>2023-06-01T07:13:57.385Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난 10년 한국의 연평균 근로손실일수는 주요국 대비 지나치게 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4931</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4912</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4912"/>
         <updated>2023-05-24T02:34:57.777Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전두환씨가 5·18 피해자와 유가족을 위로했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4910</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4910"/>
-        <updated>2023-05-19T11:10:51.975Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
