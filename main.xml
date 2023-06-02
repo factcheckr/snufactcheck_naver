@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-02T02:47:57.235Z</updated>
+    <updated>2023-06-02T03:15:00.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실에서 서울시 경계경보를 발령했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4936</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4936"/>
+        <updated>2023-06-02T03:14:37.524Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노란봉투법 통과되면 노조가 불법행위 해도 손해배상 할 수 없다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4935</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4918"/>
         <updated>2023-05-23T05:13:04.190Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령이 거부한 간호법안 국회에서 수정 재의결 불가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4917</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4917"/>
-        <updated>2023-05-23T05:13:04.195Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
