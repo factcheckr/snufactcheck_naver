@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T07:14:04.207Z</updated>
+    <updated>2023-06-05T08:16:52.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[외국인 노동자 없이는 뿌리산업을 지탱하기 어렵다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4944</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4944"/>
+        <updated>2023-06-05T08:16:32.842Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4942</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4942"/>
+        <updated>2023-06-05T08:16:32.847Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['일제강제동원시민모임'은 부정 운영됐다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4941</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4930"/>
         <updated>2023-06-01T08:16:54.973Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적십자가 혈액을 제약사에 헐값에 팔아서 혈액 부족 사태 생긴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4929</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4929"/>
-        <updated>2023-06-01T08:16:54.982Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회 표결을 앞둔 <노란봉투법>에는 문재인 정부도 반대했던 내용이 포함되어 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4927</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4927"/>
-        <updated>2023-06-02T12:26:31.615Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
