@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-04T23:13:35.884Z</updated>
+    <updated>2023-06-05T01:16:58.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://m.news.naver.com/factcheck/end?id=4938</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4938"/>
         <updated>2023-06-03T05:12:23.008Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대통령실에서 서울시 경계경보를 발령했다]]></title>
