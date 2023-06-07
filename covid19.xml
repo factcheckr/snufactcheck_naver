@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2023-06-07T14:13:10.693Z</updated>
+    <updated>2023-06-07T15:14:54.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지하철 역사에서도 마스크 의무 착용이 유지된다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4687</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4687"/>
+        <updated>2023-06-07T15:14:47.430Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국발 입국자보다 미국 코로나19 변이 유입이 더 큰 걱정거리다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4664</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4664"/>
+        <updated>2023-06-07T15:14:47.430Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 XBB 변이가 복통·설사 유발한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4621</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4621"/>
+        <updated>2023-06-07T15:14:47.431Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경제협력개발기구(OECD) 국가 중 실내 마스크 착용 의무를 유지하는 나라는 우리가 유일하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4576</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4576"/>
+        <updated>2023-06-07T15:14:47.431Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 XBB 변이는 델타보다 5배 독하고 치명적이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4538</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4538"/>
+        <updated>2023-06-07T15:14:47.432Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국은 세계에서 인구 대비 코로나19 확진자 수가 가장 많은 국가로 집계됐다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4535</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4535"/>
+        <updated>2023-06-07T15:14:47.437Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19에도 한국은 가정폭력이 감소했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4348</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4348"/>
+        <updated>2023-06-07T15:14:47.438Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입국 전 코로나19 검사 의무인 OECD 국가는 한국뿐이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4346</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4346"/>
+        <updated>2023-06-07T15:14:47.440Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 여름철 재확산 가능성 커졌다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4204</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4204"/>
+        <updated>2023-06-07T15:14:47.442Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크 계속 쓰면 만성적 저산소증에 시달린다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4202</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4202"/>
+        <updated>2023-06-07T15:14:47.445Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
 </feed>
