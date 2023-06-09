@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-09T07:13:57.661Z</updated>
+    <updated>2023-06-09T08:17:02.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한국과 프랑스 등 다른 나라도 삼중수소 배출한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4953</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4953"/>
+        <updated>2023-06-09T08:16:40.417Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼중수소는 우리 몸에 위험하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4952</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4952"/>
+        <updated>2023-06-09T08:16:40.419Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건설현장은 이미 외국인 노동자가 장악했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4951</id>
@@ -24,6 +38,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4944"/>
         <updated>2023-06-05T08:16:32.842Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주유소에서 담배 피우면 과태료 10만원이 부과된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4943</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4943"/>
+        <updated>2023-06-09T08:16:40.427Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인 노동자가 내국인 일자리를 빼앗고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -52,27 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4938"/>
         <updated>2023-06-03T05:12:23.008Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실에서 서울시 경계경보를 발령했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4936</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4936"/>
-        <updated>2023-06-02T03:14:37.524Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노란봉투법 통과되면 노조가 불법행위 해도 손해배상 할 수 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4935</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4935"/>
-        <updated>2023-06-01T09:15:32.339Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천문학적인 한전 적자는 탈원전 정책 탓이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4934</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4934"/>
-        <updated>2023-06-02T12:26:31.602Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
