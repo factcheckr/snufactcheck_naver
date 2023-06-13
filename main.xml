@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-13T02:40:21.182Z</updated>
+    <updated>2023-06-13T03:15:17.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부 5년 동안 여론조사 기관 79곳이 새로 생겼다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4961</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4961"/>
+        <updated>2023-06-13T03:14:53.787Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고용허가제가 되레 불법체류 외국인을 양산하고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4960</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4960"/>
+        <updated>2023-06-13T03:14:53.787Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사회서비스 경쟁하면 질이 좋아진다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4956</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4942"/>
         <updated>2023-06-05T08:16:32.847Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일제강제동원시민모임'은 부정 운영됐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4941</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4941"/>
-        <updated>2023-06-05T07:13:42.727Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고(故) 노무현 전 대통령 집권 당시 세계경제포럼(WEF) 국가 경쟁력 지수 최고 순위를 기록해 경제 대국 반열에 올랐다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4939</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4939"/>
-        <updated>2023-06-08T10:14:17.905Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
