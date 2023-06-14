@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-14T07:13:00.661Z</updated>
+    <updated>2023-06-14T08:17:10.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대림동은 내국인 대비 외국인 범죄율이 특별히 높다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4966</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4966"/>
+        <updated>2023-06-14T08:16:48.940Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동관 아들 학교폭력 사건은 '담임 자체 해결' 지침 요건을 충족했다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4964</id>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4949</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4949"/>
         <updated>2023-06-07T08:17:58.880Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 노동자 없이는 뿌리산업을 지탱하기 어렵다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4944</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4944"/>
-        <updated>2023-06-05T08:16:32.842Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
