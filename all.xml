@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T06:18:14.071Z</updated>
+    <updated>2023-06-15T07:13:21.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[대림동은 내국인 대비 외국인 범죄율이 특별히 높다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -68,11 +68,11 @@
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[싱가포르와 홍콩, 외국인 가사노동자 도입 이후에도 저출산을 해결하지 못했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4949</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4949"/>
-        <updated>2023-06-07T08:17:58.880Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
+        <title type="html"><![CDATA[미성년자의제강간죄 피해자 대부분은 13세 미만이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4950</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4950"/>
+        <updated>2023-06-15T07:13:01.835Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
