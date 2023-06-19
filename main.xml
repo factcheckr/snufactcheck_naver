@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-19T04:16:36.011Z</updated>
+    <updated>2023-06-19T05:14:08.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현행 제도상 민사소송 과정에서 발생하는 개인정보 노출을 막을 방법은 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4976</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4976"/>
+        <updated>2023-06-19T05:13:47.605Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G7 최저임금제는 상향식 차등적용이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4974</id>
@@ -18,6 +25,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4973"/>
         <updated>2023-06-16T12:26:33.660Z</updated>
         <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4972</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4972"/>
+        <updated>2023-06-19T05:13:47.615Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미성년자의제강간죄 가해자는 대부분 오프라인에서 평소 알고 지내던 사이다]]></title>
@@ -59,20 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4960</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4960"/>
         <updated>2023-06-13T03:14:53.787Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회서비스 경쟁하면 질이 좋아진다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4956</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4956"/>
-        <updated>2023-06-12T06:17:48.734Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우회전 사고, '횡단보도 위치 조정'하면 감소한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4955</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4955"/>
-        <updated>2023-06-15T13:17:28.863Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
