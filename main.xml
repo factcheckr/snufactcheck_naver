@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-22T07:12:48.144Z</updated>
+    <updated>2023-06-22T08:17:20.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미성년자 시절 성범죄 전력 있으면 현행법상 교원 자격 박탈할 수 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4987</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4987"/>
+        <updated>2023-06-22T08:16:59.818Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령실 용산 이전이 주변 교통 체증 불렀다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4985</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4985"/>
+        <updated>2023-06-22T08:16:59.821Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 성범죄 형량, 해외 주요 선진국보다 적은 편이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4984</id>
@@ -48,31 +62,17 @@
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이동관 자녀 학교폭력 사건은 담임교사가 자체 해결할 수 있는 사안이었다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4975</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4975"/>
+        <updated>2023-06-22T08:16:59.832Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[G7 최저임금제는 상향식 차등적용이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4974</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4974"/>
         <updated>2023-06-16T12:26:33.659Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄 피해자가 민사소송을 통해 손해배상을 받으려면, 집 주소를 가해자에게 알려주어야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4973</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4973"/>
-        <updated>2023-06-16T12:26:33.660Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['후쿠시마 원전사고' 넷플릭스 드라마 한국 공개 일부러 늦췄다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4972</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4972"/>
-        <updated>2023-06-19T05:13:47.615Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미성년자의제강간죄 가해자는 대부분 오프라인에서 평소 알고 지내던 사이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4970</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4970"/>
-        <updated>2023-06-15T10:15:41.641Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
