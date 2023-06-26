@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-26T08:24:17.085Z</updated>
+    <updated>2023-06-26T09:16:53.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[국내 체류 중국인의 건강보험 혜택이 중국에 있는 한국인이 받는 것보다 더 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4992</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4992"/>
+        <updated>2023-06-26T09:16:29.930Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강보험기금이 외국인에게 줄줄 새고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4991</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4991"/>
+        <updated>2023-06-26T09:16:29.932Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘은 삼중수소 위험하다며 방류 반대했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4990</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4983"/>
         <updated>2023-06-20T08:16:58.153Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 실업급여 50% 이상은 조선족이 받아간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4982</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4982"/>
-        <updated>2023-06-20T09:13:20.954Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처리된 후쿠시마 오염수, 음용수 기준에 맞다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4979</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4979"/>
-        <updated>2023-06-20T08:16:58.153Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
