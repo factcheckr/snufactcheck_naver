@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-06-27T05:14:48.012Z</updated>
+    <updated>2023-06-27T06:20:21.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 교과서에서만 수능 문제 나온다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5001</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5001"/>
+        <updated>2023-06-27T06:19:56.684Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모기는 세상에 불필요한 생명체다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4999</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4999"/>
+        <updated>2023-06-27T06:19:56.691Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 체류 중국인의 건강보험 혜택이 중국에 있는 한국인이 받는 것보다 더 많다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4992</id>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4985"/>
         <updated>2023-06-22T08:16:59.821Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 성범죄 형량, 해외 주요 선진국보다 적은 편이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4984</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4984"/>
-        <updated>2023-06-22T03:14:15.925Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 사람이면 누구나 가입되어 있는 공짜 보험이 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4983</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4983"/>
-        <updated>2023-06-20T08:16:58.153Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
