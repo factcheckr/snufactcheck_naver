@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-04T11:13:26.438Z</updated>
+    <updated>2023-07-04T12:30:43.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[외국인 건강보험에 상호주의 적용할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5011</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5011"/>
+        <updated>2023-07-04T12:30:23.381Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오염수 소금 대란에 맛소금 없어 조미김 못 만든다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5009</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5009"/>
+        <updated>2023-07-04T12:30:23.385Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 연평균 노동시간은 OECD 평균보다 300시간 더 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5008</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5008"/>
+        <updated>2023-07-04T12:30:23.390Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[택배노조를 허용하는 나라는 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5007</id>
@@ -51,27 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=4999</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4999"/>
         <updated>2023-06-27T06:19:56.691Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 난이도 높을수록 단기적인 사교육비 증가한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4994</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4994"/>
-        <updated>2023-07-04T08:19:50.151Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 오염수 방출에 따라 한국 해역에 오염수가 도달하여 천일염이 오염될 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4993</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4993"/>
-        <updated>2023-07-04T08:19:50.152Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 체류 중국인의 건강보험 혜택이 중국에 있는 한국인이 받는 것보다 더 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4992</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4992"/>
-        <updated>2023-06-26T09:16:29.930Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
