@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-04T07:14:33.305Z</updated>
+    <updated>2023-07-04T08:20:13.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[택배노조를 허용하는 나라는 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,20 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5007"/>
         <updated>2023-07-03T09:15:16.114Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원전 오염수 불안에 소금 사재기하는 개인 소비자 처벌 가능하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5006</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5006"/>
+        <updated>2023-07-04T08:19:50.138Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI가 만든 인공지능 프로필, 사용자에게 초상권 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5005</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5005"/>
+        <updated>2023-07-04T08:19:50.138Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 오염수 방류하면 한국 해양 생태계 위험해진다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -40,39 +54,25 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[수능 난이도 높을수록 단기적인 사교육비 증가한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4994</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4994"/>
+        <updated>2023-07-04T08:19:50.151Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 오염수 방출에 따라 한국 해역에 오염수가 도달하여 천일염이 오염될 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4993</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4993"/>
+        <updated>2023-07-04T08:19:50.152Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국내 체류 중국인의 건강보험 혜택이 중국에 있는 한국인이 받는 것보다 더 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4992</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4992"/>
         <updated>2023-06-26T09:16:29.930Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강보험기금이 외국인에게 줄줄 새고 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4991</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4991"/>
-        <updated>2023-06-26T09:16:29.932Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘은 삼중수소 위험하다며 방류 반대했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4990</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4990"/>
-        <updated>2023-06-23T12:33:51.492Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 대표가 말한 '핵폐수'는 중국계 용어다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4989</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4989"/>
-        <updated>2023-06-23T12:33:51.495Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부는 삼중수소 위험하지 않다고 했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4988</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4988"/>
-        <updated>2023-06-23T12:33:51.499Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
