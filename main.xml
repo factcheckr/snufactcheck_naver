@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-06T01:24:26.916Z</updated>
+    <updated>2023-07-06T03:00:12.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[중국에 있는 우리 국민에게는 참정권이 전혀 주어지지 않는다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5004</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5004"/>
+        <updated>2023-07-06T02:59:47.867Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후쿠시마 오염수 방류하면 한국 해양 생태계 위험해진다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5003</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5003"/>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=5001</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5001"/>
         <updated>2023-06-27T06:19:56.684Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모기는 세상에 불필요한 생명체다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4999</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4999"/>
-        <updated>2023-06-27T06:19:56.691Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
