@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-11T05:15:04.844Z</updated>
+    <updated>2023-07-11T06:21:12.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[법원은 월례비를 임금으로 판단한 적 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5022</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5022"/>
+        <updated>2023-07-11T06:20:47.832Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAEA 보고서, 'ALPS(다핵종제거설비) 성능' 검증 다루지 않았다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5021</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5021"/>
+        <updated>2023-07-11T06:20:47.838Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재보궐 국회의원은 같은 지역구로 한번 더 출마하는 게 정치권 통례다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5019</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5019"/>
+        <updated>2023-07-11T06:20:47.845Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소고기 먹고 광우병 걸린 사람이 전 세계 수십만명 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5017</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5017"/>
+        <updated>2023-07-11T06:20:47.845Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지나친 사생활 질문, 직장 내 괴롭힘에 해당한다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5015</id>
@@ -46,33 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5006"/>
         <updated>2023-07-04T08:19:50.138Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 만든 인공지능 프로필, 사용자에게 초상권 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5005</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5005"/>
-        <updated>2023-07-04T08:19:50.138Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국에 있는 우리 국민에게는 참정권이 전혀 주어지지 않는다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5004</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5004"/>
-        <updated>2023-07-06T02:59:47.867Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 오염수 방류하면 한국 해양 생태계 위험해진다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5003</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5003"/>
-        <updated>2023-07-04T04:18:25.691Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 국회의원 불체포특권 행사는 많은 편이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5002</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5002"/>
-        <updated>2023-06-29T11:12:25.183Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
