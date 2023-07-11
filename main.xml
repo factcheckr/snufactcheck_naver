@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-11T06:21:12.546Z</updated>
+    <updated>2023-07-11T07:14:34.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -24,6 +24,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=5019</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5019"/>
         <updated>2023-07-11T06:20:47.845Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인에서 암표를 파는 것에 대한 처벌 근거 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5018</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5018"/>
+        <updated>2023-07-11T07:14:12.082Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=5007</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5007"/>
         <updated>2023-07-03T09:15:16.114Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원전 오염수 불안에 소금 사재기하는 개인 소비자 처벌 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5006</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5006"/>
-        <updated>2023-07-04T08:19:50.138Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
