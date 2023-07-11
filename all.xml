@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-11T20:15:48.863Z</updated>
+    <updated>2023-07-11T21:13:07.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[법원은 월례비를 임금으로 판단한 적 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -212,6 +212,76 @@
         <id>https://m.news.naver.com/factcheck/end?id=4202</id>
         <link href="https://m.news.naver.com/factcheck/end?id=4202"/>
         <updated>2023-06-23T13:24:02.088Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간호법 제정안, 윤석열 대통령 대선후보 시절 공약이었다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4913</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4913"/>
+        <updated>2023-07-11T21:13:06.460Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간호법 제정은 윤석열 대통령 공약이다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4751</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4751"/>
+        <updated>2023-07-11T21:13:06.475Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 선거범죄로 유죄 확정돼도 국회의원직은 유지된다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4379</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4379"/>
+        <updated>2023-07-11T21:13:06.476Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대통령 취임식 초청자 명단' 폐기해도 문제없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4344</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4344"/>
+        <updated>2023-07-11T21:13:06.479Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저학력, 저소득층이 국민의힘 지지를 많이 한다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4282</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4282"/>
+        <updated>2023-07-11T21:13:06.481Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헌재소장 공관 옆 등산로 폐쇄는 법적 근거를 가진다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4185</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4185"/>
+        <updated>2023-07-11T21:13:06.486Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집회 및 시위에서의 소음을 제재할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4166</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4166"/>
+        <updated>2023-07-11T21:13:06.492Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 지정기록물은 정권이 바뀔 때마다 공개 여부 공방의 대상이 되고 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4161</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4161"/>
+        <updated>2023-07-11T21:13:06.494Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 용산 집무실 앞에서 시위를 할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4094</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4094"/>
+        <updated>2023-07-11T21:13:06.497Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 경쟁자를 대통령 취임식에 초청한 전례 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 20대 대선)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=4016</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=4016"/>
+        <updated>2023-07-11T21:13:06.500Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
