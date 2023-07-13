@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-13T12:31:35.111Z</updated>
+    <updated>2023-07-13T13:30:00.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[촛불행동 포스터에 북한 인민군복 사진 사용했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5030</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5030"/>
+        <updated>2023-07-13T13:29:31.855Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 모든 언론에서 오염수 기사가 다 사라졌다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5028</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5028"/>
+        <updated>2023-07-13T13:29:31.862Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개 식용은 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5026</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5017"/>
         <updated>2023-07-11T06:20:47.845Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나친 사생활 질문, 직장 내 괴롭힘에 해당한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5015</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5015"/>
-        <updated>2023-07-06T07:16:19.976Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인 건강보험에 상호주의 적용할 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5011</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5011"/>
-        <updated>2023-07-04T12:30:23.381Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
