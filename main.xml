@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-18T09:14:35.662Z</updated>
+    <updated>2023-07-18T10:15:17.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -24,6 +24,13 @@
         <id>https://m.news.naver.com/factcheck/end?id=5035</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5035"/>
         <updated>2023-07-17T04:18:14.807Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통행 막고 촬영하려면 법으로 점용 허가 받아야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5033</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5033"/>
+        <updated>2023-07-18T10:14:56.498Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5022"/>
         <updated>2023-07-11T06:20:47.832Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAEA 보고서, 'ALPS(다핵종제거설비) 성능' 검증 다루지 않았다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5021</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5021"/>
-        <updated>2023-07-11T06:20:47.838Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
