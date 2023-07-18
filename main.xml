@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-18T04:16:43.932Z</updated>
+    <updated>2023-07-18T05:13:43.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닭요리와 관련된 ‘식중독’은 여름철에 더 잘 걸린다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5037</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5037"/>
+        <updated>2023-07-18T05:13:22.572Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이비박스로 오는 아기는 우리나라가 유독 많다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5035</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5020"/>
         <updated>2023-07-11T09:15:39.175Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재보궐 국회의원은 같은 지역구로 한번 더 출마하는 게 정치권 통례다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5019</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5019"/>
-        <updated>2023-07-11T06:20:47.845Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
