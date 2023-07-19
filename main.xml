@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-19T04:21:02.687Z</updated>
+    <updated>2023-07-19T05:13:22.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5035"/>
         <updated>2023-07-17T04:18:14.807Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메시, 이강인 무시한 중국 기자에게 불쾌감 나타냈다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5034</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5034"/>
+        <updated>2023-07-19T05:12:58.861Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통행 막고 촬영하려면 법으로 점용 허가 받아야 한다]]></title>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=5023</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5023"/>
         <updated>2023-07-12T09:14:56.370Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법원은 월례비를 임금으로 판단한 적 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5022</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5022"/>
-        <updated>2023-07-11T06:20:47.832Z</updated>
         <content type="html"><![CDATA[절반의 사실]]></content>
     </entry>
 </feed>
