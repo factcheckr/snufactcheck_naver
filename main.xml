@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-21T06:17:51.414Z</updated>
+    <updated>2023-07-21T07:12:42.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4대강 보, '치수, 이수, 수질 개선' 기능 발휘하고 있다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5045</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5045"/>
+        <updated>2023-07-21T07:12:17.456Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭우 중 골프 자제, 국민의힘 윤리강령에 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5044</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5033"/>
         <updated>2023-07-18T10:14:56.498Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지역 SOC사업 관련 군 단위에서 주민투표로 노선을 결정한 사례는 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5032</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5032"/>
-        <updated>2023-07-19T06:17:42.263Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
 </feed>
