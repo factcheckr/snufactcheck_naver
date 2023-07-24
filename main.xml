@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-24T07:13:28.146Z</updated>
+    <updated>2023-07-24T08:18:27.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오염수에서 기르는 광어가 해양 방류의 안전성을 보여준다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5050</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5050"/>
+        <updated>2023-07-24T08:18:05.462Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4대강 보, '치수, 이수, 수질 개선' 기능 발휘하고 있다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5045</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5034"/>
         <updated>2023-07-19T05:12:58.861Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통행 막고 촬영하려면 법으로 점용 허가 받아야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5033</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5033"/>
-        <updated>2023-07-18T10:14:56.498Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
