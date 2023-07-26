@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-26T09:13:15.268Z</updated>
+    <updated>2023-07-26T10:14:22.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우리나라 저출산 예산은 매년 100조 이상 들어간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5053</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5053"/>
+        <updated>2023-07-26T10:13:59.910Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭우로 숙박 예약 취소해도 전액 환불 못 받을 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5052</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5052"/>
+        <updated>2023-07-26T10:13:59.914Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오염수에서 기르는 광어가 해양 방류의 안전성을 보여준다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5050</id>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5037"/>
         <updated>2023-07-18T05:13:22.572Z</updated>
         <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 여성은 남성에 비해 투표율과 피선거율이 낮다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5036</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5036"/>
-        <updated>2023-07-18T06:18:34.510Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비박스로 오는 아기는 우리나라가 유독 많다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5035</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5035"/>
-        <updated>2023-07-17T04:18:14.807Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
