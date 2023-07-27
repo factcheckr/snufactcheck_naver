@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-27T03:13:40.453Z</updated>
+    <updated>2023-07-27T04:15:21.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지구 평균기온 오르면 세계경제 성장률 내려간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5055</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5055"/>
+        <updated>2023-07-27T04:14:57.165Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 저출산 예산은 매년 100조 이상 들어간다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5053</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5039"/>
         <updated>2023-07-19T06:17:42.250Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닭요리와 관련된 ‘식중독’은 여름철에 더 잘 걸린다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5037</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5037"/>
-        <updated>2023-07-18T05:13:22.572Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
