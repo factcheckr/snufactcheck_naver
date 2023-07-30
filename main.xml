@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-07-30T09:11:52.992Z</updated>
+    <updated>2023-07-30T10:12:43.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -13,10 +13,24 @@
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한국이 선진국에 비해 실업급여 퍼준다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5061</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5061"/>
+        <updated>2023-07-30T10:12:21.753Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[무분별한 아동학대 신고로부터 교사를 보호할 장치가 미흡하다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5059</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5059"/>
         <updated>2023-07-28T12:25:27.319Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[분실물 돌려받으면 사례해야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5058</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5058"/>
+        <updated>2023-07-30T10:12:21.756Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5050"/>
         <updated>2023-07-24T08:18:05.462Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실업급여 부정수급 사례 대부분 여성과 청년이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5046</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5046"/>
-        <updated>2023-07-25T06:17:25.200Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4대강 보, '치수, 이수, 수질 개선' 기능 발휘하고 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5045</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5045"/>
-        <updated>2023-07-21T07:12:17.456Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
