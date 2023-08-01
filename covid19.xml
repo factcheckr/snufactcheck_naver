@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98+%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 코로나19</title>
-    <updated>2023-08-01T12:26:42.653Z</updated>
+    <updated>2023-08-01T13:17:38.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 여름, 유독 한국에서 코로나 확산세가 심각하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5076</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5076"/>
+        <updated>2023-08-01T13:17:29.661Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지하철 역사에서도 마스크 의무 착용이 유지된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=4687</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=4204"/>
         <updated>2023-07-30T08:15:08.289Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크 계속 쓰면 만성적 저산소증에 시달린다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4202</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4202"/>
-        <updated>2023-07-30T08:15:08.290Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
 </feed>
