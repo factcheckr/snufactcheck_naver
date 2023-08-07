@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-08-07T15:14:04.042Z</updated>
+    <updated>2023-08-07T16:17:13.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올해 해수면 온도가 급격히 상승했다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5081</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5081"/>
+        <updated>2023-08-07T16:16:48.735Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몰래 한 녹음, 아동학대 사건에서 증거능력 인정 안 된다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5078</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5057"/>
         <updated>2023-07-28T12:25:27.323Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 여객기 수질 상태는 양치 못 할 정도로 안 좋다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5056</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5056"/>
-        <updated>2023-07-28T12:25:27.326Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
