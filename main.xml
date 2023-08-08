@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-08-08T13:16:39.790Z</updated>
+    <updated>2023-08-08T14:12:16.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5083"/>
         <updated>2023-08-08T06:17:23.360Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직원 1.6만명인데 임원 1.4만명, 새마을금고 조직구조 희한하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5082</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5082"/>
+        <updated>2023-08-08T14:11:55.846Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 해수면 온도가 급격히 상승했다]]></title>
@@ -66,13 +73,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=5059</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5059"/>
         <updated>2023-07-28T12:25:27.319Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분실물 돌려받으면 사례해야 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5058</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5058"/>
-        <updated>2023-07-30T10:12:21.756Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
