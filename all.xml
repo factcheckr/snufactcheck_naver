@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-18T04:16:00.189Z</updated>
+    <updated>2023-08-18T05:12:33.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[좌뇌형 인간, 우뇌형 인간은 따로 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5097</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5097"/>
+        <updated>2023-08-18T05:12:11.329Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국에서는 팁 문화가 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5093</id>
@@ -54,25 +61,18 @@
         <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최근 3년 수능·6월 모의평가 킬러 문항 22개다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5080</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5080"/>
+        <updated>2023-08-18T05:12:11.348Z</updated>
+        <content type="html"><![CDATA[절반의 사실]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[몰래 한 녹음, 아동학대 사건에서 증거능력 인정 안 된다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5078</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5078"/>
         <updated>2023-08-01T12:26:21.038Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 여름, 유독 한국에서 코로나 확산세가 심각하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5076</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5076"/>
-        <updated>2023-08-01T13:17:14.390Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부가 4대강 보 해체해 충남과 전라 물난리 났다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5074</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5074"/>
-        <updated>2023-08-01T06:18:17.204Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
