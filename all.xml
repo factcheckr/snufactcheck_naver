@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-22T08:16:42.702Z</updated>
+    <updated>2023-08-22T09:13:18.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[여운형 선생·홍범도 장군만 건국훈장 두번 받았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5105</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5105"/>
+        <updated>2023-08-22T09:12:57.618Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잼버리 대체 프로그램, 대회 취지에 맞다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5099</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5082"/>
         <updated>2023-08-08T14:11:55.846Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 해수면 온도가 급격히 상승했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5081</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5081"/>
-        <updated>2023-08-07T16:16:48.735Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
