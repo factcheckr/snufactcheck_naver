@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-23T09:13:24.831Z</updated>
+    <updated>2023-08-23T10:14:09.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[여운형 선생·홍범도 장군만 건국훈장 두번 받았다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -10,6 +10,20 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5105"/>
         <updated>2023-08-22T09:12:57.618Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 현직 총리의 야스쿠니 신사 참배 및 공물료 봉납에 대한 한국 외교부 성명, 과거보다 비판 수위 낮췄다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5104</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5104"/>
+        <updated>2023-08-23T10:13:42.380Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총리가 아닌 자민당 총재 명의로 공물료 봉납, 일본이 과거보다 수위 낮췄다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5103</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5103"/>
+        <updated>2023-08-23T10:13:42.381Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 가수 목소리를 학습해 노래 만들면 저작권 문제 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
@@ -59,20 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5091"/>
         <updated>2023-08-11T06:16:22.794Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편의점 앞 테라스에서 술 마시면 불법이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5089</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5089"/>
-        <updated>2023-08-23T08:16:10.183Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국에선 폭염에도 이름을 붙인다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5088</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5088"/>
-        <updated>2023-08-14T03:13:09.977Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
