@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-31T05:12:46.458Z</updated>
+    <updated>2023-08-31T06:17:24.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[소득불평등이 커지면 흉악범죄 증가한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5112</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5112"/>
+        <updated>2023-08-31T06:16:58.684Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 더불어민주당 대표에 대한 체포동의안 투표 때 민주당 의원이 일제히 퇴장하면, 체포동의안 물리칠 수 있다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5111</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5101"/>
         <updated>2023-08-23T08:16:10.175Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잼버리 대체 프로그램, 대회 취지에 맞다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5099</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5099"/>
-        <updated>2023-08-18T16:16:04.992Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
