@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-04T11:11:33.768Z</updated>
+    <updated>2023-09-04T12:25:21.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[현직 장관의 "정권교체 강화" 발언은 선거법 위반이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5119</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5119"/>
+        <updated>2023-09-04T12:24:58.699Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현직 대통령의 노량진수산시장 방문은 윤석열 대통령이 처음이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5117</id>
@@ -66,13 +73,6 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5105"/>
         <updated>2023-08-22T09:12:57.618Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 현직 총리의 야스쿠니 신사 참배 및 공물료 봉납에 대한 한국 외교부 성명, 과거보다 비판 수위 낮췄다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5104</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5104"/>
-        <updated>2023-08-23T10:13:42.380Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다 (SNU 팩트체크 ─ 네이버 뉴스 ─ 백신)]]></title>
