@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-08T08:16:51.075Z</updated>
+    <updated>2023-09-08T09:13:31.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[재일조선인총연합회는 약간 다소 친북성향의 단체이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5123</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5123"/>
+        <updated>2023-09-08T09:13:06.792Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여성안심귀갓길 큰 효과 없어 폐지했다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5120</id>
@@ -65,13 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=5108</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5108"/>
         <updated>2023-08-25T13:15:00.267Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성안심귀갓길, 문구만 써놔 효과 없다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5107</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5107"/>
-        <updated>2023-08-26T06:15:40.164Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
     </entry>
     <entry>
