@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-09-11T05:12:56.976Z</updated>
+    <updated>2023-09-11T06:17:27.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 원전 오염수 방류돼도 우리나라 수산물 안전하다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5124</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5124"/>
+        <updated>2023-09-11T06:17:06.728Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재일조선인총연합회는 약간 다소 친북성향의 단체이다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5123</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5123"/>
         <updated>2023-09-08T09:13:06.792Z</updated>
         <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과도한 노출은 법적 처벌 대상이다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5121</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5121"/>
+        <updated>2023-09-11T06:17:06.743Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여성안심귀갓길 큰 효과 없어 폐지했다]]></title>
@@ -60,19 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5112"/>
         <updated>2023-08-31T06:16:58.684Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 더불어민주당 대표에 대한 체포동의안 투표 때 민주당 의원이 일제히 퇴장하면, 체포동의안 물리칠 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5111</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5111"/>
-        <updated>2023-08-29T07:13:22.658Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한의 핵 공격 위협이 최고조에 이르렀을 때에는 선제타격도 국제법상 허용 된다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5109</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5109"/>
-        <updated>2023-08-30T05:12:20.111Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
 </feed>
