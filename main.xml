@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-09-12T02:18:59.204Z</updated>
+    <updated>2023-09-12T03:14:18.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1920년대 공산당은 1945년 해방 이후 북한 정권을 수립한 공산당과 맥락을 다르게 봐야 한다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5125</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5125"/>
+        <updated>2023-09-12T03:13:54.599Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 원전 오염수 방류돼도 우리나라 수산물 안전하다]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5124</id>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5115"/>
         <updated>2023-09-08T10:14:05.943Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정당 대표의 옥중 공천권 행사는 가능하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5114</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5114"/>
-        <updated>2023-09-02T04:14:38.574Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
 </feed>
