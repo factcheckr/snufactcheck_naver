@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스</title>
-    <updated>2023-09-20T03:14:14.459Z</updated>
+    <updated>2023-09-20T04:16:33.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5134"/>
         <updated>2023-09-19T08:17:51.743Z</updated>
         <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물원이 '동물 감옥'인가…학대해도 처벌 규정 없다]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5130</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5130"/>
+        <updated>2023-09-20T04:16:10.914Z</updated>
+        <content type="html"><![CDATA[판단유보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이균용 대법원장 후보자는 여성폭력 가해자를 상습적으로 감형했다]]></title>
@@ -67,12 +74,5 @@
         <link href="https://m.news.naver.com/factcheck/end?id=5121"/>
         <updated>2023-09-11T06:17:06.743Z</updated>
         <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성안심귀갓길 큰 효과 없어 폐지했다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5120</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5120"/>
-        <updated>2023-09-05T15:13:24.546Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
     </entry>
 </feed>
