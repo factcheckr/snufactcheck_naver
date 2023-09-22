@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/snufactcheck_naver/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-22T09:13:09.470Z</updated>
+    <updated>2023-09-22T10:14:20.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[OECD 국가도 언론사를 상대로 가짜뉴스 단속을 강화 중이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5142</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5142"/>
+        <updated>2023-09-22T10:13:57.267Z</updated>
+        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개식용금지법을 '김건희법' 별칭으로 쓰기 시작한 것은 동물애호단체다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5141</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5141"/>
+        <updated>2023-09-22T10:13:57.270Z</updated>
+        <content type="html"><![CDATA[전혀 사실 아님]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부 총지출 대비 R&D 투자 규모가 4% 밑으로 내려간 것은 드문 일이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5139</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5139"/>
+        <updated>2023-09-22T10:13:57.270Z</updated>
+        <content type="html"><![CDATA[사실]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장어린이집 의무 미이행 벌금이 직장어린이집 비용보다 저렴하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
+        <id>https://m.news.naver.com/factcheck/end?id=5138</id>
+        <link href="https://m.news.naver.com/factcheck/end?id=5138"/>
+        <updated>2023-09-22T10:13:57.272Z</updated>
+        <content type="html"><![CDATA[대체로 사실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종이 빨대가 플라스틱 빨대보다 더 친환경적이다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
         <id>https://m.news.naver.com/factcheck/end?id=5137</id>
@@ -44,34 +72,6 @@
         <id>https://m.news.naver.com/factcheck/end?id=5128</id>
         <link href="https://m.news.naver.com/factcheck/end?id=5128"/>
         <updated>2023-09-14T07:13:23.617Z</updated>
-        <content type="html"><![CDATA[대체로 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김익래가 벌금형을 받으면 현재 키움증권의 경영권에 문제가 생긴다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5127</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5127"/>
-        <updated>2023-09-16T18:14:49.136Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자유시 참변'은 일본의 사주로 일어났다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5126</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5126"/>
-        <updated>2023-09-16T18:14:49.136Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1920년대 공산당은 1945년 해방 이후 북한 정권을 수립한 공산당과 맥락을 다르게 봐야 한다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5125</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5125"/>
-        <updated>2023-09-12T03:13:54.599Z</updated>
-        <content type="html"><![CDATA[사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 원전 오염수 방류돼도 우리나라 수산물 안전하다 (SNU 팩트체크 ─ 네이버 뉴스)]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=5124</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=5124"/>
-        <updated>2023-09-11T06:17:06.728Z</updated>
         <content type="html"><![CDATA[대체로 사실]]></content>
     </entry>
     <entry>
