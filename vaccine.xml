@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.news.naver.com/factcheck/main?section=%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%B1%EC%8B%A0</id>
     <title>SNU 팩트체크 ─ 네이버 뉴스 ─ 백신</title>
-    <updated>2023-09-25T08:18:16.925Z</updated>
+    <updated>2023-09-25T09:14:47.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.news.naver.com/factcheck/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[코로나19 백신 접종에 따른 중증화 예방에 차이가 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=4361</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=4361"/>
-        <updated>2022-11-16T09:17:13.415Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화이자 백신 접종하면 난소암에 걸린다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3884</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3884"/>
-        <updated>2022-11-16T09:17:13.416Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 백신은 탈모를 유발한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3860</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3860"/>
-        <updated>2022-11-16T09:17:13.417Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 감염됐더니 모유 색이 녹색으로 바뀌었다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3767</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3767"/>
-        <updated>2022-11-16T09:17:13.418Z</updated>
-        <content type="html"><![CDATA[절반의 사실]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종시 접종률 꼴찌, 공무원들이 백신 안 맞기 때문이다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3726</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3726"/>
-        <updated>2022-11-16T09:17:13.418Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부스터샷 오미크론에 무용하다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3720</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3720"/>
-        <updated>2022-11-16T09:17:13.419Z</updated>
-        <content type="html"><![CDATA[대체로 사실이 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종 간호사는 코로나19 대응 업무를 할 수 없다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3681</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3681"/>
-        <updated>2022-11-16T09:17:13.422Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동학대법 개정안은 자녀에게 코로나19 백신 접종을 안 시키는 부모를 자녀와 떨어뜨리도록 한다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3663</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3663"/>
-        <updated>2022-11-16T09:17:13.423Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자나라에만 집중된 부스터샷이 오미크론 확산 악영향을 준다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3646</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3646"/>
-        <updated>2022-11-16T09:17:13.427Z</updated>
-        <content type="html"><![CDATA[판단유보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 미접종자 혼밥 거부한 음식점에 벌금을 부과할 수 있다]]></title>
-        <id>https://m.news.naver.com/factcheck/end?id=3634</id>
-        <link href="https://m.news.naver.com/factcheck/end?id=3634"/>
-        <updated>2022-11-16T09:17:13.430Z</updated>
-        <content type="html"><![CDATA[전혀 사실 아님]]></content>
-    </entry>
 </feed>
